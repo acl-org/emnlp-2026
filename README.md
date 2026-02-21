@@ -1,6 +1,6 @@
-# EMNLP 2025 official website
+# EMNLP 2026 official website
 
-This is the code for the official website for the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025), based on the code for [EMNLP 2024](https://github.com/acl-org/emnlp-2024/), the following are the configuration details.
+This is the code for the official website for the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026), based on the code for [EMNLP 2025](https://github.com/acl-org/emnlp-2025/), the following are the configuration details.
 
 It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
