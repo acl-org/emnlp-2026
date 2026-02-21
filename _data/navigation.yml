@@ -105,8 +105,8 @@ committees:
     children:
       - title: "Organizing Committee"
         url: /organization/
-      - title: "Senior Area Chairs"
-        url: /organization/program/
+      # - title: "Senior Area Chairs"
+      #   url: /organization/program/
 
 venue:
   - title: "Information for"

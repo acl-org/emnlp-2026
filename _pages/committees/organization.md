@@ -17,9 +17,6 @@ govern_sponsor:
 
 {% include sponsors-list id="govern_sponsor" layout="third" %}
 
-
-### Under construction ...
-
 <!-- <h2>General Chair</h2>
 {% include committee-member.html
    name="Dirk Hovy"
@@ -28,46 +25,31 @@ govern_sponsor:
    role="General Chair"
    site="https://dirkhovy.com"
    picture="/assets/images/committee/Dirk-Hovy.jpg"
-%}
+%} -->
 
 <h2>Program Chairs</h2>
 
-<strong>Contact: </strong> emnlp2025-programchairs@googlegroups.com
-for program-related questions not covered in the [FAQ](https://2025.emnlp.org/faq/).
+<!-- <strong>Contact: </strong> emnlp2025-programchairs@googlegroups.com
+for program-related questions not covered in the [FAQ](https://2025.emnlp.org/faq/). -->
 
 {% include committee-member.html
-   name="Christos Christodoulopoulos"
-   institution="Information Commissioner's Office (ex-Amazon)"
-   email="christos.c2009@gmail.com"
+   name="Desmond Elliott"
+   institution="University of Copenhagen"
+   email="de@di.ku.dk"
    role="Program Chairs"
-   site="https://christos-c.com"
-   picture="/assets/images/committee/Christos-Christodoulopoulos.jpg"
+   site="https://elliottd.github.io/"
+   picture="/assets/images/committee/default.jpg"
 %}
 {% include committee-member.html
-   name="Tanmoy Chakraborty"
-   institution="Indian Institute of Technology Delhi"
-   email="chak.tanmoy.iit@gmail.com"
+   name="Sunipa Dev"
+   institution="Google Research"
+   email="sunipadev@google.com"
    role="Program Chairs"
-   site="https://tanmoychak.com/"
-   picture="/assets/images/committee/Tanmoy-Chakraborty.jpg"
-%}
-{% include committee-member.html
-   name="Carolyn Rose"
-   institution="Carnegie Mellon University (CMU)"
-   email="cp3a@andrew.cmu.edu"
-   role="Program Chairs$$"
-   site="https://www.lti.cs.cmu.edu"
-   picture="/assets/images/committee/Carolyn-Rose.jpg"
-%}
-{% include committee-member.html
-   name="Violet Peng"
-   institution="University of California, Los Angeles (UCLA)"
-   email="violetpeng@cs.ucla.edu"
-   role="Program Chairs"
-   site="https://violetpeng.github.io/"
-   picture="/assets/images/committee/Violet-Peng.jpg"
+   site="sunipa.github.io"
+   picture="/assets/images/committee/sunipa_dev.jpg"
 %}
 
+<!-- 
 <h2>Guest Program Chairs</h2>
 {% include committee-member.html
    name="Sarvnaz Karimi"
@@ -92,27 +74,19 @@ for program-related questions not covered in the [FAQ](https://2025.emnlp.org/fa
    role="Guest Program Chairs"
    site="https://u.osu.edu/white.1240"
    picture="/assets/images/committee/michael-white.jpg"
-%}
+%} -->
 
 <h2>Local Organizing Chairs</h2>
 {% include committee-member.html
-   name="Wei Ji"
-   institution="Nanjing University, Suzhou Campus"
-   email="weiji@nju.edu.cn"
+   name="Andras Kornai"
+   institution="SZTAKI Institute of Computer Science "
+   email="kornai@sztaki.hu"
    role="Local Organizing Chairs"
-   site=""
-   picture="/assets/images/committee/WeiJi.jpg"
-%}
-{% include committee-member.html
-   name="Jiaheng Liu"
-   institution="Nanjing University, Suzhou Campus"
-   email="liujiaheng@nju.edu.cn"
-   role="Local Organizing Chairs"
-   site=""
-   picture="/assets/images/committee/JiahengLiu.jpg"
+   site="https://kornai.com"
+   picture="/assets/images/committee/kornai.jpg"
 %}
 
-<h2>Industry Track Chairs</h2>
+<!-- <h2>Industry Track Chairs</h2>
 {% include committee-member.html
    name="Saloni Potdar"
    institution="Apple Inc."
@@ -199,27 +173,19 @@ for program-related questions not covered in the [FAQ](https://2025.emnlp.org/fa
    role="Sponsorship Chairs"
    site=""
    picture="/assets/images/default.jpg"
-%}
+%} -->
 
 <h2>Ethics Chairs</h2>
 {% include committee-member.html
-   name="Shashank Srivastava"
-   institution="University of North Carolina at Chapel Hill"
-   email="ssrivastava@cs.unc.edu"
+   name="Giuseppe Attanasio"
+   institution="Instituto de Telecomunicações"
+   email="gattanasio.work@gmail.com"
    role="Ethics Chairs"
-   site="https://www.ssriva.com"
-   picture="/assets/images/committee/Shashank-Srivastava.jpg"
-%}
-{% include committee-member.html
-   name="Anil Ramakrishna"
-   institution="Meta (ex-Amazon)"
-   email="anil.k.ramakrishna@gmail.com"
-   role="Ethics Chairs"
-   site="https://anilkramakrishna.github.io/"
-   picture="/assets/images/committee/Anil-Ramakrishna.jpg"
+   site="gattanasio.cc"
+   picture="/assets/images/committee/giuseppe_attanasio.jpg"
 %}
 
-<h2>Internal Communications Chairs</h2>
+<!-- <h2>Internal Communications Chairs</h2>
 {% include committee-member.html
    name="Juntao Li"
    institution="Soochow University"
@@ -235,61 +201,37 @@ for program-related questions not covered in the [FAQ](https://2025.emnlp.org/fa
    role="Internal Communications Chairs"
    site="https://steverw.com"
    picture="/assets/images/committee/Steven-Wilson.jpg"
-%}
+%} -->
 
 <h2>Demonstration Chairs</h2>
 {% include committee-member.html
-   name="Ivan Habernal"
-   institution="RC Trust; Ruhr University Bochum"
-   email="ivan.habernal@ruhr-uni-bochum.de"
+   name="Sweta Agrawal"
+   institution="Google Deepmind"
+   email="swetaagrawal@google.com"
    role="Demo Chairs"
-   site="https://www.trusthlt.org"
-   picture="/assets/images/committee/Ivan-Habernal.jpg"
+   site="https://sweta20.github.io/"
+   picture="/assets/images/committee/sweta_agrawal.jpg"
 %}
 {% include committee-member.html
-   name="Jörg Tiedemann"
-   institution="University of Helsinki"
-   email="jorg.tiedemann@helsinki.fi"
+   name="Alberto Abad"
+   institution="INESC-ID/Instituto Superior Técnico, Universidade de Lisboa"
+   email="alberto.abad@inesc-id.pt"
    role="Demo Chairs"
-   site="https://blogs.helsinki.fi/language-technology/"
-   picture="/assets/images/committee/Jorg-Tiedemann.jpg"
+   site="http://hlt.inesc-id.pt/~alberto/"
+   picture="/assets/images/committee/alberto_abad.jpg"
 %}
-{% include committee-member.html
-   name="Peter Schulam"
-   institution="Amazon AGI"
-   email="schulamp@amazon.com"
-   role="Demo Chairs"
-   site="https://pschulam.github.io/"
-   picture="/assets/images/committee/Peter-Schulam.jpg"
-%}
-
 
 <h2>Publication Chairs</h2>
 {% include committee-member.html
-   name="Shivashankar Subramanian"
-   institution="Amazon"
-   email="shivashankarrs@gmail.com"
+   name="Shaoxiong Ji"
+   institution="ELLIS Institute Finland & University of Turku"
+   email="shaoxiong.ji@utu.fi"
    role="Publication Chairs"
-   picture="/assets/images/committee/Shivashankar-Subramanian.jpg"
-%}
-{% include committee-member.html
-   name="Hyunsoo Cho"
-   institution="Ewha Womans University"
-   email="chohyunsoo@ewha.ac.kr"
-   role="Publication Chairs"
-   site="https://hyunsoocho77.github.io"
-   picture="/assets/images/committee/Hyunsoo-Cho.jpg"
-%}
-{% include committee-member.html
-   name="Mark Hopkins"
-   institution="Williams College"
-   email="mh24@williams.edu"
-   role="Publication Chairs"
-   site="https://markandrewhopkins.com"
-   picture="/assets/images/committee/Mark-Hopkins.jpg"
+   site="https://shaoxiongji.github.io"
+   picture="/assets/images/committee/sji.jpg"
 %}
 
-<h2>Best Publication Chairs</h2>
+<!-- <h2>Best Publication Chairs</h2>
 {% include committee-member.html
    name="Mirella Lapata"
    institution="University of Edinburgh"
@@ -315,56 +257,40 @@ for program-related questions not covered in the [FAQ](https://2025.emnlp.org/fa
    email="lucia.siciliani@uniba.it"
    role="Handbook Chairs"
    picture="/assets/images/committee/Lucia-Siciliani.jpg"
-%}
+%} -->
 
 <h2>Publicity Chairs</h2>
 {% include committee-member.html
-   name="Yash Kumar Lal"
-   institution="Stony Brook University"
-   email="ylal@cs.stonybrook.edu"
+   name="Yuki Arase"
+   institution="Institute of Science Tokyo"
+   email="arase@c.titech.ac.jp"
    role="Publicity Chairs"
-   site="https://ykl7.github.io"
-   picture="/assets/images/committee/Yash-Lal.jpg"
+   site="https://yukiar.github.io/"
+   picture="/assets/images/committee/yuki_arase.jpg"
 %}
 {% include committee-member.html
-   name="Aaron Mueller"
-   institution="Boston University"
-   email="amueller@bu.edu"
+   name="Eran Hirsch"
+   institution="Bar-Ilan University"
+   email="eran.hirsch@biu.ac.il"
    role="Publicity Chairs"
-   site="https://aaronmueller.github.io"
-   picture="/assets/images/committee/Aaron-Mueller.jpg"
-%}
-{% include committee-member.html
-   name="Dallas Card"
-   institution="University of Michigan"
-   email="dalc@umich.edu"
-   role="Publicity Chairs"
-   site="https://dallascard.github.io/"
-   picture="/assets/images/committee/Dallas-Card.jpg"
+   site="https://eranhirs.github.io/"
+   picture="/assets/images/committee/eran_hirsch.jpg"
 %}
 
 <h2>Student Volunteer Chairs</h2>
 
-<strong>Contact: </strong>emnlp2025-student-volunteer-chairs@googlegroups.com
+<!-- <strong>Contact: </strong>emnlp2025-student-volunteer-chairs@googlegroups.com -->
 
 {% include committee-member.html
-   name="Nedjma Ousidhoum"
-   institution="Cardiff University"
-   email="OusidhoumN@cardiff.ac.uk"
+   name="Nafise Sadat Moosavi"
+   institution="University of Sheffield"
+   email="n.s.moosavi@sheffield.ac.uk"
    role="Student Volunteer Chairs"
-   site="https://nedjmaou.github.io"
-   picture="/assets/images/committee/Nedjma-Ousidhoum.jpg"
-%}
-{% include committee-member.html
-   name="Anne Lauscher"
-   institution="University of Hamburg"
-   email="anne.lauscher@uni-hamburg.de"
-   role="Student Volunteer Chairs"
-   site="https://anne-lauscher.de"
-   picture="/assets/images/committee/Anne-Lauscher.jpg"
+   site="https://ns-moosavi.github.io/"
+   picture="/assets/images/committee/Nafise_m.jpg"
 %}
 
-<h2>Diversity and Inclusion Chairs</h2>
+<!-- <h2>Diversity and Inclusion Chairs</h2>
 {% include committee-member.html
    name="Chenxi Whitehouse"
    institution="Meta AI"
@@ -390,22 +316,22 @@ for program-related questions not covered in the [FAQ](https://2025.emnlp.org/fa
    role="Diversity and Inclusion Chairs"
    site="https://www.sutd.edu.sg/profile/roy-lee/"
    picture="/assets/images/committee/Roy-Ka-Wei-Lee.jpg"
-%}
+%} -->
 
 <h2>Website Chairs</h2>
 {% include committee-member.html
-   name="Marcelo Viridiano"
-   institution="Case Western Reserve University"
-   email="marcelo.viridiano@case.edu"
+   name="Raj Dabre"
+   institution="Google Research"
+   email = "prajdabre@gmail.com"
    role="Website Chairs"
-   site="https://viridiano.com"
-   picture="/assets/images/committee/Marcelo-Viridiano.jpg"
+   site="https://prajdabre.github.io/"
+   picture="/assets/images/committee/default.jpg"
 %}
 {% include committee-member.html
-   name="Haiyue Song"
-   institution="National Institute of<br>Information and Communications Technology"
-   email="haiyue.song@nict.go.jp"
+   name="Hour Kaing"
+   institution="NICT"
+   email="hour_kaing@nict.go.jp"
    role="Website Chairs"
-   site="https://shyyhs.github.io/"
-   picture="/assets/images/committee/Haiyue-Song.jpg"
-%} -->
+   site="https://hour.github.io/"
+   picture="/assets/images/committee/hour_kaing_nict.jpg"
+%}
