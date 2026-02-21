@@ -14,7 +14,7 @@ excerpt: "October 24 &ndash;29<br>Budapest, Hungary"
 ---
 
 ## Welcome!
-The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026) will be held in **Budapest, Hungary** from **October 24th** to **November 29th**, **2026**. EMNLP is organized by ACL's [SIGDAT](https://sigdat.org/).
+The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026) will be held in **Budapest, Hungary** from **October 24th** to **October 29th**, **2026**. EMNLP is organized by ACL's [SIGDAT](https://sigdat.org/).
 
 ## News
 
