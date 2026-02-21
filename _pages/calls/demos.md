@@ -9,7 +9,7 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-The EMNLP 2025 System Demonstration Program Committee invites proposals for the Demonstrations Program. Demonstrations may range from early research prototypes to mature production-ready systems. Publicly available open-source or open-access systems are of special interest. We additionally strongly encourage demonstrations of industrial systems that are technologically innovative given the current state of the art of theory and applied research in natural language processing.
+The EMNLP 2026 System Demonstration Program Committee invites proposals for the Demonstrations Program. Demonstrations may range from early research prototypes to mature production-ready systems. Publicly available open-source or open-access systems are of special interest. We additionally strongly encourage demonstrations of industrial systems that are technologically innovative given the current state of the art of theory and applied research in natural language processing.
 
 Areas of interest include all topics related to theoretical and applied natural language processing, such as (but not limited to) the topics listed on the main conference website.
 
@@ -24,7 +24,7 @@ Submitted systems may be of the following types:
 * Tools for model inspection  
 * Development tools  
 
-Papers describing accepted demonstrations will be published in a companion volume of the EMNLP 2025 conference proceedings. We require at least one of the authors to present a live demo during a demo session at EMLP 2025, with an accompanying poster.  
+Papers describing accepted demonstrations will be published in a companion volume of the EMNLP 2026 conference proceedings. We require at least one of the authors to present a live demo during a demo session at EMLP 2026, with an accompanying poster.  
 **Please note:** Commercial sales and marketing activities are not appropriate in the Demonstrations Program and should be arranged as part of the Exhibit Program.
 
 ## Important Dates
@@ -32,23 +32,23 @@ Papers describing accepted demonstrations will be published in a companion volum
 <table style="width: 100%; font-size: .9em;">
   <tr>
       <td style="width: 50%;">Paper submission deadline</td>
-      <td>Friday</td>
-      <td>July 4, 2025</td>
+      <td>TBA</td>
+      <td>TBA</td>
   </tr>
   <tr>
       <td>Notification of acceptance</td>
-      <td>Tuesday</td>
-      <td>September 9, 2025</td>
+      <td>TBA</td>
+      <td>TBA</td>
   </tr>
   <tr>
       <td>Camera ready submission</td>
-      <td>Friday</td>
-      <td>September 19, 2025</td>
+      <td>TBA</td>
+      <td>TBA</td>
   </tr>
   <tr>
       <td>Main Conference</td>
-      <td></td>
-      <td>November 5–9, 2025</td>
+      <td>TBA</td>
+      <td>TBA</td>
   </tr>
 </table>
 
@@ -74,11 +74,11 @@ A paper submitted to accompany a demonstration should outline the design of the 
 
 Note that this year, submissions that do not report any form of evaluation may be desk rejected.
 
-Paper submission is electronic, using the OpenReview conference management system. Please submit your papers [here](https://openreview.net/group?id=EMNLP/2025/System_Demonstrations).
+Paper submission is electronic, using the OpenReview conference management system. Please submit your papers [here](https://openreview.net/group?id=EMNLP/2026/System_Demonstrations).
 
 Submissions can contain up to **6 pages** (longer submissions will be desk rejected), plus unlimited extra space for an optional ethics/broader impact statement and also unlimited space for references and informative appendices. Accepted papers will be given one additional page of content to incorporate reviewers’ comments.
 
-Submissions must conform to the EMNLP 2025 official style guidelines and must be in PDF format. Submissions must describe original, unpublished work, as publication in EMNLP will be archival.  
+Submissions must conform to the EMNLP 2026 official style guidelines and must be in PDF format. Submissions must describe original, unpublished work, as publication in EMNLP will be archival.  
 Any papers that do not follow the official style guidelines and page limits will be desk rejected.
 
 **A Demonstration Video**
@@ -91,7 +91,7 @@ A link to a live demo website or a downloadable installation package is required
 
 ## Multiple Submission Policy
 
-We follow the Multiple Submission Policy of the EMNLP 2025 main conference. Submissions must not be under review or published elsewhere. Authors submitting multiple demo papers must ensure submissions do not overlap significantly (>25%) in content or results.
+We follow the Multiple Submission Policy of the EMNLP 2026 main conference. Submissions must not be under review or published elsewhere. Authors submitting multiple demo papers must ensure submissions do not overlap significantly (>25%) in content or results.
 
 ## Reviewing Policy
 
@@ -103,8 +103,8 @@ Authors must adhere to the [ACM Code of Ethics](https://www.acm.org/code-of-ethi
 
 ## Demonstration Co-chairs
 
-- Ivan Habernal, RC Trust; Ruhr University Bochum  
-- Peter Schulam, Amazon AGI  
-- Jörg Tiedemann, University of Helsinki  
+TBA
+<!-- - Name, Affiliation -->
 
-**Contact:** [emnlp25-demo-chairs@lists.ruhr-uni-bochum.de](mailto:emnlp25-demo-chairs@lists.ruhr-uni-bochum.de)
+**Contact:** TBA
+<!-- [emnlp25-demo-chairs@lists.ruhr-uni-bochum.de](mailto:emnlp25-demo-chairs@lists.ruhr-uni-bochum.de) -->

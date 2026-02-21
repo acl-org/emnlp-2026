@@ -21,7 +21,7 @@ Yes, you can edit the list on the camera-ready form, but make sure you read and 
 
 Yes, through the camera-ready form.
 
-**Where can I get a Visa invitation letter?**
+<!-- **Where can I get a Visa invitation letter?**
 
 If you require a Visa, you will be able to request an invitation letter through the conference registration form. You will also be given a link to request a Visa letter that you will need for your appointment. You can find out more information in the [Visa section](https://2025.emnlp.org/visa/) of the Participant’s Info.
 
@@ -35,4 +35,4 @@ You will be able to switch to a virtual attendance and get a refund of the price
 
 **How can I print my poster?**
 
-Please refer to the [Information for poster printing](https://2025.emnlp.org/poster-printing) page.
+Please refer to the [Information for poster printing](https://2025.emnlp.org/poster-printing) page. -->

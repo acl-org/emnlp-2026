@@ -4,11 +4,11 @@ main:
   - title: "Calls"
     url: /calls/main_conference_papers/
 
-  - title: "Program"
-    url: /program/
+  # - title: "Program"
+  #   url: /program/
 
-  - title: "Registration"
-    url: /registration/
+  # - title: "Registration"
+  #   url: /registration/
 
   - title: "Committees"
     url: /organization
@@ -16,8 +16,8 @@ main:
   - title: "Sponsors"
     url: /sponsors/
 
-  - title: "Participants Info"
-    url: /venue/
+  # - title: "Participants Info"
+  #   url: /venue/
 
   - title: "FAQ"
     url: /faq/
@@ -49,18 +49,18 @@ calls:
         url: /calls/main_conference_papers/
       - title: "System Demonstration"
         url: /calls/demos/
-      - title: "Industry Track"
-        url: /calls/industry_track/
-      - title: "Workshops"
-        url: /calls/workshops/
-      - title: "Call for Birds-of-a-Feather and Affinity Group Events"
-        url: /calls/bof/
-      - title: "Volunteers"
-        url: /calls/volunteers/
-      - title: "Diversity and Inclusion Subsidies"
-        url: /calls/subsidies/
-      - title: "Virtual Registration Subsidies"
-        url: /calls/virtual_subsidies/
+      # - title: "Industry Track"
+      #   url: /calls/industry_track/
+      # - title: "Workshops"
+      #   url: /calls/workshops/
+      # - title: "Call for Birds-of-a-Feather and Affinity Group Events"
+      #   url: /calls/bof/
+      # - title: "Volunteers"
+      #   url: /calls/volunteers/
+      # - title: "Diversity and Inclusion Subsidies"
+      #   url: /calls/subsidies/
+      # - title: "Virtual Registration Subsidies"
+      #   url: /calls/virtual_subsidies/
 
 program:
   - title: Programs

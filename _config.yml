@@ -17,22 +17,22 @@ livereload: true
 
 # Site Settings
 locale                   : "en-US"
-title                    : "EMNLP 2025"
+title                    : "EMNLP 2026"
 title_separator          : "-"
 name                     : "emnlp"
-description              : "Official website for the 2025 Conference on Empirical Methods in Natural Language Processing"
-url                      : "https://2025.emnlp.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Official website for the 2026 Conference on Empirical Methods in Natural Language Processing"
+url                      : "https://2026.emnlp.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #"naacl-org/naacl-2021-website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logos/emnlp_2025_logo_v1.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logos/emnlp_2026_logo_v0.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "          " # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "emnlp2025"
+    shortname            : "emnlp2026"
 reCaptcha:
   siteKey                :
   secret                 :
@@ -59,7 +59,7 @@ naver_site_verification  :
 twitter:
   username               : emnlpmeeting
 facebook:
-  username               : emnlp2025
+  username               : emnlp2026
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Haiyue Song"
+  name             : "Hour Kaing"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Contact me if any information need to be added to this website."
   location         : "Kyoto, Japan"
@@ -88,10 +88,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:haiyue.song@nict.go.jp
+      url: mailto:hour_kaing@nict.go.jp
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://shyyhs.github.io/"
+      url: "https://hour.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -119,7 +119,7 @@ footer:
     #   url: https://facebook.com/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/acl-org/emnlp-2025/
+      url: https://github.com/acl-org/emnlp-2026/
       #url: https://github.com/FreedomIntelligence/FreedomIntelligence.github.io
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"

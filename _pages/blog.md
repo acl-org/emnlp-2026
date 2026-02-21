@@ -1,5 +1,5 @@
 ---
-title: EMNLP 2025 Blog
+title: EMNLP 2026 Blog
 layout: archive
 permalink: /blog/
 author_profile: false

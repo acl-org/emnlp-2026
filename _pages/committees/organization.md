@@ -5,9 +5,22 @@ excerpt: "EMNLP 2025 organizing committee."
 permalink: /organization/
 sidebar:
   nav: "committees"
+
+govern_sponsor:
+  - url: https://sigdat.org/
+    # image_path: /assets/images/logos/SIGDAT-logo.png
+    alt: SIGDAT
+    title: SIGDAT
 ---
 
-<h2>General Chair</h2>
+## Organized by
+
+{% include sponsors-list id="govern_sponsor" layout="third" %}
+
+
+### Under construction ...
+
+<!-- <h2>General Chair</h2>
 {% include committee-member.html
    name="Dirk Hovy"
    institution="Bocconi University"
@@ -395,4 +408,4 @@ for program-related questions not covered in the [FAQ](https://2025.emnlp.org/fa
    role="Website Chairs"
    site="https://shyyhs.github.io/"
    picture="/assets/images/committee/Haiyue-Song.jpg"
-%}
+%} -->

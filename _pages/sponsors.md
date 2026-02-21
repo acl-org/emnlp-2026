@@ -155,7 +155,7 @@ di_ally:
 
 ---
 
-EMNLP 2025 invites you to sponsor the conference. If your organization would like to sponsor the EMNLP, please refer to our [Sponsorship Booklet](/assets/Sponsorship%20brochure%20for%20ACL%202025%20conferences.pdf) for information about sponsorship rates and benefits. For any questions regarding sponsorship, please contact the sponsorship chairs: Joel Tetreault (<jtetreault@dataminr.com>) and Mengwen Liu (<mengwenliu09@gmail.com>). The deadline to sponsor EMNLP 2025 is Wednesday, September 10, 2025.
+EMNLP 2026 invites you to sponsor the conference. If your organization would like to sponsor the EMNLP, please refer to our [Sponsorship Booklet](/assets/Sponsorship%20brochure%20for%20ACL%202026%20conferences.pdf) for information about sponsorship rates and benefits. For any questions regarding sponsorship, please contact the sponsorship chairs: Name (<email@email.com>). The deadline to sponsor EMNLP 2026 is TBA.
 
 <style>
 .sponsors-list { justify-content: flex-start; }
@@ -180,28 +180,28 @@ EMNLP 2025 invites you to sponsor the conference. If your organization would lik
 
 ## Destination Host
 
-{% include sponsors-list id="destination_host" layout="third" %}
+<!-- {% include sponsors-list id="destination_host" layout="third" %} -->
 
 ## Diamond
 
-{% include sponsors-list id="diamond" layout="third" %}
+<!-- {% include sponsors-list id="diamond" layout="third" %} -->
 
 ## Platinum
 
-{% include sponsors-list id="platinum" layout="third" %}
+<!-- {% include sponsors-list id="platinum" layout="third" %} -->
 
 ## Gold
 
-{% include sponsors-list id="gold" layout="third" %}
+<!-- {% include sponsors-list id="gold" layout="third" %} -->
 
 ## Silver
 
-{% include sponsors-list id="silver" layout="third" %}
+<!-- {% include sponsors-list id="silver" layout="third" %} -->
 
 ## Bronze
 
-{% include sponsors-list id="bronze" layout="third" %}
+<!-- {% include sponsors-list id="bronze" layout="third" %} -->
 
 ## Diversity and Inclusion: Ally
 
-{% include sponsors-list id="di_ally" layout="third" %}
+<!-- {% include sponsors-list id="di_ally" layout="third" %} -->
