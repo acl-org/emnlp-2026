@@ -35,7 +35,7 @@ Author response and author-reviewer discussion | TBA
 Commitment deadline | August 2, 2026
 Notification of acceptance (long & short papers) | TBA
 Camera-ready papers due (long & short) | TBA
-Main Conference (dates for Workshops/Tutorials TBD) | November 24-29, 2026
+Main Conference (dates for Workshops/Tutorials TBD) | October 24-29, 2026
 
 **Note: All deadlines are 11:59PM [UTC -12:00](https://www.timeanddate.com/time/zone/timezone/utc-12) ("anywhere on Earth").**
 
