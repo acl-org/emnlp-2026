@@ -8,8 +8,7 @@ layout: splash
 permalink: /
 header:
   overlay_image: "/assets/images/logos/emnlp_2026_background_v0.jpg"
-  #caption: 'Photo from <a href="https://drive.google.com/drive/u/0/folders/10XXSEjTNDmrwU0tqL58la1n3YlE-g4V8">EMNLP 2026 Website Image.png</a> '
-  caption: "Photo by 4045 from Getty Images"
+  caption: "Photo by Jakub Hałun from Wikimedia"
 excerpt: "October 24 &ndash;29<br>Budapest, Hungary"
 ---
 
