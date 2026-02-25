@@ -184,6 +184,14 @@ for program-related questions not covered in the [FAQ](https://2025.emnlp.org/fa
    site="gattanasio.cc"
    picture="/assets/images/committee/giuseppe_attanasio.jpg"
 %}
+{% include committee-member.html
+   name="Anil Ramakrishna"
+   institution="Meta"
+   email="anil.k.ramakrishna@gmail.com"
+   role="Ethics Chairs"
+   site="https://anilkramakrishna.github.io/"
+   picture="/assets/images/committee/anil.jpg"
+%}
 
 <!-- <h2>Internal Communications Chairs</h2>
 {% include committee-member.html
@@ -329,7 +337,7 @@ for program-related questions not covered in the [FAQ](https://2025.emnlp.org/fa
 %}
 {% include committee-member.html
    name="Hour Kaing"
-   institution="NICT"
+   institution="National Institute of Information and Communications Technology"
    email="hour_kaing@nict.go.jp"
    role="Website Chairs"
    site="https://hour.github.io/"
