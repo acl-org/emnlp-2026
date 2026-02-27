@@ -35,7 +35,7 @@ for program-related questions not covered in the [FAQ](https://2025.emnlp.org/fa
    institution="Google Research"
    email="sunipadev@google.com"
    role="Program Chairs"
-   site="sunipa.github.io"
+   site="https://sunipa.github.io"
    picture="/assets/images/committee/sunipa_dev.jpg"
 %}
 {% include committee-member.html
@@ -191,7 +191,7 @@ for program-related questions not covered in the [FAQ](https://2025.emnlp.org/fa
    institution="Instituto de Telecomunicações"
    email="gattanasio.work@gmail.com"
    role="Ethics Chairs"
-   site="gattanasio.cc"
+   site="https://gattanasio.cc"
    picture="/assets/images/committee/giuseppe_attanasio.jpg"
 %}
 {% include committee-member.html
