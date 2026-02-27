@@ -21,20 +21,22 @@ The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| Feb. 27, 2026 | [First call for papers](https://2026.emnlp.org/calls/main_conference_papers/) is out!
 | Feb. 24, 2026 | The website is launched.
 {: .news-table}
 
 
 ## Important Dates
 
-ARR submission deadline (long & short papers) | May 25, 2026
-Reviewer registration deadline for ALL authors | TBA
-Review submission deadline | TBA
-Author response and author-reviewer discussion | TBA
-Commitment deadline | August 2, 2026
-Notification of acceptance (long & short papers) | TBA
-Camera-ready papers due (long & short) | TBA
-Main Conference (dates for Workshops/Tutorials TBD) | October 24-29, 2026
+| ARR submission deadline (long & short papers) | May 25, 2026 |
+| :---- | :---- |
+| Reviewer registration deadline for ALL authors | May 27, 2026 |
+| Author response and author-reviewer discussion | July 7 \- July 13, 2026 |
+| Meta review released  | July 30, 2026 |
+| EMNLP commitment deadline  | August 2, 2026 |
+| Notification of acceptance (long & short papers) | August 20, 2026 |
+| Camera-ready papers due (long & short) | September 20, 2026 |
+| Main Conference (dates for Workshops/Tutorials TBD) | October 22 \- 26, 2026 |
 
-**Note: All deadlines are 11:59PM [UTC -12:00](https://www.timeanddate.com/time/zone/timezone/utc-12) ("anywhere on Earth").**
+**Note: All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).**
 

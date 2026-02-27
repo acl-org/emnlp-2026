@@ -2,7 +2,7 @@
 #in masthead.html
 main:
   - title: "Calls"
-    url: /coming_soon.html
+    url: /calls/main_conference_papers/
 
   # - title: "Program"
   #   url: /program/
@@ -45,8 +45,8 @@ calls:
       #  url: /calls/subsidies/
       # - title: "Volunteers"
       #   url: /volunteers 
-      # - title: "Main Conference Papers"
-      #   url: /calls/main_conference_papers/
+      - title: "Main Conference Papers"
+        url: /calls/main_conference_papers/
       # - title: "System Demonstration"
       #   url: /calls/demos/
       # - title: "Industry Track"

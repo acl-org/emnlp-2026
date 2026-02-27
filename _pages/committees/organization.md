@@ -17,21 +17,27 @@ govern_sponsor:
 
 {% include sponsors-list id="govern_sponsor" layout="third" %}
 
-<!-- <h2>General Chair</h2>
+<h2>General Chair</h2>
 {% include committee-member.html
-   name="Dirk Hovy"
-   institution="Bocconi University"
-   email="dirk.hovy@unibocconi.it"
+   name="André Martins"
+   institution="Instituto Superior Técnico, Universidade de Lisboa"
    role="General Chair"
-   site="https://dirkhovy.com"
-   picture="/assets/images/committee/Dirk-Hovy.jpg"
-%} -->
+   picture="/assets/images/committee/default.jpg"
+%}
 
 <h2>Program Chairs</h2>
 
 <!-- <strong>Contact: </strong> emnlp2025-programchairs@googlegroups.com
 for program-related questions not covered in the [FAQ](https://2025.emnlp.org/faq/). -->
 
+{% include committee-member.html
+   name="Sunipa Dev"
+   institution="Google Research"
+   email="sunipadev@google.com"
+   role="Program Chairs"
+   site="sunipa.github.io"
+   picture="/assets/images/committee/sunipa_dev.jpg"
+%}
 {% include committee-member.html
    name="Desmond Elliott"
    institution="University of Copenhagen"
@@ -41,12 +47,16 @@ for program-related questions not covered in the [FAQ](https://2025.emnlp.org/fa
    picture="/assets/images/committee/default.jpg"
 %}
 {% include committee-member.html
-   name="Sunipa Dev"
-   institution="Google Research"
-   email="sunipadev@google.com"
+   name="Hung-yi Lee"
+   institution="National Taiwan University"
    role="Program Chairs"
-   site="sunipa.github.io"
-   picture="/assets/images/committee/sunipa_dev.jpg"
+   picture="/assets/images/committee/default.jpg"
+%}
+{% include committee-member.html
+   name="Jessy Li"
+   institution="The University of Texas at Austin"
+   role="Program Chairs"
+   picture="/assets/images/committee/default.jpg"
 %}
 
 <!-- 
