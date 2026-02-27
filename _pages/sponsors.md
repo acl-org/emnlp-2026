@@ -155,7 +155,7 @@ di_ally:
 
 ---
 
-EMNLP 2026 invites you to sponsor the conference. If your organization would like to sponsor the EMNLP, please refer to our [Sponsorship Booklet](/assets/Sponsorship%20brochure%20for%20ACL%202026%20conferences.pdf) for information about sponsorship rates and benefits. For any questions regarding sponsorship, please contact the sponsorship chairs: Name (<email@email.com>). The deadline to sponsor EMNLP 2026 is TBA.
+EMNLP 2026 invites you to sponsor the conference. If your organization would like to sponsor the EMNLP, please refer to our [Sponsorship Booklet](/assets/Sponsorship%20brochure%20for%20ACL%202026%20conferences.pdf) for information about sponsorship rates and benefits. For any questions regarding sponsorship, please contact the sponsorship chairs: [TBA]. The deadline to sponsor EMNLP 2026 is [TBA].
 
 <style>
 .sponsors-list { justify-content: flex-start; }
