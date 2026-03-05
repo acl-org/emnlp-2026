@@ -38,7 +38,7 @@ There is growing concern in our community regarding unethical paper submissions 
 
 ## **Paper Submission Information**
 
-**Dual submissions are not allowed\!** Please check the [ARR Multiple Submission Policy](https://aclrollingreview.org/cfp#:~:text=Multiple%20Submission%20Policy) for details. Papers must be submitted to the [ARR 2026](https://openreview.net/group?id=aclweb.org%2FACL%2FARR%2F2026) May cycle. Papers that have received reviews and a meta-review from ARR (whether from the ARR 2026 May cycle or an earlier ARR cycle) may be committed to EMNLP via the [commitment link](https://openreview.net/group?id=EMNLP).
+**Dual submissions are not allowed\!** Please check the [ARR Multiple Submission Policy](https://aclrollingreview.org/cfp#:~:text=Multiple%20Submission%20Policy) for details. Papers must be submitted, at latest, by the [ARR 2026](https://openreview.net/group?id=aclweb.org%2FACL%2FARR%2F2026) May cycle. Papers that have received reviews and a meta-review from ARR (whether from the ARR 2026 May cycle or an earlier ARR cycle) may be committed to EMNLP via the [commitment link](https://openreview.net/group?id=EMNLP).
 
 ## **Mandatory Reviewing Workload**
 
