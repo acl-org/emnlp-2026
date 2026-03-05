@@ -67,22 +67,6 @@ govern_sponsor:
    picture="/assets/images/committee/default.jpg"
 %}
 
-<h2>Local Organizing Chairs</h2>
-{% include committee-member.html
-   name="TBD"
-   institution=""
-   email = ""
-   role="Local Organizing Chairs"
-   picture="/assets/images/committee/default.jpg"
-%}
-{% include committee-member.html
-   name="TBD"
-   institution=""
-   email = ""
-   role="Local Organizing Chairs"
-   picture="/assets/images/committee/default.jpg"
-%}
-
 <h2>Industry Track Chairs</h2>
 {% include committee-member.html
    name="Pepa Atanasova"
@@ -221,15 +205,6 @@ govern_sponsor:
    picture="/assets/images/committee/default.jpg"
 %}
 
-<h2>Handbook Chairs</h2>
-{% include committee-member.html
-   name="TBD"
-   institution=""
-   email = ""
-   role="Handbook Chairs"
-   picture="/assets/images/committee/default.jpg"
-%}
-
 <h2>Publicity Chairs</h2>
 {% include committee-member.html
    name="Yuki Arase"
@@ -247,26 +222,12 @@ govern_sponsor:
    site="https://eranhirs.github.io/"
    picture="/assets/images/committee/eran_hirsch.jpg"
 %}
-{% include committee-member.html
-   name="TBD"
-   institution=""
-   email = ""
-   role="Publicity Chairs"
-   picture="/assets/images/committee/default.jpg"
-%}
 
 <h2>Student Volunteer Chairs</h2>
 {% include committee-member.html
    name="Nafise S Moosavi"
    institution="University of Sheffield"
    email = "n.s.moosavi@sheffield.ac.uk"
-   role="Student Volunteer Chairs"
-   picture="/assets/images/committee/default.jpg"
-%}
-{% include committee-member.html
-   name="TBD"
-   institution=""
-   email = ""
    role="Student Volunteer Chairs"
    picture="/assets/images/committee/default.jpg"
 %}
