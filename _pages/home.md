@@ -36,7 +36,7 @@ The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2
 | EMNLP commitment deadline  | August 2, 2026 |
 | Notification of acceptance (long & short papers) | August 20, 2026 |
 | Camera-ready papers due (long & short) | September 20, 2026 |
-| Main Conference (dates for Workshops/Tutorials TBD) | October 22 \- 26, 2026 |
+| Main Conference (dates for Workshops/Tutorials TBD) | October 24 \- 29, 2026 |
 
 **Note: All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).**
 
