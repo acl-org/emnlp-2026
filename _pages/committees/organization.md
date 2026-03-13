@@ -31,7 +31,8 @@ Contact: emnlp2026-programchairs@googlegroups.com
    name="Hung-Yi Lee"
    institution="National Taiwan University"
    role="Program Chairs"
-   picture="/assets/images/committee/default.jpg"
+   site="https://speech.ee.ntu.edu.tw/~hylee/"
+   picture="/assets/images/committee/hung-yi.png"
 %}
 {% include committee-member.html
    name="Sunipa Dev"
@@ -226,7 +227,7 @@ Contact: emnlp2026-programchairs@googlegroups.com
    name="Spandana Gella"
    institution="Service Now"
    role="Diversity and Inclusion Chairs"
-   picture="/assets/images/committee/default.jpg"
+   picture="/assets/images/committee/spandana.jpeg"
 %}
 
 <h2>Website Chairs</h2>
@@ -249,7 +250,8 @@ Contact: emnlp2026-programchairs@googlegroups.com
    name="Cheng-Han Chiang"
    institution="National Taiwan University"
    role="Workflow Chair"
-   picture="/assets/images/committee/default.jpg"
+   site="https://d223302.github.io/"
+   picture="/assets/images/committee/cheng-han.png"
 %}
 {% include committee-member.html
    name="Sebastian Joseph"
