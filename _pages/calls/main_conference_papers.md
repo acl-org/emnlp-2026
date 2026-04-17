@@ -69,7 +69,7 @@ EMNLP 2026 aims to have a broad technical program. Relevant topics for the confe
 * Interpretability and Analysis of Models for NLP  
 * Language Modeling  
 * LLM Agents  
-* LLM Security  
+<!-- * LLM Security   -->
 * Linguistic Theories, Cognitive Modeling, and Psycholinguistics  
 * Machine Learning for NLP  
 * Machine Translation  

@@ -47,6 +47,8 @@ calls:
       #   url: /volunteers 
       - title: "Main Conference Papers"
         url: /calls/main_conference_papers/
+      - title: "Tutorials"
+        url: /calls/tutorials/      
       # - title: "System Demonstration"
       #   url: /calls/demos/
       # - title: "Industry Track"
