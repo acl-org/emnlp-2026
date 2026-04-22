@@ -13,8 +13,8 @@ main:
   - title: "Committees"
     url: /organization
 
-  - title: "Sponsors"
-    url: /sponsors/
+  # - title: "Sponsors"
+  #   url: /sponsors/
 
   # - title: "Participants Info"
   #   url: /venue/
