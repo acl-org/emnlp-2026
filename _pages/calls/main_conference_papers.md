@@ -38,7 +38,9 @@ There is growing concern in our community regarding unethical paper submissions 
 
 ## **Paper Submission Information**
 
-**Dual submissions are not allowed\!** Please check the [ARR Multiple Submission Policy](https://aclrollingreview.org/cfp#:~:text=Multiple%20Submission%20Policy) for details. Papers must be submitted, at latest, by the [ARR 2026](https://openreview.net/group?id=aclweb.org%2FACL%2FARR%2F2026) May cycle. Papers that have received reviews and a meta-review from ARR (whether from the ARR 2026 May cycle or an earlier ARR cycle) may be committed to EMNLP via the [commitment link](https://openreview.net/group?id=EMNLP).
+**NEW ARR 2026 May submission policy for EMNLP:** Given that the ARR 2026 May cycle is aligned with two conferences (EMNLP and AACL), authors will need to explicitly declare which conference they intend to commit to at submission time. This choice will be binding for EMNLP 2026: i.e., ARR 2026 May submissions that do not select EMNLP 2026 during submission will not be able to commit to EMNLP 2026\. This policy does NOT apply to any papers submitted and reviewed in prior ARR cycles that wish to commit to EMNLP.
+
+**Dual submissions are not allowed\!** Please check the [ARR Call for Papers](https://aclrollingreview.org/cfp#:~:text=Multiple%20Submission%20Policy) for details. Papers must be submitted, at latest, by the [ARR 2026](https://openreview.net/group?id=aclweb.org%2FACL%2FARR%2F2026) May cycle. Papers that have received reviews and a meta-review from ARR (whether from the ARR 2026 May cycle or an earlier ARR cycle) may be committed to EMNLP via the [commitment link](https://openreview.net/group?id=EMNLP).
 
 ## **Mandatory Reviewing Workload**
 
