@@ -65,6 +65,7 @@ Contact: emnlp2026-programchairs@googlegroups.com
 %}
 
 <h2>Industry Track Chairs</h2>
+Contact: emnlp2026-industry-track@googlegroups.com
 {% include committee-member.html
    name="Pepa Atanasova"
    institution="University of Copenhagen"
