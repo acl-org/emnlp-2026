@@ -1,7 +1,7 @@
 ---
 title: Organizing Committee
 layout: single
-excerpt: "EMNLP 2025 organizing committee."
+excerpt: "EMNLP 2026 organizing committee."
 permalink: /organization/
 sidebar:
   nav: "committees"
@@ -69,13 +69,15 @@ Contact: emnlp2026-programchairs@googlegroups.com
    name="Pepa Atanasova"
    institution="University of Copenhagen"
    role="Industry Track Chairs"
-   picture="/assets/images/committee/default.jpg"
+   site="https://apepa.github.io/"
+   picture="/assets/images/committee/pepa.png"
 %}
 {% include committee-member.html
    name="Gholamreza Haffari"
    institution="Monash University"
    role="Industry Track Chairs"
-   picture="/assets/images/committee/default.jpg"
+   site="https://rezahaffari.github.io/HomePage/HomePage.html"
+   picture="/assets/images/committee/reza.jpg"
 %}
 
 <h2>Workshop Chairs</h2>
@@ -106,7 +108,7 @@ Contact: emnlp2026-programchairs@googlegroups.com
    picture="/assets/images/committee/default.jpg"
 %}
 {% include committee-member.html
-   name="Ana Marosovic"
+   name="Ana Marasovic"
    institution="University of Utah"
    role="Tutorial Chairs"
    picture="/assets/images/committee/default.jpg"
@@ -123,7 +125,8 @@ Contact: emnlp2026-programchairs@googlegroups.com
    name="Matthias Gallé"
    institution="Cohere"
    role="Sponsorship Chairs"
-   picture="/assets/images/committee/default.jpg"
+   site="https://www.linkedin.com/in/mgalle/"
+   picture="/assets/images/committee/mgalle.png"
 %}
 
 <h2>Ethics Chairs</h2>
@@ -227,6 +230,7 @@ Contact: emnlp2026-programchairs@googlegroups.com
    name="Spandana Gella"
    institution="Service Now"
    role="Diversity and Inclusion Chairs"
+   site="https://spandanagella.github.io/"
    picture="/assets/images/committee/spandana.jpeg"
 %}
 
