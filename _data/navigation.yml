@@ -51,8 +51,8 @@ calls:
         url: /calls/tutorials/      
       # - title: "System Demonstration"
       #   url: /calls/demos/
-      # - title: "Industry Track"
-      #   url: /calls/industry_track/
+      - title: "Industry Track"
+        url: /calls/industry_track/
       # - title: "Workshops"
       #   url: /calls/workshops/
       # - title: "Call for Birds-of-a-Feather and Affinity Group Events"
