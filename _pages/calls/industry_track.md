@@ -9,22 +9,26 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-*Conference*: October 24-29, 2026  
-*Location*: Budapest, Hungary  
-*Paper submission deadline*: June 16, 2026 (11:59 PM UTC-12:00, AoE)  
-*Submission link:* TBA
+**Conference:** October 24–29, 2026  
+**Location:** Budapest, Hungary  
+**Paper submission deadline:** June 16, 2026 (11:59 PM UTC-12:00, AoE)  
+**Submission link:** TBA
 
-**Background**  
+---
+
+## Background
+
 Language technologies are now integral to real-world systems across industries. While many advances originate in controlled research environments, both academic and industrial research laboratories, deploying these technologies in production raises challenges that rarely surface in controlled lab settings. Challenges can include latency and cost constraints, shifting user behaviour, maintenance over time, evaluation without clean test sets, integration with human workflows, and trade-offs between quality and practicality. To provide a forum to address these multifaceted issues, we are seeking submissions that not only dive into research but also demonstrate the application of systems in real-world scenarios, irrespective of whether they involve proprietary data. We invite submissions that describe the design, development, deployment, or analysis of NLP and speech systems in real-world settings.
 
-**Topics**  
+## Topics
+
 We invite submissions describing innovations and implementations in all areas of speech and language technologies for real-world applications. The primary focus of this track is on papers that advance the understanding of, and demonstrate the effective handling of, practical challenges related to the deployment of language processing and generation systems, including those based on large language models, in non-trivial real-world settings. Such real-world systems include applications that are used outside controlled environments such as laboratories, classrooms, or experimental crowdsourcing setups. 
 
 Submissions may describe systems that are not necessarily state-of-the-art in terms of research, but that demonstrate meaningful use of NLP and/or speech technologies in practice. We encourage submissions from both non-profit and for-profit sectors, with the understanding that the end-users of these systems extend beyond the NLP community. Submissions are not restricted to industry authors or to proprietary data \-- academic work on genuinely deployed systems is equally welcome, as are negative results, lessons learned, and vision papers grounded in deployment experience. Please note that if submissions involve proprietary data, there is no requirement to make this data available. Overall, this track aims to highlight key insights, lessons learned, and emerging research challenges that arise from real-world implementations of language technologies.
 
 **Relevant areas include (topics in alphabetical order, including, but not limited to):**
 
-**A. System design, efficiency, maintainability and scalability of real-world applications:**
+### A. System design, efficiency, maintainability and scalability of real-world applications
 
 * Benchmarks and methods for latency and efficiency optimisation  
 * Continuous maintenance and system evolution  
@@ -36,7 +40,7 @@ Submissions may describe systems that are not necessarily state-of-the-art in te
 * Negative results related to real-world applications  
 * System combination and orchestration
 
-**B. Novel applications and use cases:**
+### B. Novel applications and use cases
 
 * Best practices and lessons learned  
 * Case studies, from design to deployment  
@@ -45,7 +49,7 @@ Submissions may describe systems that are not necessarily state-of-the-art in te
 * Development under practical constraints (model or data size)  
 * Novel applications and novel, previously unsolved problems
 
-**C. Methods for deployed systems:**
+### C. Methods for deployed systems
 
 * Ethics, bias, fairness, harmlessness and trustworthiness in deployed systems  
 * Evaluation methodologies (offline and online)  
@@ -56,13 +60,16 @@ Submissions may describe systems that are not necessarily state-of-the-art in te
 
 In addition, opinion/vision papers related to real-world applications are also welcome.
 
-**Important Dates**  
-**Submission Deadline:** June 16, 2026  
-**Review Release/Rebuttal Begins:** July 30, 2026  
-**Author Response Deadline:** August 6, 2026  
-**Notification of Acceptance:** August 20, 2026  
-**Camera-ready Deadline:** September 20, 2026  
-**Conference:** October 24-29, 2026
+## Important Dates
+
+| Event | Date |
+|---|---|
+| Submission Deadline | June 16, 2026 |
+| Review Release / Rebuttal Begins | July 30, 2026 |
+| Author Response Deadline | August 6, 2026 |
+| Notification of Acceptance | August 20, 2026 |
+| Camera-ready Deadline | September 20, 2026 |
+| Conference | October 24–29, 2026 |
 
 All deadlines are 11.59 pm [UTC \-12h](https://www.timeanddate.com/time/zone/timezone/utc-12) (anywhere on earth).
 
@@ -70,10 +77,12 @@ Following the [ACL Policies for Review and Citation](https://www.aclweb.org/admi
 
 **Please note that the EMNLP 2026 Industry Track does not use ARR\!**
 
-**Evaluation and Decision Criteria**  
+## Evaluation and Decision Criteria
+
 Submissions will be reviewed in a double-blind manner and assessed based on their novelty, technical quality, potential impact, and clarity. Submissions to the industry track should emphasise real-world implementations of NLP systems, the development of such systems, or provide insights based on real-world datasets with obvious industry impact. For papers that rely heavily on empirical evaluations, the experimental methods and results should be clear, well executed, and reproducible (though the data may be proprietary); in that regard, due to the type of work we expect to be submitted to the Industry Track, we ask authors to pay specific attention to their evaluation methodologies (human vs. automated).
 
-**Submission Requirements**  
+## Submission Requirements
+
 Authors are invited to submit original, full-length (maximum of 6 pages) industry track papers that are not previously published, accepted to be published, or under consideration for publication in any other forum. Manuscripts should be submitted electronically, in PDF format and formatted using the templates available [here](https://acl-org.github.io/ACLPUB/formatting.html). Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be desk-rejected.
 
 **Length and appendices**: Industry Track papers cannot exceed 6 pages in length (excluding ethical considerations and references). References and limitations sections do not count toward the page limit, nor do the following optional sections: acknowledgements (only in the final version), ethical considerations, and appendices.
@@ -100,7 +109,7 @@ The final version should remove anonymisation in text, citation, and figures. Fo
 
 **Presentation Mode**: Accepted papers will be presented orally or as posters, as determined by the program committee. The decisions as to which papers will be presented orally and which as poster presentations will be based on the nature rather than the quality of the work. There will be no distinction in the proceedings between papers presented orally or as posters
 
-**Authorship**: The author list for submissions should include all (and only) individuals who made substantial contributions to the work presented. Each author listed on a submission to the EMNLP 2026 Industry Track will be notified of submissions and the final decision. No changes to the order or composition of authorship may be made to submissions to the EMNLP 2026 Industry Track after the paper submission deadline
+## Multiple Submission Policy
 
 **Multiple Submission Policy**  
 EMNLP 2026 will not consider any paper that is under review in a journal or another conference at the time of submission, and submitted papers must not be submitted elsewhere during the EMNLP 2026 review period. This policy covers all refereed and archival conferences and workshops (e.g., NeurIPS, EMNLP workshops), as well as ARR. In addition, we will not consider any paper that overlaps significantly in content or results with papers that have been (or will be) published elsewhere. Authors submitting more than one paper to EMNLP 2026 must ensure that their submissions do not overlap significantly (\>25%) with each other in content or results.
@@ -109,16 +118,21 @@ Submissions of identical or closely related work to multiple EMNLP 2026 tracks (
 
 Furthermore, there is a growing risk of multiple submissions from nearly identical groups of co-authors, where the papers cover largely overlapping topics with only minor methodological variations – often facilitated by generative AI tools. In order to address this concern, we are extending and reinforcing our multiple submission policy for the EMNLP 2026 Industry Track as follows: all papers submitted by the same or almost identical group of co-authors will be treated as related prior work. For any such submissions that cover overlapping or closely related topics, the authors must ensure mutual citation between the papers and include discussions of each work within the main body. Additionally, anonymised PDF files of these cited concurrent submissions must be provided in the supplementary materials. Failure to comply with this policy may result in the rejection of all non-compliant submissions.
 
-**Ethics Policy**  
+## Ethics Policy
+
 Authors are required to honour the ethical code set out in the [ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics). The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code and ensure that their work conforms to this code. Where a paper may raise ethical issues, we ask that you include in the paper an explicit discussion of these issues, which will be taken into account in the review process. We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics or have inadequately addressed legitimate ethical concerns with their work.
 
 Authors will be allowed extra space after the sixth page for an optional broader impact statement or other discussion of ethics. The EMNLP review form will include a section addressing these issues, and papers flagged for ethical concerns by reviewers or ACs will be further reviewed by an ethics committee. Note that an ethical considerations section is not required, but papers working with sensitive data or on sensitive tasks that do not discuss these issues will not be accepted. Conversely, the mere inclusion of an ethical considerations section does not guarantee acceptance. In addition to acceptance or rejection, papers may receive a conditional acceptance recommendation. Camera-ready versions of papers designated as conditionally accepted will be re-reviewed by the ethics committee to determine whether the concerns have been adequately addressed. Please read the [ethics FAQ](https://2021.emnlp.org/call-for-papers/ethics-faq) for more guidance on some problems to look out for and key concerns to consider relative to the code of ethics.
 
-**Contact Information**  
-Industry Track Co-Chairs:   
+## Contact Information
+
+**Industry Track Co-Chairs:**
+
 [Pepa Atanasova](https://apepa.github.io/) (University of Copenhagen)   
 [Gholamreza Haffari](https://rezahaffari.github.io/HomePage/HomePage.html) (Monash University and Openstream AI)   
-Email: emnlp2026-industry-track@googlegroups.com
+**Email:** emnlp2026-industry-track@googlegroups.com
+
+## Frequently Asked Questions
 
 **Frequently Asked Questions**  
 *Is the Industry Track only for participants from industry?* No, the Industry Track welcomes participants from the entire ACL community. Researchers working on real-world applications that match the Industry Track call for papers are invited to submit papers. Everyone is welcome to attend Industry Track sessions.
