@@ -21,6 +21,7 @@ The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| Apr. 25, 2026 | [First call for industry track](https://2026.emnlp.org/calls/industry_track/) is out!
 | Apr. 17, 2026 | [First call for tutorials](https://2026.emnlp.org/calls/tutorials/) is out!
 | Feb. 27, 2026 | [First call for papers](https://2026.emnlp.org/calls/main_conference_papers/) is out!
 | Feb. 24, 2026 | The website is launched.
