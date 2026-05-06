@@ -53,7 +53,7 @@ Contact: emnlp2026-programchairs@googlegroups.com
    institution="University of Copenhagen"
    role="Program Chairs"
    site="https://elliottd.github.io/"
-   picture="/assets/images/committee/default.jpg"
+   picture="/assets/images/committee/desmond_emnlp.jpg"
 %}
 
 <h2>Senior Program Chair</h2>
