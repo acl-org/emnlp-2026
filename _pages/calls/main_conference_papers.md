@@ -44,7 +44,8 @@ There is growing concern in our community regarding unethical paper submissions 
 
 ## **Mandatory Reviewing Workload**
 
-All authors are expected to sign up to review, or serve as an Area Chair or Senior Area Chair, with assignments subsequently based on qualifications. After submission, all authors must complete the author registration form by May 27, 2026 EoD AoE. If you receive assignments, your reviews must be completed by July 6, or your meta-reviews \- by July 29\. In case of any emergencies, the chairs should be warned via the emergency declaration form. 
+All authors are expected to sign up to review, or serve as an Area Chair or Senior Area Chair, with assignments subsequently based on qualifications. After submission, all authors must complete the author registration form by May 27, 2026 EoD AoE. If you receive assignments, your reviews must be completed by July 6, or your meta-reviews \- by July 29\. In case of any emergencies, the chairs should be warned via the emergency declaration form. Exemptions to this policy are detailed in [the ARR Author Reviewer Exemption Policy Page](https://aclrollingreview.org/exemptions2025).
+
 
 Highly irresponsible reviewers may be ineligible to (re-)submit or commit their work during the next ARR cycle. The submitting authors should (a) make sure that all other authors are aware of this policy, and (b) check that everybody on their team(s) submits their (meta-)reviews on time and in accordance with the guidelines. You can read additional details on the definition of highly irresponsible reviewers and the corresponding ARR policy here: [https://aclrollingreview.org/incentives2025](https://aclrollingreview.org/incentives2025)
 
@@ -71,7 +72,6 @@ EMNLP 2026 aims to have a broad technical program. Relevant topics for the confe
 * Interpretability and Analysis of Models for NLP  
 * Language Modeling  
 * LLM Agents  
-<!-- * LLM Security   -->
 * Linguistic Theories, Cognitive Modeling, and Psycholinguistics  
 * Machine Learning for NLP  
 * Machine Translation  
