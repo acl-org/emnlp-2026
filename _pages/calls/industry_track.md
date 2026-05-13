@@ -9,10 +9,10 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-**Conference:** October 24–29, 2026  
-**Location:** Budapest, Hungary  
-**Paper submission deadline:** June 16, 2026 (11:59 PM UTC-12:00, AoE)  
-**Submission link:** TBA
+**Conference**: October 24-29, 2026  
+**Location**: Budapest, Hungary  
+**Paper submission deadline**: June 16, 2026 (11:59 PM UTC-12:00, AoE)  
+**Submission link**: [https://openreview.net/group?id=EMNLP/2026/Industry\_Track](https://openreview.net/group?id=EMNLP/2026/Industry_Track)
 
 ---
 
@@ -65,11 +65,11 @@ In addition, opinion/vision papers related to real-world applications are also w
 | Event | Date |
 |---|---|
 | Submission Deadline | June 16, 2026 |
-| Review Release / Rebuttal Begins | July 30, 2026 |
-| Author Response Deadline | August 6, 2026 |
+| Review Release/Rebuttal Begins | July 22, 2026 |
+| Author Response Deadline | July 29, 2026 |
 | Notification of Acceptance | August 20, 2026 |
 | Camera-ready Deadline | September 20, 2026 |
-| Conference | October 24–29, 2026 |
+| Conference | October 24-29, 2026 |
 
 All deadlines are 11.59 pm [UTC \-12h](https://www.timeanddate.com/time/zone/timezone/utc-12) (anywhere on earth).
 
@@ -99,7 +99,7 @@ After the bibliography, papers can have an optional appendix with, e.g., example
 
 **Writing assistance:** Overall, the EMNLP 2026 Industry Track adheres to the ACL policy on using writing assistants (including AI-based writing assistants and other AI tools) available [here](https://2023.aclweb.org/blog/ACL-2023-policy/). Moreover, following the [new policy of the main EMNLP 2026 conference track, regarding paper integrity](https://2026.emnlp.org/calls/main_conference_papers/#new-paper-integrity-policies-at-emnlp), we will take actions against unethical paper submissions that overwhelm community resources, including but not limited to, [thinly sliced contributions](https://blog.icml.cc/2026/01/08/whats-new-in-icml-2026-peer-review/), submissions with hallucinated citations, and entirely AI-generated papers ([AI writing assistance](https://2023.aclweb.org/blog/ACL-2023-policy/) is permitted) as well as submissions that violate the [ACL Policy on Publication Ethics](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics). Such submissions may be desk rejected, and all authors involved in the submission may be ineligible to commit their paper(s) to EMNLP 2026 and EMNLP 2027\.
 
-**Submission system**: Papers have to be submitted through the EMNLP 2026 Industry Track online submission system (link TBA).
+**Submission system**: Papers have to be submitted through the EMNLP 2026 Industry Track online submission system (link [https://openreview.net/group?id=EMNLP/2026/Industry\_Track](https://openreview.net/group?id=EMNLP/2026/Industry_Track)).
 
 **Final version**: Accepted papers will be given one additional page of content (up to 7 pages; ethical considerations, limitations, acknowledgements and references do not count against this limit) so that reviewers’ comments can be taken into account. Previous presentations of the work (e.g., preprints on arXiv.org) should be indicated in a footnote that should be excluded from the review submission, but included in the final version of papers appearing in the EMNLP 2026 proceedings.
 
@@ -109,9 +109,10 @@ The final version should remove anonymisation in text, citation, and figures. Fo
 
 **Presentation Mode**: Accepted papers will be presented orally or as posters, as determined by the program committee. The decisions as to which papers will be presented orally and which as poster presentations will be based on the nature rather than the quality of the work. There will be no distinction in the proceedings between papers presented orally or as posters
 
+**Authorship**: The author list for submissions should include all (and only) individuals who made substantial contributions to the work presented. Each author listed on a submission to the EMNLP 2026 Industry Track will be notified of submissions and the final decision. No changes to the order or composition of authorship may be made to submissions to the EMNLP 2026 Industry Track after the paper submission deadline
+
 ## Multiple Submission Policy
 
-**Multiple Submission Policy**  
 EMNLP 2026 will not consider any paper that is under review in a journal or another conference at the time of submission, and submitted papers must not be submitted elsewhere during the EMNLP 2026 review period. This policy covers all refereed and archival conferences and workshops (e.g., NeurIPS, EMNLP workshops), as well as ARR. In addition, we will not consider any paper that overlaps significantly in content or results with papers that have been (or will be) published elsewhere. Authors submitting more than one paper to EMNLP 2026 must ensure that their submissions do not overlap significantly (\>25%) with each other in content or results.
 
 Submissions of identical or closely related work to multiple EMNLP 2026 tracks (e.g., to the research track and industry track) will be treated as duplicate submissions. Such submissions violate our multiple submission policy and will be rejected without review. The authors should also include the papers that their paper overlaps with or extends in the references section as follows: Anonymous Authors, “Title of the paper”, Under submission at EMNLP 2026 (TRACK NAME).
@@ -134,7 +135,6 @@ Authors will be allowed extra space after the sixth page for an optional broader
 
 ## Frequently Asked Questions
 
-**Frequently Asked Questions**  
 *Is the Industry Track only for participants from industry?* No, the Industry Track welcomes participants from the entire ACL community. Researchers working on real-world applications that match the Industry Track call for papers are invited to submit papers. Everyone is welcome to attend Industry Track sessions.
 
 *What do you mean by real-world applications?* We are looking for applications that are deployed (or expected to be deployed) for real-world use, i.e., outside controlled environments such as laboratories, classrooms or experimental crowd-sourced setups.
