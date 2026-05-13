@@ -82,6 +82,7 @@ Contact: emnlp2026-industry-track@googlegroups.com
 %}
 
 <h2>Workshop Chairs</h2>
+Contact: emnlp-2026-workshop-organisers@googlegroups.com
 {% include committee-member.html
    name="Chrysoula Zerva"
    institution="Instituto Superior Técnico, University of Lisbon"
