@@ -2,7 +2,7 @@
 title: Call for Workshop Papers
 layout: single
 permalink: /calls/workshops/
-sidebar: 
+sidebar:
     nav: "calls"
 toc: true
 toc_sticky: true
@@ -10,30 +10,37 @@ toc_icon: "cog"
 ---
 
 ## Overview
-EMNLP 2025 Workshops (Suzhou, China)
+EMNLP 2026 Workshops 
 
-## Workshop Schedule
-Here is a list of workshops in EMNLP 2025 (updating).
+## Accepted Workshops
 
-| Date         | Workshop       | Full Name                                                                           |
-| ------------ | -------------- | ----------------------------------------------------------------------------------- |
-| 8–9 Nov 2025 | SEM            | \*SEM: Joint Conference on Lexical and Computational Semantics                      |
-| 8–9 Nov 2025 | WMT            | 10th Conference on Machine Translation (WMT 25)                                     |
-| 8 Nov 2025   | BabyLM         | BabyLM: Accelerating Language Modeling Research with Cognitively Plausible Datasets |
-| 8 Nov 2025   | FinNLP         | 10th Workshop on Financial Technology and Natural Language Processing               |
-| 8 Nov 2025   | NewSumm        | 5th Workshop on New Frontiers in Summarization                                      |
-| 8 Nov 2025   | NLLP           | Natural Legal Language Processing Workshop 2025                                     |
-| 8 Nov 2025   | NLPerspectives | 4th Workshop on Perspectivist Approaches to Natural Language Processing             |
-| 8 Nov 2025   | TSAR           | Workshop on Text Simplification, Accessibility and Readability                      |
-| 8 Nov 2025   | WiNLP          | 9th Widening NLP Workshop                                                           |
-| 9 Nov 2025   | ArabicNLP      | 3rd Arabic Natural Language Processing Conference                                   |
-| 9 Nov 2025   | BlackboxNLLP   | BlackboxNLP 2025: Analyzing and Interpreting Neural Networks for NLP                |
-| 9 Nov 2025   | CRAC           | 8th Workshop on Computational Models of Reference, Anaphora and Coreference         |
-| 9 Nov 2025   | HCI+NLP        | 4th Workshop on Bridging Human-Computer Interaction and Natural Language Processing |
-| 9 Nov 2025   | MathNLP        | 3rd Workshop on Mathematical Natural Language Processing                            |
-| 9 Nov 2025   | MRL            | 5th Workshop on Multi-lingual Representation Learning                               |
-| 9 Nov 2025   | PALS           | Tailoring AI: exPloring Active and passive Llm perSonalization                      |
-| 9 Nov 2025   | Turkic         | 2nd Annual Meeting of the SIG on Turkic Languages                                   |
-| 9 Nov 2025   | UncertaiNLP    | 2nd Workshop on Uncertainty-Aware NLP                                               |
-| 9 Nov 2025   | Wordplay       | 5th Wordplay: When Language Meets Games Workshop                                    |
-| 9 Nov 2025   | CODI           | Workshop on Computational Approaches to Discourse                                   |
+| Date | Workshop                 | Full Name                                                                             |
+| ---- | ------------------------ | ------------------------------------------------------------------------------------- |
+|      | MathNLP                  | 4th Workshop on Mathematical Natural Language Processing                              |
+|      | ArabicNLP                | Fourth Arabic Natural Language Processing Conference                                  |
+|      | NLLP                     | Natural Legal Language Processing (NLLP) Workshop 2026 (8th edition)                  |
+|      | WiNLP                    | Tenth Widening NLP Workshop                                                           |
+|      | BlackboxNLP              | Analyzing and Interpreting Neural Networks for NLP                                    |
+|      | NLP4PI                   | 5th Workshop on NLP for Positive Impact                                               |
+|      | MRL                      | 6th Workshop on Multilingual Representation Learning (associated with SIGTYP)         |
+|      | LUHME                    | Language Understanding in the Human-Machine Era                                       |
+|      | WaC-13                   | 13th Web-as-Corpus Workshop                                                           |
+|      | W-NUT                    | 11th Workshop on Natural User-generated Text                                          |
+|      | FinNLP - ACL SIG-FinTech | 11th Workshop on Financial Technology and Natural Language Processing                 |
+|      | ClimateNLP               | 3rd Workshop on Natural Language Processing meets Climate Change                      |
+|      | BabyLM                   | Accelerating language modeling research with cognitively plausible datasets           |
+|      | Insights                 | Seventh Workshop on Insights from Negative Results in NLP                             |
+|      | AKBC                     | 10th Workshop on Automated Knowledge Base Construction                                |
+|      | WOAH                     | 10th Workshop on Online Abuse and Harms                                               |
+|      | IMPACT-SPEECH:           | Identifying, Measuring, Preventing, and Assessing Consequences of Bias in Speech LLMs |
+|      | MINT                     | Multimodal Interaction in Face-to-Face Dialogue                                       |
+|      | SALMA                    | Speech and Audio Language Models Workshop (2nd Edition)                               |
+|      | LMP                      | Improving Language Models through Learning from Dialogue Game Interaction             |
+|      | ORACLE                   | Workshop on Open Reasoning Across Cultures & Languages                                |
+|      | UncertaiNLP              | Third Workshop on Uncertainty-Aware NLP                                               |
+|      | PersonaLLM               | Second Workshop of Persona Modeling                                                   |
+|      | REALM                    | Second Workshop for REsearch on Agent Language Models                                 |
+|      | DocInsights              | Workshop on Document Intelligence and Understanding                                   |
+|      | GLM                      | Grounding Language Models: Learning Faithfully and Efficiently                        |
+|      | PANDORA                  | Pluralistic AI & NLP: Diversity-aware, Sociotechnical and Responsible Alignment       |
+|      | WMT                      | Eleventh Conference on Machine Translation                                            |

@@ -264,4 +264,11 @@ Contact: emnlp2026-industry-track@googlegroups.com
    role="Workflow Chair"
    picture="/assets/images/committee/default.jpg"
 %}
+{% include committee-member.html
+   name="Yating Wu"
+   institution="The University of Texas at Austin"
+   role="Workflow Chair"
+   site="https://yatingwu.info"
+   picture="/assets/images/committee/yating.jpg"
+%}
 
