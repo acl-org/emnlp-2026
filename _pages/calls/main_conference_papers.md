@@ -122,7 +122,7 @@ This special theme is intended to complement the breadth of EMNLP, not narrow it
 
 EMNLP 2026 will use [ACL Rolling Review](https://aclrollingreview.org/cfp) (ARR) as a reviewing system, but final decisions will be made by the conference. Both submissions of articles for review and commitment of reviewed articles to the conference will be performed via the [Open Review](https://openreview.net/) platform. Specifically, authors will follow a two-step process:
 
-* Authors submit articles to ARR, where submissions receive reviews and meta-reviews from ARR reviewers and action editors;  
+* [Authors submit articles to ARR](https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/May), where submissions receive reviews and meta-reviews from ARR reviewers and action editors;  
 * Authors commit their reviewed articles to a publication venue (e.g., EMNLP 2026), where Senior Area Chairs and Program Chairs make acceptance decisions from the ARR reviews and meta-reviews.
 
 **Authorship during commitment.** During the commitment phase, it is not allowed to modify the author list (i.e., addition/deletion of authors is not allowed). However, modification of author order is possible.
