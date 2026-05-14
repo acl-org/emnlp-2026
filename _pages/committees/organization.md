@@ -260,12 +260,6 @@ Contact: emnlp-2026-workshop-organisers@googlegroups.com
    picture="/assets/images/committee/cheng-han.png"
 %}
 {% include committee-member.html
-   name="Sebastian Joseph"
-   institution="University of Texas at Austin"
-   role="Workflow Chair"
-   picture="/assets/images/committee/default.jpg"
-%}
-{% include committee-member.html
    name="Yating Wu"
    institution="The University of Texas at Austin"
    role="Workflow Chair"
