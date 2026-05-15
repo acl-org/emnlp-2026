@@ -30,8 +30,6 @@ EMNLP 2026 invites the submission of long and short papers featuring substantial
 
 **Following the [ACL and ARR policies](https://www.aclweb.org/portal/content/report-acl-committee-anonymity-policy), there is no anonymity period requirement.**
 
-At the time of submission to ARR, authors will be asked to select a preferred venue (e.g., EMNLP 2026). This is used only to calculate acceptance rates. Authors who selected EMNLP 2026 as a preferred venue when submitting to ARR may choose not to commit to EMNLP 2026 after receiving their reviews, and authors who selected a preferred venue other than EMNLP 2026 when submitting to ARR are still welcome to commit to EMNLP 2026\.
-
 ## **New: Paper Integrity Policies at EMNLP**
 
 There is growing concern in our community regarding unethical paper submissions that overwhelm community resources, including but not limited to, [thinly sliced contributions](https://blog.icml.cc/2026/01/08/whats-new-in-icml-2026-peer-review/), submissions with hallucinated citations, and entirely AI-generated papers ([AI writing assistance](https://2023.aclweb.org/blog/ACL-2023-policy/) is permitted). EMNLP will take actions against such submissions, as well as submissions that violate the [ACL Policy on Publication Ethics](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics). Such submissions may be desk rejected, and all authors involved in the submission may be ineligible to commit their paper(s) to EMNLP 2026 and EMNLP 2027\.
