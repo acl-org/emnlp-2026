@@ -26,7 +26,6 @@ EMNLP 2026 Workshops
 |      | LUHME                    | Language Understanding in the Human-Machine Era                                       |
 |      | WaC-13                   | 13th Web-as-Corpus Workshop                                                           |
 |      | W-NUT                    | 11th Workshop on Natural User-generated Text                                          |
-|      | FinNLP - ACL SIG-FinTech | 11th Workshop on Financial Technology and Natural Language Processing                 |
 |      | ClimateNLP               | 3rd Workshop on Natural Language Processing meets Climate Change                      |
 |      | BabyLM                   | Accelerating language modeling research with cognitively plausible datasets           |
 |      | Insights                 | Seventh Workshop on Insights from Negative Results in NLP                             |
