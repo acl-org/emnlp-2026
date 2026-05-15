@@ -37,7 +37,6 @@ EMNLP 2026 Workshops
 |      | LMP                      | Improving Language Models through Learning from Dialogue Game Interaction             |
 |      | ORACLE                   | Workshop on Open Reasoning Across Cultures & Languages                                |
 |      | UncertaiNLP              | Third Workshop on Uncertainty-Aware NLP                                               |
-|      | PersonaLLM               | Second Workshop of Persona Modeling                                                   |
 |      | REALM                    | Second Workshop for REsearch on Agent Language Models                                 |
 |      | DocInsights              | Workshop on Document Intelligence and Understanding                                   |
 |      | GLM                      | Grounding Language Models: Learning Faithfully and Efficiently                        |
