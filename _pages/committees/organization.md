@@ -252,6 +252,7 @@ Contact: emnlp-2026-workshop-organisers@googlegroups.com
 %}
 
 <h2>Workflow Chair</h2>
+Contact: emnlp2026.workflowchair@gmail.com
 {% include committee-member.html
    name="Cheng-Han Chiang"
    institution="National Taiwan University"
