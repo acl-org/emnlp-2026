@@ -17,7 +17,6 @@ EMNLP 2026 invites the submission of long and short papers featuring substantial
 ## **Important Dates**
 
 | ARR submission deadline (long & short papers) | May 25, 2026 |
-| :---- | :---- |
 | Reviewer registration deadline for ALL authors | May 27, 2026 |
 | Author response and author-reviewer discussion | July 7 \- July 13, 2026 |
 | Meta review released  | July 30, 2026 |
