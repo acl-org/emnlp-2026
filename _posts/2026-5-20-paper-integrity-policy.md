@@ -3,8 +3,6 @@ title: "EMNLP 2026 Paper Integrity Policy"
 author_profile: false
 ---
 
-## **Overview**
-
 EMNLP 2026, together with ARR, are taking actions against growing concerns of irresponsible AI use in paper submissions that take up valuable reviewer/AC resources and make little contributions to the field. 
 
 Please refer to ACL’s guidelines on [Generative Assistance in Authorship](https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics#Guidelines_for_Generative_Assistance_in_Authorship). In addition, two new policies are in place:
