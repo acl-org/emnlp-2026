@@ -21,6 +21,7 @@ The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| May. 20, 2026 | Blog post: [Paper Integrity Policy](https://2026.emnlp.org/paper-integrity-policy/)
 | May. 13, 2026 | [Accepted workshops list](https://2026.emnlp.org/calls/workshops/) is out!
 | May. 10, 2026 | Blog post: [AI Reviewing Experiment](https://2026.emnlp.org/ai-reviewing-experiment/)
 | Apr. 25, 2026 | [First call for industry track](https://2026.emnlp.org/calls/industry_track/) is out!
