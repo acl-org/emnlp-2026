@@ -33,7 +33,7 @@ The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2
 
 ## Important Dates
 
-| ARR submission deadline (long & short papers) | May 25, 2026 |
+| [ARR submission deadline (long & short papers)](https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/May) | May 25, 2026 |
 | Reviewer registration deadline for ALL authors | May 27, 2026 |
 | Author response and author-reviewer discussion | July 7 \- July 13, 2026 |
 | Meta review released  | July 30, 2026 |
