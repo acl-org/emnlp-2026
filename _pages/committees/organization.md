@@ -64,6 +64,21 @@ Contact: emnlp2026-programchairs@googlegroups.com
    picture="/assets/images/committee/default.jpg"
 %}
 
+<h2>Local Organizing Chairs</h2>
+Contact: emnlp2026-visachairs@googlegroups.com
+{% include committee-member.html
+   name="Noémi Ligeti-Nagy"
+   institution="ELTE Research Centre for Linguistics"
+   role="Local Organizing Chairs"
+   picture="/assets/images/committee/ligetinagynoemi.jpg"
+%}
+{% include committee-member.html
+   name="Brigitta Ivanyi-Bitter"
+   institution=""
+   role="Local Organizing Chairs"
+   picture="/assets/images/committee/default.jpg"
+%}
+
 <h2>Industry Track Chairs</h2>
 Contact: emnlp2026-industry-track@googlegroups.com
 {% include committee-member.html
