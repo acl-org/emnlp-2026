@@ -258,7 +258,8 @@ Contact: emnlp-2026-workshop-organisers@googlegroups.com
    name="Raj Dabre"
    institution="Google"
    role="Website Chairs"
-   picture="/assets/images/committee/default.jpg"
+   site="https://prajdabre.github.io/"
+   picture="/assets/images/committee/raj-dabre.jpg"
 %}
 {% include committee-member.html
    name="Hour Kaing"
