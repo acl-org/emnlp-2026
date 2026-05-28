@@ -22,7 +22,8 @@ govern_sponsor:
    name="André Martins"
    institution="Instituto Superior Técnico, University of Lisbon"
    role="General Chair"
-   picture="/assets/images/committee/default.jpg"
+   site="https://andre-martins.github.io/"
+   picture="/assets/images/committee/andre_martins.jpg"
 %}
 
 <h2>Program Chairs</h2>
@@ -61,21 +62,22 @@ Contact: emnlp2026-programchairs@googlegroups.com
    name="Christos Christodoulopoulos"
    institution="Information Commissioner's Office"
    role="Senior Program Chair"
-   picture="/assets/images/committee/default.jpg"
+   site="https://christos-c.com"
+   picture="/assets/images/committee/christos_christodoulopoulos.jpeg"
 %}
 
-<h2>Local Organizing Chairs</h2>
+<h2>Visa/Local Organizing Chairs</h2>
 Contact: emnlp2026-visachairs@googlegroups.com
 {% include committee-member.html
    name="Noémi Ligeti-Nagy"
    institution="ELTE Research Centre for Linguistics"
-   role="Local Organizing Chairs"
+   role="Visa/Local Organizing Chairs"
    picture="/assets/images/committee/ligetinagynoemi.jpg"
 %}
 {% include committee-member.html
    name="Brigitta Ivanyi-Bitter"
    institution=""
-   role="Local Organizing Chairs"
+   role="Visa/Local Organizing Chairs"
    picture="/assets/images/committee/default.jpg"
 %}
 
