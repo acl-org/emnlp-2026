@@ -49,8 +49,8 @@ calls:
         url: /calls/main_conference_papers/
       - title: "Tutorials"
         url: /calls/tutorials/      
-      # - title: "System Demonstration"
-      #   url: /calls/demos/
+      - title: "System Demonstration"
+        url: /calls/demos/
       - title: "Industry Track"
         url: /calls/industry_track/
       - title: "Workshops"
