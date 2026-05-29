@@ -204,7 +204,7 @@ Contact: emnlp-2026-workshop-organisers@googlegroups.com
    name="Junjie Hu"
    institution="University of Wisconsin-Madison"
    role="Publication Chairs"
-   picture="/assets/images/committee/default.jpg"
+   picture="/assets/images/committee/junjie_hu.jpg"
 %}
 
 <h2>Publicity Chairs</h2>
@@ -228,7 +228,7 @@ Contact: emnlp-2026-workshop-organisers@googlegroups.com
    name="Nafise S Moosavi"
    institution="University of Sheffield"
    role="Student Volunteer Chairs"
-   picture="/assets/images/committee/default.jpg"
+   picture="/assets/images/committee/Nafise_m.jpg"
 %}
 
 <h2>Diversity and Inclusion Chairs</h2>
