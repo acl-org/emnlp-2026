@@ -81,10 +81,3 @@ Reviewing will be single-blind, so authors do not need to conceal their identity
 ## Ethics Policy
 
 Authors are required to honor the ethical code set out in the ACM Code of Ethics. The ethical impact of our research, the use of data, and potential applications of our work have always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns about their work.
-
-Demonstration Co-chairs
-
-Lingpeng Kong  
-Sweta Agrawal  
-Alberto Abad
-
