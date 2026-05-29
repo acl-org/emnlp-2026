@@ -165,6 +165,7 @@ Contact: emnlp-2026-workshop-organisers@googlegroups.com
 %}
 
 <h2>Demonstration Chairs</h2>
+Contact: emnlp2026demochairs@googlegroups.com
 {% include committee-member.html
    name="Lingpeng Kong"
    institution="University of Hong Kong"
