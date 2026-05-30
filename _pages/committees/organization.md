@@ -199,7 +199,8 @@ Contact: emnlp2026demochairs@googlegroups.com
    name="Vlad Niculae"
    institution="University of Amsterdam"
    role="Publication Chairs"
-   picture="/assets/images/committee/default.jpg"
+   site="https://vene.ro"
+   picture="/assets/images/committee/vn.jpg"
 %}
 {% include committee-member.html
    name="Junjie Hu"
