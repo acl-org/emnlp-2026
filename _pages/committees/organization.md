@@ -81,6 +81,43 @@ Contact: emnlp2026-visachairs@googlegroups.com
    picture="/assets/images/committee/default.jpg"
 %}
 
+<h2>ARR May 2026 Editors-in-Chief</h2>
+{% include committee-member.html
+   name="Giovanni Da San Martino"
+   institution="University of Padova"
+   role="ARR May 2026 Editors-in-Chief"
+   site="http://www.joedsm.altervista.org/"
+   picture="/assets/images/committee/giovanni_da _san_martino.jpeg"
+%}
+{% include committee-member.html
+   name="Jing Jiang"
+   institution="Australian National University"
+   role="ARR May 2026 Editors-in-Chief"
+   site="https://comp.anu.edu.au/people/jing-jiang/"
+   picture="/assets/images/committee/jing_jiang.jpg"
+%}
+{% include committee-member.html
+   name="Xiaojun Wan"
+   institution="Peking University"
+   role="ARR May 2026 Editors-in-Chief"
+   site="https://wanxiaojun.github.io/"
+   picture="/assets/images/committee/xiaojun_wan.jpg"
+%}
+{% include committee-member.html
+   name="Michael White"
+   institution="The Ohio State University"
+   role="ARR May 2026 Editors-in-Chief"
+   site="https://u.osu.edu/white.1240/"
+   picture="/assets/images/committee/michael_white.jpg"
+%}
+{% include committee-member.html
+   name="Xiaodan Zhu"
+   institution="Queen's University"
+   role="ARR May 2026 Editors-in-Chief"
+   site="https://www.xiaodanzhu.com/"
+   picture="/assets/images/committee/xiaodan_zhu.jpg"
+%}
+
 <h2>Industry Track Chairs</h2>
 Contact: emnlp2026-industry-track@googlegroups.com
 {% include committee-member.html
