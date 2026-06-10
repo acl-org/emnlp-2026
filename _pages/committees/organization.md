@@ -264,10 +264,11 @@ Contact: emnlp2026demochairs@googlegroups.com
 
 <h2>Student Volunteer Chairs</h2>
 {% include committee-member.html
-   name="Nafise S Moosavi"
+   name="Nafise Sadat Moosavi"
    institution="University of Sheffield"
    role="Student Volunteer Chairs"
-   picture="/assets/images/committee/Nafise_m.jpg"
+   site="https://ns-moosavi.github.io/"
+   picture="/assets/images/committee/Nafise_Moosavi.jpg"
 %}
 
 <h2>Diversity and Inclusion Chairs</h2>
