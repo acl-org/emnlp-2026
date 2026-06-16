@@ -34,7 +34,7 @@ EMNLP 2026 Workshops (updated list!)
 |  | [IMPACT-SPEECH:](http://impactspeech.github.io/) | Identifying, Measuring, Preventing, and Assessing Consequences of Bias in Speech LLMs |
 |  | MINT | Multimodal Interaction in Face-to-Face Dialogue |
 |  | [SALMA](https://salma-workshop.github.io/salma-2026/) | Speech and Audio Language Models Workshop (2nd Edition) |
-|  | [LMP](https://lm-playschool.github.io) | Improving Language Models through Learning from Dialogue Game Interaction |
+|  | [LM Playschool](https://lm-playschool.github.io) | Improving Language Models through Learning from Dialogue Interaction |
 |  | [ORACLE](https://sites.google.com/view/workshoporacle/) | Workshop on Open Reasoning Across Cultures & Languages |
 |  | [UncertaiNLP](https://uncertainlp.github.io/) | Third Workshop on Uncertainty-Aware NLP |
 |  | [REALM](https://realm-workshop.github.io/) | Second Workshop for REsearch on Agent Language Models |
