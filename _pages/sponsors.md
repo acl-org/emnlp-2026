@@ -8,85 +8,43 @@ toc_sticky: true
 toc_icon: "cog"
 toc_label: "&nbsp;Sponsorship Tier"
 
-destination_host:
-  - url: 
-    image_path: /assets/images/logos/Bailu-logo.png
-    alt: Bailu
-    title: Bailu
-
 diamond:
+  - url: https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/
+    image_path: /assets/images/logos/bloomberg-logo.png
+    alt: Bloomberg
+    title: Bloomberg
+  - url: https://www.google.com/about/careers/applications/how-we-hire
+    image_path: /assets/images/logos/google-logo.png
+    alt: Google
+    title: Google
+
+platinum:
+  - url: https://megagon.ai
+    image_path: /assets/images/logos/megagon-logo.png
+    alt: Megagon
+    title: Megagon
+  - url: https://www.oracle.com/careers/opportunities/oracle-cloud-infrastructure/?source=:ex:sn:::::24EMNLP&SC=:ex:sn:::::24EMNLP&pcode=
+    image_path: /assets/images/logos/oracle-logo.png
+    alt: Oracle
+    title: Oracle
   - url: https://machinelearning.apple.com
     image_path: /assets/images/logos/apple-logo.png
     alt: Apple
     title: Apple
-  - url: https://www.tencent.com/en-us/
-    image_path: /assets/images/logos/tencent-logo.png
-    alt: Tencent
-    title: Tencent
-  - url: https://miromind.ai/
-    image_path: assets/images/logos/miromind_logo_new.png
-    alt: Miromind
-    title: Miromind
-  - url: https://hpc-ai.com/
-    image_path: /assets/images/logos/hpc-ai-logo.png
-    alt: HPC-AI TECH
-    title: HPC-AI TECH
-
-platinum:
-  - url: https://toloka.ai/
-    image_path: /assets/images/logos/tolokaai-logo.png
-    alt: Toloka AI
-    title: Toloka AI
   - url: https://ir.baidu.com/
     image_path: /assets/images/logos/baidu-logo.png
     alt: Baidu
     title: Baidu
-  - url: http://careers.airbnb.com/
-    image_path: /assets/images/logos/airbnb-logo.png
-    alt: Airbnb
-    title: Airbnb
-  - url: https://www.bytedance.com/en/
-    image_path: /assets/images/logos/bytedance-logo.png
-    alt: Byte Dance
-    title: Byte Dance
-  - url: https://www.antgroup.com/en
-    image_path: /assets/images/logos/Ant-Group-logo.png
-    alt: Ant Group
-    title: Ant Group
-  - url: https://www.meituan.com/en-US/about-us
-    image_path: /assets/images/logos/meituan-logo.png
-    alt: Meituan
-    title: Meituan
-  - url: https://talent.taotian.com
-    image_path: /assets/images/logos/taotian-logo.png
-    alt: Taobao and Tmall Group
-    title: Taobao and Tmall Group
-  - url: https://www.mi.com/global/
-    image_path: /assets/images/logos/xiaomi-logo.png
-    alt: Xiaomi
-    title: Xiaomi
-  - url: https://saharaai.com
-    image_path: /assets/images/logos/sahara-logo.png
-    alt: Shara Labs
-    title: Shara Labs
-  - url: https://www.alibabacloud.com/en?_p_lc=1&spm=a3c0i.14327653.6791778070.1.4dec188fn0rvGW	
-    image_path: /assets/images/logos/alibabacloud-logo.png
-    alt: Alibaba Cloud 
-    title: Alibaba Cloud
-
+  - url: https://www.capitalone.com/tech/ai-research/
+    image_path: /assets/images/logos/capital-one-logo.png
+    alt: Capital One
+    title: Capital One
+  - url: https://cohere.com/
+    image_path: /assets/images/logos/cohere-logo.png
+    alt: Cohere
+    title: Cohere
+        
 gold:
-  - url: https://www.amazon.science/
-    image_path: /assets/images/logos/amazon-logo.png
-    alt: Amazon Science
-    title: Amazon Science
-  - url: https://www.minimax.io/
-    image_path: /assets/images/logos/minimax-logo.png
-    alt: MiniMax
-    title: MiniMax
-  - url: https://app.mokahr.com/su/qovmyn
-    image_path: /assets/images/logos/ubiquant-logo.png
-    alt: Ubiquant
-    title: Ubiquant
   - url: https://www.jpmorgan.com/technology/applied-ai-and-ml/machine-learning
     image_path: /assets/images/logos/jpmorgan-logo.png
     alt: JPMorganChase
@@ -97,18 +55,6 @@ silver:
     image_path: /assets/images/logos/adobe-logo.png
     alt: Adobe
     title: Adobe
-  - url: https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/
-    image_path: /assets/images/logos/bloomberg-logo.png
-    alt: Bloomberg
-    title: Bloomberg
-  - url: https://www.appen.com/
-    image_path: /assets/images/logos/appen-logo.png
-    alt: Appen
-    title: Appen
-  - url: https://hplt-project.org/
-    image_path: assets/images/logos/HPLT-logo-light.png
-    alt: HPLT Project
-    title: HPLT Project
 
 bronze:
   - url: https://translated.com/welcome
@@ -116,46 +62,26 @@ bronze:
     alt: Translated
     title: Translated
   - url: 
-    image_path: /assets/images/logos/abaka-logo.png
-    alt: Abaka AI
-    title: Abaka AI
-  - url: https://baobab-trees.com/en/service/llm
-    image_path: /assets/images/logos/baobab-logo-new.png
-    alt: Baobab
-    title: Baobab
-  - url: https://ai.joshtalks.com/
-    image_path: /assets/images/logos/josh-logo.png
-    alt: Josh Talks
-    title: Josh Talks
-  - url: https://neptune.ai/
-    image_path: /assets/images/logos/neptune-logo.png
-    alt: Neptune
-    title: Neptune
-  - url: https://www.keensight.ai
-    image_path: /assets/images/logos/keensight-logo.png
-    alt: Keensight
-    title: Keensight
-  - url: https://www.unix-group.ai/
-    image_path: /assets/images/logos/unix-ai-logo.png
-    alt: Unix AI
-    title: Unix Ai
-  - url: https://ksaa.gov.sa/en/
-    image_path: /assets/images/logos/King-Salaman-logo.png
-    alt: King Salman Global Academy for Arabic
-    title: King Salman Global Academy for Arabic
+    image_path: 
+    alt: DataOcean AI
+    title: DataOcean AI
+  - url: 
+    image_path: 
+    alt: Booking.com
+    title: Booking.com
 
 di_ally:
   - url: https://machinelearning.apple.com
     image_path: /assets/images/logos/apple-logo.png
     alt: Apple
     title: Apple
-
-
-
-
 ---
 
-EMNLP 2026 invites you to sponsor the conference. If your organization would like to sponsor the EMNLP, please refer to our [Sponsorship Booklet](/assets/Sponsorship%20brochure%20for%20ACL%202026%20conferences.pdf) for information about sponsorship rates and benefits. For any questions regarding sponsorship, please contact the sponsorship chairs: [TBA]. The deadline to sponsor EMNLP 2026 is [TBA].
+EMNLP 2026 extends its deepest gratitude to all its sponsors. The conference could not take place without the invaluable support provided by these generous organizations. We sincerely thank them for their continued commitment to the NLP/CL community.
+
+If your organization is interested in sponsoring EMNLP 2026, please refer to our [Sponsorship Booklet](#) for details on sponsorship rates and benefits. For any questions regarding sponsorship, please email ACL Sponsorship Director, Joel Tetreault, at sponsorship@aclweb.org
+
+The deadline to sponsor EMNLP is **Friday, September 11, 2026.**
 
 <style>
 .sponsors-list { justify-content: flex-start; }
@@ -178,30 +104,26 @@ EMNLP 2026 invites you to sponsor the conference. If your organization would lik
 .sponsors-list > a:hover > img { box-shadow: none !important; }
 </style>
 
-## Destination Host
+## Diamond Sponsors
 
-<!-- {% include sponsors-list id="destination_host" layout="third" %} -->
+{% include sponsors-list id="diamond" layout="third" %}
 
-## Diamond
+## Platinum Sponsors
 
-<!-- {% include sponsors-list id="diamond" layout="third" %} -->
+{% include sponsors-list id="platinum" layout="third" %}
 
-## Platinum
+## Gold Sponsors
 
-<!-- {% include sponsors-list id="platinum" layout="third" %} -->
+{% include sponsors-list id="gold" layout="third" %}
 
-## Gold
+## Silver Sponsors
 
-<!-- {% include sponsors-list id="gold" layout="third" %} -->
+{% include sponsors-list id="silver" layout="third" %}
 
-## Silver
+## Bronze Sponsors
 
-<!-- {% include sponsors-list id="silver" layout="third" %} -->
+{% include sponsors-list id="bronze" layout="third" %}
 
-## Bronze
+## Academic Ally
 
-<!-- {% include sponsors-list id="bronze" layout="third" %} -->
-
-## Diversity and Inclusion: Ally
-
-<!-- {% include sponsors-list id="di_ally" layout="third" %} -->
+{% include sponsors-list id="di_ally" layout="third" %}

@@ -4,7 +4,7 @@ layout: single
 excerpt: "EMNLP 2025 About Suzhou"
 permalink: /about-suzhou/
 sidebar:
-  nav: "venue"
+  nav: "travel"
 toc: True
 toc_sticky: True
 ---

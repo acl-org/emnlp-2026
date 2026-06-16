@@ -4,7 +4,7 @@ layout: single
 excerpt: "EMNLP 2025 Underline and Whova Information"
 permalink: /underline-whova/
 sidebar:
-  nav: "venue"
+  nav: "travel"
 toc: True
 toc_sticky: True
 ---

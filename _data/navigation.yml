@@ -4,27 +4,32 @@ main:
   - title: "Calls"
     url: /calls/main_conference_papers/
 
-  # - title: "Program"
-  #   url: /program/
+  - title: "Program"
+    url: /program/
 
-  # - title: "Registration"
-  #   url: /registration/
+  - title: "Registration"
+    url: /registration/
+
+  - title: "Participants Info"
+    url: /travel/
+
+  - title: "Venue"
+    url: /venue/
+
+  - title: "Sponsors"
+    url: /sponsors/
 
   - title: "Committees"
-    url: /organization
+    url: /organization/
 
-  # - title: "Sponsors"
-  #   url: /sponsors/
+  - title: "Contact"
+    url: /contact/
 
-  # - title: "Participants Info"
-  #   url: /venue/
+  # - title: "FAQ"
+  #   url: /faq/
 
-  - title: "FAQ"
-    url: /faq/
-
-  - title: "Blog"
-    url: /blog/
-
+  # - title: "Blog"
+  #   url: /blog/
 
   # - title: "Proceedings"
   #   url: "https://aclanthology.org/events/emnlp-2022/"
@@ -65,42 +70,42 @@ calls:
       #   url: /calls/virtual_subsidies/
 
 program:
-  - title: Programs
-    children:
-      - title: "Conference Overview"
-        url: /program/
-      - title: "Tutorials"
-        url: /program/tutorials/
-      - title: "Workshops"
-        url: /program/workshops/
-      - title: "Industry Track"
-        url: /program/industry/
-  - title: Accepted
-    children:
-      - title: "Main Conference Papers"
-        url: /program/main_papers/
-      - title: "Findings Papers"
-        url: /program/find_papers/
-      - title: "System Demonstrations Papers"
-        url: /program/demo_papers/
-      - title: "Industry Track Papers"
-        url: /program/ind_papers/
-      - title: "CL Papers"
-        url: /program/cl_papers/
-      - title: "TACL Papers"
-        url: /program/tacl_papers/
-  - title: Awards
-    children:
-      - title: "Awards"
-        url: /program/awards/
-  - title: Events
-    children:
-      - title: "Keynotes"
-        url: /program/keynotes/
-      - title: "Panel"
-        url: /program/panel/
-      - title: "Birds of a Feather"
-        url: /program/bof/
+  # - title: Programs
+  #   children:
+  #     - title: "Conference Overview"
+  #       url: /program/
+  #     - title: "Tutorials"
+  #       url: /program/tutorials/
+  #     - title: "Workshops"
+  #       url: /program/workshops/
+  #     - title: "Industry Track"
+  #       url: /program/industry/
+  # - title: Accepted
+  #   children:
+  #     - title: "Main Conference Papers"
+  #       url: /program/main_papers/
+  #     - title: "Findings Papers"
+  #       url: /program/find_papers/
+  #     - title: "System Demonstrations Papers"
+  #       url: /program/demo_papers/
+  #     - title: "Industry Track Papers"
+  #       url: /program/ind_papers/
+  #     - title: "CL Papers"
+  #       url: /program/cl_papers/
+  #     - title: "TACL Papers"
+  #       url: /program/tacl_papers/
+  # - title: Awards
+  #   children:
+  #     - title: "Awards"
+  #       url: /program/awards/
+  # - title: Events
+  #   children:
+  #     - title: "Keynotes"
+  #       url: /program/keynotes/
+  #     - title: "Panel"
+  #       url: /program/panel/
+  #     - title: "Birds of a Feather"
+  #       url: /program/bof/
 
 committees:
   - title: Committees
@@ -110,21 +115,19 @@ committees:
       # - title: "Senior Area Chairs"
       #   url: /organization/program/
 
-venue:
-  - title: "Information for"
-    children:
-      - title: "Venue"
-        url: /venue/
-      - title: "Travel"
-        url: /travel/
-      - title: "Visa"
-        url: /visa/
-      - title: "Underline and Whova"
-        url: /underline-whova/
-      - title: "Poster Printing"
-        url: /poster-printing/
-      - title: "About Suzhou"
-        url: /about-suzhou/
+travel:
+  # - title: "Information for"
+  #   children:
+  #     - title: "Travel"
+  #       url: /travel/
+      # - title: "Visa"
+      #   url: /visa/
+      # - title: "Underline and Whova"
+      #   url: /underline-whova/
+      # - title: "Poster Printing"
+      #   url: /poster-printing/
+      # - title: "About Suzhou"
+      #   url: /about-suzhou/
 
 
 

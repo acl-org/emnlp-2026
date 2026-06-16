@@ -4,7 +4,7 @@ layout: single
 excerpt: "EMNLP 2025 Poster Printing"
 permalink: /poster-printing/
 sidebar:
-  nav: "venue"
+  nav: "travel"
 toc: True
 toc_sticky: True
 ---

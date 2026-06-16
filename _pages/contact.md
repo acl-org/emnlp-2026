@@ -1,7 +1,7 @@
 ---
-title: Registration Information
+title: Contact
 layout: single
-permalink: /registration/
+permalink: /contact/
 sidebar: False
 toc: True
 toc_sticky: True

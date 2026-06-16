@@ -1,121 +1,17 @@
 ---
-title: Conference Venue
+title: Venue
 layout: single
-excerpt: "EMNLP 2025 Venue"
+excerpt: "EMNLP 2026 Venue"
 permalink: /venue/
-sidebar:
-  nav: "venue"
 toc: True
 toc_sticky: True
 ---
 
-Hall A [Suzhou International Expo Centre (SuzhouExpo)](https://en.suzhouexpo.com/zhanguansheshiEn-335.html) \
-688 Suzhou Avenue East, Wuzhong District, Suzhou, Jiangsu Province, China
+## Conference Venue
+[Hungexpo](https://hungexpo.hu/en/hungexpo/)  
+1101 Budapest, Albertirsai út 10.  
+1441 Budapest, Pf. 44.  
 
-Located in the core area of comprehensive business Centre (CBD) in SIP and bordering Jinji Lake, Suzhou International Expo Centre (SuzhouExpo) boasts convenient transport system and high-standard facilities. As a large-scale complex integrating exhibitions, conferences, catering and hotel facilities, it is capable of hosting large-scale comprehensive exhibitions with different sizes and forms. In addition to nine exhibition halls with 78,000-square-meter indoor exhibition area, there are 60 conference rooms measuring 23,000 square meters, including an 8,000-square-meter grand ballroom which is one of the largest column-free ballroom in Asia. SuzhouExpo leads in terms of scale, facility and service in China.
-
-# Accommodations
-## Conference Host Hotels
-
-EMNLP 2025 has secured a room block at the Novotel Suzhou SIP, The InterContinental Suzhou Hotel and the Hyatt Hotel. While there are hotels and lodging of all options, we kindly ask delegates to book inside the conference block to ensure that we meet our contractual obligations.
-
----
-**[Novotel Suzhou SIP](https://novotel.accor.com/a/en/usa.html)**
-
-**Distance:** 1.3 km (4-minute drive, 11-minute walk) from the Suzhou International Expo Center  
-**Address:** 688 Suzhou Avenue East, Suzhou Industrial Park  
-Suzhou 215027, Jiangsu, P.R. China  
-**Phone:** T +86 (0) 512 6288 2800 *6812  
-
-**Booking link for all delegates, click [Here](https://all.accor.com/lien_externe.svlt?goto=rech_resa&destination=9442&dayIn=20&monthIn=11&yearIn=2025&nightNb=1&preferredCode=E2456&code_langue=EN)**
-
-**Discounted Rates**  
-$115.38USD / 1 King bed Single-Double Occupancy or 2 Single beds; Single-Triple Occupancy per room night includes breakfast, taxes, and service charges. Full amount of stay is paid at time of booking and is non-refundable
-
----
-
-**[InterContinental Suzhou](https://www.ihg.com/intercontinental/hotels/cn/zh/suzhou/suzha/hoteldetail)**
-
-**Distance:** 1.6 km (5-minute drive, 20-minute walk) from the Suzhou International Expo Center  
-**Address:** 288 Wangdun Rd, Wuzhong District,  
-Suzhou, Jiangsu, China, 215028
-
-**Booking link for International Delegates, click [Here](https://www.ihg.com/hotels/us/en/find-hotels/select-roomrate?fromRedirect=true&qSrt=sAV&qIta=99801505&icdv=99801505&qSlH=SUZHA&qCiD=04&qCiMy=102025&qCoD=10&qCoMy=102025&qGrpCd=H00&qAAR=6CBARC&qRtP=6CBARC&setPMCookies=true&qSHBrC=IC&qDest=No.%20288%20Wang%20Dun%20Road%2C%20Suzhou%20Industrial%20Park%2C%20Suzhou%2C%20JS%2C%20CN&showApp=true&adjustMonth=false&srb_u=1).** Cutoff date is October 17, 2025
-
-**Discounted Rates**  
-925 CNY / Single-Triple Occupancy per room night, plus taxes and service charges
-
-**Local Chinese Delegates booking method:**  
-Contact 吴昊Lucas via phone number: 13671094825  
-(due to the restriction on online credit card deduction, they have to separate local and international on room booking)
-
----
-
-**[Hyatt Regency Suzhou](https://www.hyatt.com/hyatt-regency/en-US/suzhr-hyatt-regency-suzhou)**
-
-**Distance:** 800 m (2-minute drive, 12-minute walk) from the Suzhou International Expo Center  
-**Address:** 88 Huachi St, Wu Zhong Qu,  
-Suzhou, China, 215028  
-**Phone:** +86 512 6288 1234
-
-**Discount:** Discounted booking link for all delegates, click [Here](https://www.hyatt.com/hyatt-regency/en-US/suzhr-hyatt-regency-suzhou?corp_id=G-666F). Cut off date is October 13, 2025
-
-**Discounted Rates:** 
-- 980 CNY / King/Twin, Single-Double Occupancy per room night, includes taxes, service fees, and breakfast for single or double occupancy.
-- 1,280 CNY / Regency Club King/Twin, Single-Double Occupancy per room night, includes taxes, service fees, and club benefits for single or double occupancy.
-
-
----
-
-## Budget-Friendly Hotel Options
-
-Chinese delegates: please book directly on Ctrip by searching for the hotel name.  
-All other international delegates: book through your preferred engine or the hotel’s official website.
-
----
-
-**[Hilton Suzhou](https://www.hilton.com/en/hotels/szvtvhi-hilton-suzhou/?arrivalDate=2025-11-03&departureDate=2025-11-11&flexibleDates=false&numRooms=1&numAdults=3&numChildren=0&room1ChildAges=&room1AdultAges=%2C%2C&groupCode=GEMNA)**
-
-**Distance:**  4.3 km (7min drive, 50-minute walk) from the Suzhou International Expo Center  
-**Address:** 275 Suzhou Ave East Industrial Park,<br>
-Suzhou, China, 215028<br>
-
-Room rates will vary from CNY 900 to CNY 1400, depending on availability and the number of occupants. Price includes breakfast.
-
-[Discounted booking](https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=SZVTVHI&groupCode=GEMNA&arrivaldate=2025-11-03&departuredate=2025-11-11&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT), non-refundable, while rooms are available.
-
----
-
-**[Fairfield by Marriott Suzhou Jinji Lake（苏州金鸡湖万豪万枫酒店·博览中心店）](https://www.marriott.com/en-us/hotels/wuxsj-fairfield-suzhou-jinji-lake/overview/)**
-
-**Distance:** 1.5 km (6-minute drive, 20-minute walk) from the Suzhou International Expo Center  
-**Address:** Building 1, Jinshi Wanghu Building, No. 18 Jiarui Lane,  
-SIP, Suzhou, Jiangsu, China, 215000  
-**Rates on Ctrip.com:** CNY 480
-
----
-
-**Atour Hotel Suzhou Jinji Lake Expo Center（苏州金鸡湖园区高铁站亚朵酒店）**
-
-**Distance:** 4.3 km (15-minute drive) from the Suzhou International Expo Center  
-**Address:** No. 36 Kaiwu Road,  
-SIP, Suzhou, Jiangsu, China, 215000  
-**Rates on Ctrip.com:** CNY 400
-
----
-
-**JI Hotel (Suzhou Jinji Lake Expo Center Xinghu Street)（全季酒店·苏州金鸡湖博览中心星湖街店）**
-
-**Distance:** 2.1 km (8-minute drive) from the Suzhou International Expo Center  
-**Address:** 120 Shop 1st Floor, Xinghe 360 Degrees Living Plaza, No. 18 Rong'an Street,  
-SIP, Suzhou, Jiangsu, China, 215000  
-**Rates on Ctrip.com:** CNY 480
-
----
-
-**Hanting Hotel (Suzhou International Expo Center)（汉庭酒店·苏州国际博览中心店）**
-
-**Distance:** 2.2 km (8-minute drive) from the Suzhou International Expo Center  
-**Address:** No. 106, Hezhong Street, West intersection of Xishenhu Road and Hezhong Street,  
-SIP, Suzhou, Jiangsu, China, 215000  
-**Rates on Ctrip.com:** CNY 350
+## Accommodations
+Conference Host Hotels  
+*Details coming soon!*
