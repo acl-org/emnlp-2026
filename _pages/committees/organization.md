@@ -276,7 +276,8 @@ Contact: emnlp2026demochairs@googlegroups.com
    name="Anne Lauscher"
    institution="University of Hamburg"
    role="Diversity and Inclusion Chairs"
-   picture="/assets/images/committee/default.jpg"
+   site="https://www.anne-lauscher.de"
+   picture="/assets/images/committee/anne.jpg"
 %}
 {% include committee-member.html
    name="David Ifeoluwa Adelani"
