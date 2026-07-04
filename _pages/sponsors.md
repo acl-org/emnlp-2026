@@ -79,7 +79,7 @@ di_ally:
 
 EMNLP 2026 extends its deepest gratitude to all its sponsors. The conference could not take place without the invaluable support provided by these generous organizations. We sincerely thank them for their continued commitment to the NLP/CL community.
 
-If your organization is interested in sponsoring EMNLP 2026, please refer to our [Sponsorship Booklet](assets/Sponsorship-brochure-for-ACL-2026-Conferences.pdf) for details on sponsorship rates and benefits. For any questions regarding sponsorship, please email the EMNLP
+If your organization is interested in sponsoring EMNLP 2026, please refer to our [Sponsorship Booklet](/assets/Sponsorship-brochure-for-ACL-2026-Conferences.pdf) for details on sponsorship rates and benefits. For any questions regarding sponsorship, please email the EMNLP
 Sponsorship Chairs:  [Matthias Gallé](mailto:mgalle@gmail.com) and [Nikos
 Aletras](mailto:n.aletras@sheffield.ac.uk).
 
