@@ -39,7 +39,7 @@ Papers describing accepted demonstrations will be published in a companion volum
 
 Paper submission is electronic, using the OpenReview conference management system.
 
-Submission Website: https://openreview.net/group?id=EMNLP/2026/System\_Demonstration
+Submission Website: [https://openreview.net/group?id=EMNLP/2026/System_Demonstration](https://openreview.net/group?id=EMNLP/2026/System_Demonstration)
 
 Submissions must include the following:
 
