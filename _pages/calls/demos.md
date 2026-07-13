@@ -37,6 +37,10 @@ Papers describing accepted demonstrations will be published in a companion volum
 
 ## Submission Guidelines
 
+Paper submission is electronic, using the OpenReview conference management system.
+
+Submission Website: https://openreview.net/group?id=EMNLP/2026/System\_Demonstration
+
 Submissions must include the following:
 
 ### A Paper
@@ -54,11 +58,7 @@ A paper submitted to accompany a demonstration should outline the design of the 
 
 Note that this year, submissions that do not report any form of evaluation may be desk rejected.
 
-Paper submission is electronic, using the OpenReview conference management system. A link to the submission site will be added here at least 2 weeks before the deadline. 
-
-Submissions can contain up to 6 pages (longer submissions will be desk rejected), plus unlimited extra space for an optional ethics/broader impact statement and also unlimited space for references. Appendices are allowed but are limited to a maximum of 2 pages (note the difference to main track papers). Accepted papers will be given one additional page of content, so that reviewers’ comments can be taken into account.
-
-Submissions must conform to the EMNLP 2026 official style guidelines and must be in PDF format. Submissions must describe original, unpublished work, as publication in EMNLP will be archival. Any papers that do not follow the official style guidelines and page limits will be desk rejected.
+Submissions can contain up to 6 pages (longer submissions will be desk rejected), plus unlimited extra space for an optional ethics/broader impact statement and also unlimited space for references. Appendices are allowed but are limited to a maximum of 2 pages (note the difference to main track papers). Accepted papers will be given one additional page of content, so that reviewers’ comments can be taken into account. Submissions must conform to the EMNLP 2026 official style guidelines and must be in PDF format. Submissions must describe original, unpublished work, as publication in EMNLP will be archival. Any papers that do not follow the official style guidelines and page limits will be desk rejected.
 
 Any papers that do not follow the official style guidelines and page limits will be desk rejected.
 
@@ -81,3 +81,9 @@ Reviewing will be single-blind, so authors do not need to conceal their identity
 ## Ethics Policy
 
 Authors are required to honor the ethical code set out in the ACM Code of Ethics. The ethical impact of our research, the use of data, and potential applications of our work have always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns about their work.
+
+Demonstration Co-chairs
+
+Lingpeng Kong  
+Sweta Agrawal  
+Alberto Abad
