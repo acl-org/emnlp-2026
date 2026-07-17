@@ -22,8 +22,8 @@ main:
   - title: "Committees"
     url: /organization/
 
-  - title: "Contact"
-    url: /contact/
+  # - title: "Contact"
+  #   url: /contact/
 
   # - title: "FAQ"
   #   url: /faq/
