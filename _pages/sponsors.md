@@ -47,7 +47,7 @@ platinum:
 
 gold:
   - url: https://www.jpmorgan.com/technology/applied-ai-and-ml/machine-learning
-    image_path: /assets/images/sponsors/JPMorgan%20Chase%20for%20ACL%202026%20Logo%20Brown_Rectangular.PNG
+    image_path: /assets/images/logos/jpmorgan-logo.png
     alt: JPMorganChase
     title: JPMorganChase
 
