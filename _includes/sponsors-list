@@ -34,6 +34,9 @@
           {% else %}
             "{{ img.image_path | relative_url }}"
           {% endif %}
+          {% if img.padding_horizontal %}
+            style="padding-left: {{ img.padding_horizontal }}; padding-right: {{ img.padding_horizontal }};"
+          {% endif %}
           alt="{% if img.alt %}{{ img.alt }}{% endif %}">
       {% else %}
         {% if img.alt %}{{ img.alt }}{% endif %}
