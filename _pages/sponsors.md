@@ -44,6 +44,10 @@ platinum:
     image_path: /assets/images/sponsors/Cohere-Logo-Color-CMYK.png
     alt: Cohere
     title: Cohere
+  - url: https://gptzero.me/hallucination-detector
+    image_path: /assets/images/sponsors/gptzero_logo.png
+    alt: GPTzero
+    title: GPTzero
 
 gold:
   - url: https://www.jpmorgan.com/technology/applied-ai-and-ml/machine-learning
