@@ -65,8 +65,8 @@ In addition, opinion/vision papers related to real-world applications are also w
 | Event | Date |
 |---|---|
 | Submission Deadline | June 16, 2026 |
-| Review Release/Rebuttal Begins | July 22, 2026 |
-| Author Response Deadline | July 29, 2026 |
+| Review Release/Rebuttal Begins | July 26, 2026 |
+| Author Response Deadline | August 2, 2026 |
 | Notification of Acceptance | August 20, 2026 |
 | Camera-ready Deadline | September 20, 2026 |
 | Conference | October 24-29, 2026 |
