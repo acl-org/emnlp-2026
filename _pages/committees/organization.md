@@ -246,6 +246,21 @@ Contact: emnlp2026demochairs@googlegroups.com
    picture="/assets/images/committee/junjie_hu.jpg"
 %}
 
+<h2>Handbook Chairs</h2>
+{% include committee-member.html
+   name="Vlad Niculae"
+   institution="University of Amsterdam"
+   role="Handbook Chairs"
+   site="https://vene.ro"
+   picture="/assets/images/committee/vn.jpg"
+%}
+{% include committee-member.html
+   name="Jia Xu"
+   institution="Rutgers University"
+   role="Handbook Chairs"
+   picture="/assets/images/committee/jia_xu.png"
+%}
+
 <h2>Publicity Chairs</h2>
 {% include committee-member.html
    name="Yuki Arase"
@@ -269,6 +284,12 @@ Contact: emnlp2026demochairs@googlegroups.com
    role="Student Volunteer Chairs"
    site="https://ns-moosavi.github.io/"
    picture="/assets/images/committee/Nafise_Moosavi.jpg"
+%}
+{% include committee-member.html
+   name="Favour Y Aghaebe"
+   institution="University of Sheffield"
+   role="Student Volunteer Chairs"
+   picture="/assets/images/committee/favour_aghaebe.jpg"
 %}
 
 <h2>Diversity and Inclusion Chairs</h2>
