@@ -21,11 +21,12 @@ The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-| July. 17, 2026 | Blog post: [Update: AI Reviewing Experiment](https://2026.emnlp.org/ai-reviewing-experiment-update/)
-| May. 29, 2026 | [First call for system demonstration](https://2026.emnlp.org/calls/demos/) is out!
-| May. 20, 2026 | Blog post: [Paper Integrity Policy](https://2026.emnlp.org/paper-integrity-policy/)
-| May. 13, 2026 | [Accepted workshops list](https://2026.emnlp.org/calls/workshops/) is out!
-| May. 10, 2026 | Blog post: [AI Reviewing Experiment](https://2026.emnlp.org/ai-reviewing-experiment/)
+| Jul. 29, 2026 | [Call for volunteers](https://2026.emnlp.org/calls/volunteers/) is out!
+| Jul. 17, 2026 | Blog post: [Update: AI Reviewing Experiment](https://2026.emnlp.org/ai-reviewing-experiment-update/)
+| May 29, 2026 | [First call for system demonstration](https://2026.emnlp.org/calls/demos/) is out!
+| May 20, 2026 | Blog post: [Paper Integrity Policy](https://2026.emnlp.org/paper-integrity-policy/)
+| May 13, 2026 | [Accepted workshops list](https://2026.emnlp.org/calls/workshops/) is out!
+| May 10, 2026 | Blog post: [AI Reviewing Experiment](https://2026.emnlp.org/ai-reviewing-experiment/)
 | Apr. 25, 2026 | [First call for industry track](https://2026.emnlp.org/calls/industry_track/) is out!
 | Apr. 17, 2026 | [First call for tutorials](https://2026.emnlp.org/calls/tutorials/) is out!
 | Feb. 27, 2026 | [First call for papers](https://2026.emnlp.org/calls/main_conference_papers/) is out!
