@@ -233,13 +233,6 @@ Contact: emnlp2026demochairs@googlegroups.com
    picture="/assets/images/committee/sji.jpg"
 %}
 {% include committee-member.html
-   name="Vlad Niculae"
-   institution="University of Amsterdam"
-   role="Publication Chairs"
-   site="https://vene.ro"
-   picture="/assets/images/committee/vn.jpg"
-%}
-{% include committee-member.html
    name="Junjie Hu"
    institution="University of Wisconsin-Madison"
    role="Publication Chairs"
