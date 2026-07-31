@@ -50,8 +50,8 @@ platinum:
     title: GPTzero
 
 gold:
-  - url: https://www.jpmorgan.com/technology/applied-ai-and-ml/machine-learning
-    image_path: /assets/images/logos/jpmorgan-logo.png
+  - url: https://www.jpmorganchase.com/about/technology
+    image_path: /assets/images/sponsors/JPMorgan%20Chase%20for%20ACL%202026%20Logo%20Brown_Rectangular.PNG
     alt: JPMorganChase
     title: JPMorganChase
 
