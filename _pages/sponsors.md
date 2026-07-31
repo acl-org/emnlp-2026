@@ -48,12 +48,24 @@ platinum:
     image_path: /assets/images/sponsors/gptzero_logo.png
     alt: GPTzero
     title: GPTzero
+  - url: 
+    image_path: /assets/images/sponsors/rednote.png
+    alt: RedNote
+    title: RedNote
 
 gold:
   - url: https://www.jpmorganchase.com/about/technology
     image_path: /assets/images/sponsors/JPMorgan%20Chase%20for%20ACL%202026%20Logo%20Brown_Rectangular.PNG
     alt: JPMorganChase
     title: JPMorganChase
+  - url: https://www.antgroup.com/en
+    image_path: /assets/images/sponsors/Ant%20Group%20Logo.png
+    alt: Ant Group
+    title: Ant Group
+  - url: https://www.tencent.com/en-us/
+    image_path: /assets/images/sponsors/Tencent%20%20logo.png
+    alt: Tencent
+    title: Tencent
 
 silver:
   - url: https://research.adobe.com/
@@ -74,6 +86,10 @@ bronze:
     image_path: 
     alt: Booking.com
     title: Booking.com
+  - url: https://datamundi.ai/
+    image_path: /assets/images/sponsors/DATAmundi%20purple%20%26%20navy%20logo%20(PREFERRED%20VERSION)-%20white%20background.png
+    alt: Datamundi
+    title: Datamundi
 
 di_ally:
   - url: https://machinelearning.apple.com/
