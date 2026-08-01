@@ -55,7 +55,7 @@ platinum:
 
 gold:
   - url: https://www.jpmorganchase.com/about/technology
-    image_path: /assets/images/sponsors/JPMorgan%20Chase%20for%20ACL%202026%20Logo%20Brown_Rectangular.PNG
+    image_path: /assets/images/sponsors/jpmorganchase.png
     alt: JPMorganChase
     title: JPMorganChase
   - url: https://www.antgroup.com/en
