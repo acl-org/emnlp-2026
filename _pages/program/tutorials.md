@@ -1,7 +1,7 @@
 ---
 title: Tutorials
 layout: single
-excerpt: "EMNLP 2025 Tutorials."
+excerpt: "EMNLP 2026 Tutorials."
 permalink: /program/tutorials/
 toc: true
 toc_sticky: true
@@ -9,10 +9,55 @@ toc_icon: "cog"
 sidebar: 
     nav: program
 ---
-1. **Efficient Inference for Large Language Models – Algorithm, Model, and System.** Xuefei Ning, Guohao Dai, Haoli Bai, Lu Hou, Yu Wang and Qun Liu. (Saturday, Nov 8, 09:00-12:30)  
-2. **Advancing Language Models through Instruction Tuning: Recent Progress and Challenges.** Zhihan Zhang, Renze Lou, Fangkai Jiao, Wenpeng Yin and Meng Jiang. (Saturday, Nov 8, 09:00-12:30)  
-3. **Spoken Conversational Agents with Large Language Models.** Chao-Han Huck Yang, Andreas Stolcke and Larry Heck. (Saturday, Nov 8, 09:00-12:30) 
-4. **NLP+Code: Code Intelligence in Language Models.** Terry Yue Zhuo, Qian Liu, Zijian Wang, Wasi U. Ahmad, Binyuan Hui and Loubna Ben Allal. (Saturday, Nov 8, 09:00-12:30)  
-5. **Data and Model Centric Approaches for Expansion of Large Language Models to New languages.** Anoop Kunchukuttan, Raj Dabre, Rudra Murthy, Mohammed Safi Ur Rahman Khan and Thanmay Jayakumar. (Saturday, Nov 8, 14:00-17:30)  
-6. **Neuro-Symbolic Natural Language Processing.** André Freitas, Marco Valentino and Danilo Silva de Carvalho. (Saturday, Nov 8, 14:00-17:30)  
-7. **Continual Learning of Large Language Models.** Tongtong Wu, Thuy-Trang Vu, Linhao Luo and Gholamreza Haffari. (Saturday, Nov 8, 14:00-17:30)  
+
+## Morning: 9:00–12:30
+
+<div class="notice--primary" markdown="1">
+### Failure Modes in Agentic AI: From Reproducible Triggers and Diagnostics to Reliable Fixes
+**Organizers:** Sha Li, Zihan Wang, Hejie Cui and Manling Li
+<br>**Room:** TBA
+
+**Description:** This will be a 3.5 hour tutorial with slides presentation and real-time demonstrations.
+</div>
+
+<div class="notice--primary" markdown="1">
+### Language Models as Windows into Human Language Processing: Neural Encoding, Decoding, and Brain Alignment with NLP
+**Organizers:** Jingyuan Sun, Yunhao Zhang, Yang Cui and Yifan Wang
+<br>**Room:** TBA
+
+**Description:** The tutors will deliver this mainly in the form of slides presentation, and will potentially include some short live demos of the presented systems.
+</div>
+
+<div class="notice--primary" markdown="1">
+### Tokenization for Large Language Models
+**Organizers:** Valentin Hofmann, Julie Kallini, Sachin Kumar, Jindrich Libovický, Tomasz Limisiewicz and Elizabeth Salesky
+<br>**Room:** TBA
+
+**Description:** Direct lecturing with hands-on exercises in Python Notebooks.
+</div>
+
+## Afternoon: 14:00–17:30
+
+<div class="notice--primary" markdown="1">
+### Autoformalization & Mathematical Reasoning
+**Organizers:** Lan Zhang, Marco Valentino, Jordan Meadows and Andre Freitas
+<br>**Room:** TBA
+
+**Description:** This tutorial consists of presentations, live demonstrations, and interactive discussions introducing autoformalization with large language models (LLMs). Participants will learn the fundamentals of formal mathematical reasoning, theorem provers (Lean4 and Isabelle), retrieval-augmented autoformalization, refinement using theorem-prover feedback, evaluation methods, and applications in scientific domains. The session includes Q&A and audience interaction throughout.
+</div>
+
+<div class="notice--primary" markdown="1">
+### Causal Foundations for Interpretability: What Your Methods Actually Identify
+**Organizers:** Shruti Joshi, Aaron Mueller, Patrik Reizinger and Dhanya Sridhar
+<br>**Room:** TBA
+
+**Description:** Lectures, case studies, and demonstration of concepts with interactive demos.
+</div>
+
+<div class="notice--primary" markdown="1">
+### Multilingual Multicultural LLMs
+**Organizers:** Wei Xu, David Ifeoluwa Adelani, Vinodkumar Prabhakaran, Sara Hooker and Alan Ritter
+<br>**Room:** TBA
+
+**Description:** Lectures, Q&A.
+</div>

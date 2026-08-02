@@ -70,16 +70,16 @@ calls:
       #   url: /calls/virtual_subsidies/
 
 program:
-  # - title: Programs
-  #   children:
-  #     - title: "Conference Overview"
-  #       url: /program/
-  #     - title: "Tutorials"
-  #       url: /program/tutorials/
-  #     - title: "Workshops"
-  #       url: /program/workshops/
-  #     - title: "Industry Track"
-  #       url: /program/industry/
+  - title: Programs
+    children:
+      - title: "Conference Overview"
+        url: /program/
+      - title: "Tutorials"
+        url: /program/tutorials/
+      - title: "Workshops"
+        url: /program/workshops/
+      # - title: "Industry Track"
+      #   url: /program/industry/
   # - title: Accepted
   #   children:
   #     - title: "Main Conference Papers"
@@ -98,14 +98,16 @@ program:
   #   children:
   #     - title: "Awards"
   #       url: /program/awards/
-  # - title: Events
-  #   children:
-  #     - title: "Keynotes"
-  #       url: /program/keynotes/
-  #     - title: "Panel"
-  #       url: /program/panel/
-  #     - title: "Birds of a Feather"
-  #       url: /program/bof/
+  - title: Events
+    children:
+      - title: "Keynotes"
+        url: /program/keynotes/
+      # - title: "Panel"
+      #   url: /program/panel/
+      # - title: "Birds of a Feather"
+      #   url: /program/bof/
+      - title: "Welcome Reception"
+        url: /program/welcome_reception/
 
 committees:
   - title: Committees

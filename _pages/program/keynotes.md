@@ -1,7 +1,7 @@
 ---
 title: Keynotes
 layout: single
-excerpt: "EMNLP 2025 Conference Overview"
+excerpt: "EMNLP 2026 Conference Overview"
 permalink: /program/keynotes/
 toc: true
 toc_sticky: true
@@ -10,52 +10,47 @@ sidebar:
     nav: program
 ---
 
-We are delighted to announce that the esteemed speakers listed below have graciously accepted our invitation to deliver keynote speeches at the main conference of EMNLP 2025:
+We are delighted to announce that the esteemed speakers listed below have graciously accepted our invitation to deliver keynote speeches at the main conference of EMNLP 2026:
 
 <style>
 p.speaker-bio { font-style: italic; font-size: 80%; }
 .speaker-photo { width: 200px; height: 200px; object-fit: contain; }
 </style>
 
-## Heng Ji
-![Heng Ji](/assets/images/keynotes/hengji.png){: .align-center .speaker-photo}
+## Pascale Fung
+![Pascale Fung](/assets/images/keynotes/Portrait Pascale Fung.png){: .align-center .speaker-photo}
 
-Wednesday, November 5, 2025 Time: 09:30 to 10:30 Room: B301
+Sunday, October, 25 09:00 - 09:30 
 
-**Title:** No more Processing. Time to Discover.
+**Title:** Towards AI that understands the Real World.
 
 **Abstract:**
-Scientific discovery, especially for new drugs and materials, urgently needs our help. The traditional manual approach is highly artisanal, and thus slow and expensive. Most importantly, many commercial drugs or materials have well-documented limitations that have remained unaddressed. In fact, AI for Science has become a rapidly growing field, with NLP researchers playing a central role by organizing shared tasks and competing on various leaderboards, especially through approaches powered by large language models (LLMs). In this talk, however, I will offer a provocative perspective on why our community may be heading in the wrong direction. Take drug discovery as an example: much of the existing work merely classifies properties of known drugs and thus discovers nothing, or generates molecules that are chemically impossible to make.
+Recent advances in AI have been driven by large-scale generative models with impressive capabilities in language, code, and digital tasks. Yet these systems still have a limited understanding of the physical world, human intentions, and real-world context.
+In this talk, Pascale Fung will discuss the next frontier of AI: world models.
+World models allow AI systems to learn abstract representations of the world from continuous multimodal data, enabling reasoning, planning, memory, and action beyond next-token prediction. Moving toward real-world AI agents requires modeling not only the physical world, but also the mental world - including intent, attention, goals, and social context.
+The future of AI will depend on systems that can understand, adapt, and collaborate in the real world, safely and reliably.
 
-Unlike machines, human scientists are inherently “multilingual,” seamlessly navigating diverse modalities, from natural language in literature to complex scientific data such as molecular structures in knowledge bases. Human scientists also “think before they talk”: they ground their reasoning in deliberate reflection and subject new ideas to critical evaluation and verification. Against this backdrop, I argue that there is a correctable fundamental mismatch between the way LLMs work and the way scientists traditionally discover and verify new research hypotheses. I propose to design new LLM paradigms by drawing inspiration from the scientific discovery process itself: (1) “Observe”- acquire, represent and integrate knowledge from multiple data modalities; (2) “Think” - think critically to generate hypotheses; and (3) “Propose and Verify” - verify hypotheses through the Physical World. 
+**Bio**: Pascale Fung’s long term research background is in multimodal interactive systems including audio, speech, text and video. She started research on world modeling after studying the limitation of generative models due to hallucinations. She is the Co-founder and Chief Research & Innovation Officer at AMI Labs. She was previously the Senior Director of AI Research at Meta-FAIR, leading research on embodied AI agents. She is also a Chair Professor of ECE at The Hong Kong University of Science & Technology (HKUST). She is a Fellow of the ACL, AAAI, IEEE, and ISCA for her significant contribution to human-machine interactions.
 
-As a prototype example, I will present mCLM, a modular Chemical-Language Model that speaks two complementary languages: one that represents molecular building blocks indicative of specific functions and compatible with automated modular assembly, and another that describes these functions in natural language. Experiments on 430 FDA-approved drugs showed that mCLM is capable of significantly improving chemical functions critical to determining drug potentials. mCLM, with only 3B parameters, also achieves improvements in function scores and synthetic accessibility relative to 7 other leading generative AI methods including GPT-5. mCLM can also reason on multiple functions and iteratively self-improve to rescue drug candidates that failed late in clinical trials (“fallen angels”). Preliminary animal testing results further underscore the promise of this approach.
-In the long term, I envision a comprehensive, multi-agent, human-in-the-loop autonomous laboratory, structured around iterative cycles of reasoning, proposal, synthesis, physical testing, feedback, and reasoning to enable never-ending self-improvement and co-evolvement with human scientists.
+## Graham Neubug
+![Graham Neubug](/assets/images/keynotes/neubig-headshot-2021.jpg){: .align-center .speaker-photo}
 
-**Bio**: Heng Ji is a Professor of Computer Science at Siebel School of Computing and Data Science, and a faculty member affiliated with Electrical and Computer Engineering Department, Coordinated Science Laboratory, and Carl R. Woese Institute for Genomic Biology of University of Illinois Urbana-Champaign. She is an Amazon Scholar. She is the Founding Director of Amazon-Illinois Center on AI for Interactive Conversational Experiences (AICE), and the Founding Director of CapitalOne-Illinois Center on AI Safety and Knowledge Systems (ASKS). She received Ph.D. in Computer Science from New York University. Her research interests focus on Natural Language Processing, especially on Multimedia Multilingual Information Extraction, Knowledge-enhanced Large Language Models and Vision-Language Models, AI for Science, and Science-inspired AI. The awards she received include Outstanding Paper Award at ACL2024, two Outstanding Paper Awards at NAACL2024, "Young Scientist" by the World Laureates Association in 2023 and 2024, "Young Scientist" and a member of the Global Future Council on the Future of Computing by the World Economic Forum in 2016 and 2017, "Women Leaders of Conversational AI" (Class of 2023) by Project Voice, "AI's 10 to Watch" Award by IEEE Intelligent Systems in 2013, NSF CAREER award in 2009, PACLIC2012 Best paper runner-up, "Best of ICDM2013" paper award, "Best of SDM2013" paper award, ACL2018 Best Demo paper nomination, ACL2020 Best Demo Paper Award, NAACL2021 Best Demo Paper Award, Google Research Award in 2009 and 2014, IBM Watson Faculty Award in 2012 and 2014 and Bosch Research Award in 2014-2018. She has coordinated the NIST TAC Knowledge Base Population task 2010-2020. She served as the associate editor for IEEE/ACM Transaction on Audio, Speech, and Language Processing, and the Program Committee Co-Chair of many conferences including NAACL-HLT2018 and AACL-IJCNLP2022. She was elected as the North American Chapter of the Association for Computational Linguistics (NAACL) secretary 2020-2023.
+Monday, October 26, 15:15 - 16:15
 
-## Jana Diesner
-![Jana Diesner](/assets/images/keynotes/jana.png){: .align-center .speaker-photo}
+**Title**: On the Value of Open Research in Language Modeling - An Adversarial Dialog
 
-Thursday, November 6, 2025 Time: 09:00 to 10:00 Room: B301
+**Abstract**: Large language models are simultaneously one of the greatest advances in natural language processing ever and one of the most confounding for the open research community. Given the extreme resource intensiveness and economic value of research in this area, much research has moved out of the public eye and behind closed doors. What does that mean for scientists, like many of the participants in EMNLP, who believe in the value of open publishing of research results? In this talk, I will present some often-cited arguments against the value of open research in core LLM technology, and some counter arguments for why open research is still important, albeit under certain conditions. I will also try to present some personal anecdotes for my own projects that I think have been successful in the face of these headwinds, and may be informative for listeners who are also interested in expanding the impact of their work.
 
-**Title**: Looking at NLP through the lens of the (computational) social sciences
-
-**Abstract**: Using empirical methods from NLP has led to tremendous progress in the social sciences and humanities. I address how leveraging innovative NLP techniques has helped to discover and validate hypotheses about the functioning and patterns of complex societal systems, jointly considering the content and structure of social and socio-technical interactions, and scaling up the analysis of human-centered, qualitative, and multi-modal data. Knowledge from the social sciences has in turn informed and advanced data annotation, model building, and result explanation in NLP. At the same time, the choices we make when studying and predicting the structure and behavior of groups matter. I discuss how differences in research design, epistemology, and culturally contextualized algorithms impact knowledge discovery, theory development, practical applications, and policies. I conclude with implications of work at the nexus of NLP and the social sciences on innovation, validation, and bridging differences in scales.
-
-**Bio**: Jana Diesner is a Full Professor at the Technical University of Munich, School of Social Science and Technology, with a joint appointment at the School of Computation, Information and Technology. She leads the Human-Centered Computing group. Her group works on methods from network science, natural language processing, machine learning, and AI, and integrates them with theories from the social sciences and humanities to advance our understanding of theories and patterns of complex societal systems. Their work also considers cultural contexts and ethical concerns to advance responsibility in computational sciences. Before joining TUM in 2024, Jana was a tenured professor at the University of Illinois Urbana Champaign. School of Information Sciences. She earned her Ph.D. at Carnegie Mellon, School of Computer Science.
+**Bio**: Graham Neubig is an associate professor at the Language Technologies Institute of Carnegie Mellon University and Chief Scientist at OpenHands. His research focuses on large language models, including both fundamental advances in model capabilities and applications to tasks such as software development. His final goal is that every person in the world should be able to communicate with each-other, and with computers in their own language. He also contributes to making NLP research more accessible through open publishing of research papers, advanced NLP course materials and video lectures, and open-source software, all of which are available on his web site.
 
 
-## Hannaneh Hajishirzi
-![Hannaneh Hajishirzi](/assets/images/keynotes/hanna.png){: .align-center .speaker-photo}
+## Anna Korhonen
+![Anna Korhonen](/assets/images/keynotes/74ae062f-6771-4118-a72c-96d219e562b0.png){: .align-center .speaker-photo}
 
-Friday, November 7, 2025 Time: 09:00 to 10:00 Room: B301
+Tuesday, October 27, 14:30 - 15:30
 
-**Title**: Open-Science AI: Building Language, Vision, and Reasoning Models that Drive Innovation
+**Title**: TBA
 
-**Abstract**: Innovation and competitiveness in AI are driven not only by building powerful systems but also by creating enduring, extensible solutions that empower the research community to explore, evaluate, and build upon them further. In this talk, I discuss how to develop open language, vision, and reasoning models that can compete with proprietary counterparts—models that are fully open and scientifically grounded. I will highlight how these open-science AI efforts have led to innovative strategies for data curation, new paradigms in model training, improved reasoning algorithms, and advances in model traceability, among others. These ideas will be illustrated through examples from my team’s work on OLMo, Tulu, Molmo, FlexOLMo, and OLMoTrace, as well as related contributions from the broader research community.
+**Abstract**: TBA
 
-More specifically, I will share lessons learned from building our fully open language models, OLMo, demonstrating that with the right scientific and engineering approaches, it is possible to refine model capabilities and achieve state-of-the-art performance. I will explain how this foundation has enabled us to develop FlexOLMo, a new paradigm for modular language model training that supports both data privacy and data collaboration, and OLMoTrace, a tool for tracing model outputs back to their training data. I will also discuss RLVR, our new approach to reinforcement learning with verifiable rewards in Tulu 3, and how it has led to the creation of stronger reasoning models, catalyzing an active new area of research in verifiable reasoning. Finally, I will highlight Dolma and PixMo, illustrating how novel data curation and mixing strategies further enhance model capabilities and enable effective, high-quality training of language and vision models."
-
-**Bio**: [Hanna Hajishirzi](https://hannaneh.ai/) is a Professor of Computer Science at the University of Washington and a Senior Director of AI at AI2. Her research spans generative AI and natural language processing, with a focus on building pioneering, open-science AI solutions. She co-leads the OLMo and Tulu projects, advancing fully open language and reasoning models to accelerate the science of AI, empower the research community, and champion openness as a driver of innovation. These models have been downloaded more than 10 million times as of 2025 and were recognized with GeekWire's Innovation of the Year award. She is a co-PI of a $152M NSF- and NVIDIA-supported grant to develop the next generation of open multimodal models. 
-She is a recipient of the Sloan Fellowship (2021), the Uncommon Thinker Award (2025), the NSF CAREER Award (2021), Torode family Career development professorship (2022), the Allen Distinguished Investigator Award (2014), the UIUC Alumni Award (2024), and was a finalist for the VentureBeat Women in AI Award (2024, 2025). Her research has earned recognition at leading venues, with papers receiving or being finalists for awards at ACL 2025, CVPR 2025, ACL 2024 (Best Paper and Best Resource Paper), CVPR 2022, AKBC 2020, and SIGDIAL 2012.
+**Bio**: TBA
