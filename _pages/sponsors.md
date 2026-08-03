@@ -107,6 +107,8 @@ Aletras](mailto:n.aletras@sheffield.ac.uk).
 
 The deadline to sponsor EMNLP is **Friday, September 11, 2026.**
 
+Click [here](https://2026.emnlp.org/exhibitors_kit/) for EMNLP 2026 Exhbitor Kit.
+
 <style>
 .sponsors-list { justify-content: flex-start; }
 .sponsors-list > a {
