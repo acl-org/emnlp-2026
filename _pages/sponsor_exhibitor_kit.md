@@ -181,7 +181,7 @@ EAC exhibitors will need to submit the following documentation to Hungexpo via e
 - Fire safety classification of construction products (especially floor and walls)
 - Electrical equipment statement (need to be filled and signed by the exhibitor)
 
-A few examples of the above-mentioned can be accessed via the following link: [Here](https://2026.emnlp.org/assets/images/sponsors/EAC Forms - Samples.pdf) for exhibitors to see what we usually require.
+A few examples of the above-mentioned can be accessed via the following link: [Click Here](https://2026.emnlp.org/assets/images/sponsors/EAC Forms - Samples.pdf) for exhibitors to see what we usually require.
 
 Please note that EAC exhibitors will need to pay a one-time waste removal fee for the disposal of regular waste and packaging materials accumulated during set-up and dismantling. The order form is below.
 
@@ -191,6 +191,8 @@ Please note that EAC exhibitors will need to pay a one-time waste removal fee fo
 
 **Order Forms — Discount prices deadline:** September 30, 12am (CET)
 **Basic prices deadline:** October 16, 12am (CET)
+
+Order forms should be sent to: Zita Cserepkei (cserepkei.zita@hungexpo.hu)
 
 Order forms [Here](https://2026.emnlp.org/assets/images/sponsors/EMNLP Exhibitor Order Forms.pdf):
 
