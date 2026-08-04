@@ -1,7 +1,7 @@
 ---
-title: Budapest Local Guide for EMNLP '26
+title: 
 layout: single
-excerpt: "Budapest Local Guide for EMNLP '26"
+excerpt: 
 permalink: /venue/
 toc: True
 toc_sticky: True
@@ -14,6 +14,11 @@ toc_sticky: True
 1441 Budapest, Pf. 44.
 
 Hungexpo Zrt. is Hungary's leading exhibition and conference organizer and one of the most prominent event venues in Central and Eastern Europe. Founded in 1967, the company has built a strong reputation for hosting major trade fairs, exhibitions, and international conferences, supported by an extensive global network and the backing of the French GL events group since 2005. Following a comprehensive redevelopment completed in 2021, the HUNGEXPO Budapest Congress and Exhibition Centre now features modern exhibition halls and a world-class congress center, providing a state-of-the-art venue for exhibitors, event organizers, and visitors while reinforcing Hungexpo's leadership in the regional events industry.
+
+![Venu](https://2026.emnlp.org/assets/images/venue.png)
+
+*Hotel Accommodation information is coming soon...*
+
 
 ---
 
