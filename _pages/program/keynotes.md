@@ -20,7 +20,7 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 ## Pascale Fung
 ![Pascale Fung](/assets/images/keynotes/Portrait Pascale Fung.png){: .align-center .speaker-photo}
 
-Sunday, October, 25 09:00 - 09:30 
+Sunday, October, 25 09:30 - 10:30
 
 **Title:** Towards AI that understands the Real World.
 

@@ -30,12 +30,12 @@ toc_icon: "cog"
 | 10:30 | 11:00 | Break |
 | 11:00 | 12:30 | Session 2 — Orals/Posters A (Main, CL, TACL, Demos) |
 | 12:30 | 14:30 | Lunch Break |
-| 13:00 | 14:30 | Virtual Poster Session via Underline |
+| 13:00 | 14:30 | Virtual Presentation Session 1 via Underline |
 | 13:00 | 14:00 | Findings Posters |
 | 14:30 | 15:30 | Session 3 — Panel: TBD |
 | 15:30 | 16:00 | Break |
 | 16:00 | 17:30 | Session 4 — Orals/Posters B (Main, CL, TACL, Demos) |
-| 18:00 | 19:30 | Virtual Poster Session 1 via Underline |
+| 18:00 | 19:30 | Virtual Presentation Session 2 via Underline |
 
 ## Monday, October 26 — Main Conference Day 2
 
@@ -44,13 +44,13 @@ toc_icon: "cog"
 
 | Start | End | Session |
 |-------|-----|---------|
-| 7:00 | 8:30 | Virtual Poster Session 2 via Underline |
+| 7:00 | 8:30 | Virtual Presentation Session 3 via Underline |
 | 8:30 | 16:30 | Registration |
 | 9:00 | 10:30 | Session 5 — Orals/Posters C (Main, CL, TACL, SRW, Demos) |
 | 10:30 | 11:00 | Coffee Break |
 | 11:00 | 12:30 | Session 6 — Orals/Posters D (Main, CL, TACL, IND, Demos) |
 | 12:30 | 14:30 | Lunch Break |
-| 13:00 | 14:30 | Virtual Poster Session 3 via Underline |
+| 13:00 | 14:30 | Virtual Presentation Session 4 via Underline |
 | 13:00 | 14:00 | Findings Posters |
 | 14:00 | 15:00 | Session 7 — Business Meeting (all attendees welcome) |
 | 15:15 | 16:15 | Session 8 — [Keynote 2: Graham Neubig](https://2026.emnlp.org/program/keynotes/) |
@@ -69,7 +69,7 @@ toc_icon: "cog"
 | 10:30 | 11:00 | Coffee Break |
 | 11:00 | 12:30 | Session 11 — Orals/Posters G (Main, CL, TACL, Demos) |
 | 12:30 | 14:30 | Lunch Break (Findings Posters) |
-| 13:00 | 14:30 | Virtual Poster Session via Underline |
+| 13:00 | 14:30 | Virtual Presentation Session 5 via Underline |
 | 13:00 | 14:00 | Findings Posters |
 | 14:30 | 15:30 | Session 12 — [Keynote 3: Anna Korhonen](https://2026.emnlp.org/program/keynotes/) |
 | 15:30 | 16:00 | Coffee Break |
