@@ -54,7 +54,7 @@ For attendees employed by commercial, for-profit, private sector, or industry or
 | Academic | $850 | $650 | $800 | $900 |
 | Industry | $1,150 | $950 | $1,100 | $1,200 |
 
-The Author / Presenter Registration includes the applicable Conference Registration Fee plus the Paper Presentation Registration Fee for one or two accepted papers.
+The Author/Presenter Registration requires payment of the applicable Conference Registration Fee and a separate Paper Presentation Registration Fees for up to six accepted papers. Paper registration fees are listed below. 
 
 Workshop paper authors may register at the Author / Presenter rate through the Workshop Paper Registration Deadline of September 24, 2026.
 
@@ -75,7 +75,7 @@ Workshop paper authors may register at the Author / Presenter rate through the W
 | Academic | $500 | $300 | $450 | $500 |
 | Industry | $625 | $425 | $475 | $525 |
 
-The Author / Presenter Registration includes the applicable Tutorial or Workshop Registration Fee plus the Paper Presentation Registration Fee for one or two accepted papers.
+Author/Presenter Registration requires payment of the applicable Tutorial or Workshop Registration Fee and a separate Paper Presentation Registration Fees for up to six accepted papers. Paper registration fees are listed below. 
 
 ## Virtual Registration
 ### Registration Options
@@ -94,7 +94,7 @@ The Author / Presenter Registration includes the applicable Tutorial or Workshop
 | Academic | $400 | $300 | $450 |
 | Industry | $550 | $450 | $600 |
 
-The Author / Presenter Registration includes the applicable Virtual Conference Registration Fee plus the Virtual Paper Presentation Registration Fee for one or two accepted papers.
+The Author/Presenter Registration requires payment of the applicable Virtual Conference Registration Fee and a separate Virtual Paper Presentation Registration Fees for up to six accepted papers. Paper registration fees are listed below. 
 
 Workshop paper authors may register at the Author / Presenter rate through the Workshop Paper Registration Deadline of September 24, 2026.
 
@@ -115,7 +115,7 @@ Workshop paper authors may register at the Author / Presenter rate through the W
 | Academic | $250 | $150 | $200 |
 | Industry | $300 | $200 | $250 |
 
-The Author / Presenter Registration includes the applicable Virtual Tutorial or Workshop Registration Fee plus the Virtual Paper Presentation Registration Fee for one or two accepted papers.
+Author/Presenter Registration requires payment of the applicable Virtual Tutorial or Workshop Registration Fee and a separate Virtual Paper Presentation Registration Fees for up to six accepted papers. Paper registration fees are listed below. 
 
 ## Accepted Paper Information
 
