@@ -9,11 +9,23 @@ toc_sticky: True
 
 ## Venue
 
-**[Hungexpo](https://hungexpo.hu/en/hungexpo/)**<br>
-1101 Budapest, Albertirsai út 10.
-1441 Budapest, Pf. 44.
+The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026) will be held at the HUNGEXPO Budapest Congress & Exhibition Center, Hungary's premier convention and exhibition venue.
 
-Hungexpo Zrt. is Hungary's leading exhibition and conference organizer and one of the most prominent event venues in Central and Eastern Europe. Founded in 1967, the company has built a strong reputation for hosting major trade fairs, exhibitions, and international conferences, supported by an extensive global network and the backing of the French GL events group since 2005. Following a comprehensive redevelopment completed in 2021, the HUNGEXPO Budapest Congress and Exhibition Centre now features modern exhibition halls and a world-class congress center, providing a state-of-the-art venue for exhibitors, event organizers, and visitors while reinforcing Hungexpo's leadership in the regional events industry.
+### HUNGEXPO Budapest Congress & Exhibition Center
+
+Hungexpo Zrt. is Hungary’s leading exhibition and conference organizer and one of the most prominent event venues in Central and Eastern Europe. Founded in 1967, the company has built a strong reputation for hosting major trade fairs, exhibitions, and international conferences, supported by an extensive global network and the backing of French GL events group since 2005. Following a comprehensive redevelopment completed in 2021, the HUNGEXPO Budapest Congress and Exhibition Centre now features modern exhibition halls and a world-class congress center, providing a state-of-the-art venue for exhibitors, event organizers, and visitors while reinforcing Hungexpo’s leadership in the regional events industry.
+
+Located just east of Budapest's city center, HUNGEXPO offers modern meeting facilities, spacious exhibition halls, and dedicated networking areas, providing an ideal setting for our five days of technical sessions, workshops, tutorials, posters, exhibits, and community events.
+
+### Venue Information
+
+**HUNGEXPO Budapest Congress & Exhibition Center**<br>
+Albertirsai út 10<br>
+1101 Budapest, Hungary
+
+- Approximately 20 minutes from Budapest Ferenc Liszt International Airport (BUD) 
+- Easily accessible by taxi, rideshare, metro, and public transportation 
+- Modern conference facilities with on-site dining and exhibition space 
 
 ![Venu](https://2026.emnlp.org/assets/images/venue.png)
 
@@ -161,7 +173,7 @@ Budapest also has a strong fine-dining and Michelin scene if you want a standout
 - From **Budapest Ferenc Liszt International Airport (BUD):** the 100E Airport Express bus runs to Deák Ferenc tér downtown; from there connect via metro M2 toward the venue.
 - Alternatively, the 200E bus links the airport to the M3 metro at Kőbánya-Kispest.
 - A Bolt or Főtaxi to the Hungexpo/city area is straightforward if you prefer door-to-door.
-- **To Hungexpo:** the nearest metro is M2 (red line), Pillangó utca or Puskás Ferenc Stadion, with a short walk or connecting bus/tram to the Albertirsai út entrance.
+- **To Hungexpo:** the nearest metro is M2 (red line), Pillangó utca or Puskás Ferenc Stadion, with a short walk or connecting bus/tram to the Albertirsai út entrance. Hungexpo Budapest Congress Center (Entrance), Albertirsai út 10, 1101 Hungary - Gate III (Gate3)
 
 ### Transportation to the Venue
 
