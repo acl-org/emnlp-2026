@@ -215,7 +215,7 @@ Logistics services are handled by Hungexpo's contracted partner, **DSV**. Please
 
 DSV has been appointed as the official shipping handler of EMNLP 2026. Hungexpo will not receive any shipments sent by an exhibitor or sponsor.
 
-*More details to come soon.*
+Click on the .pdf [Here](https://2026.emnlp.org/assets/images/sponsors/EMNLP 2026_-_LogisticGuidelines.pdf) for shipping and freight guidelines. 
 
 ---
 
