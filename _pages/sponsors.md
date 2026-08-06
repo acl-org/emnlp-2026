@@ -55,7 +55,7 @@ platinum:
 
 gold:
   - url: https://www.jpmorganchase.com/about/technology
-    image_path: /assets/images/sponsors/jpmorganchase.png
+    image_path: /assets/images/logos/jpmorgan-logo.png
     alt: JPMorganChase
     title: JPMorganChase
   - url: https://www.antgroup.com/en
