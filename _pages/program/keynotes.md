@@ -32,8 +32,8 @@ The future of AI will depend on systems that can understand, adapt, and collabor
 
 **Bio**: Pascale Fung’s long term research background is in multimodal interactive systems including audio, speech, text and video. She started research on world modeling after studying the limitation of generative models due to hallucinations. She is the Co-founder and Chief Research & Innovation Officer at AMI Labs. She was previously the Senior Director of AI Research at Meta-FAIR, leading research on embodied AI agents. She is also a Chair Professor of ECE at The Hong Kong University of Science & Technology (HKUST). She is a Fellow of the ACL, AAAI, IEEE, and ISCA for her significant contribution to human-machine interactions.
 
-## Graham Neubug
-![Graham Neubug](/assets/images/keynotes/neubig-headshot-2021.jpg){: .align-center .speaker-photo}
+## Graham Neubig
+![Graham Neubig](/assets/images/keynotes/neubig-headshot-2021.jpg){: .align-center .speaker-photo}
 
 Monday, October 26, 15:15 - 16:15
 
