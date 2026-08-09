@@ -48,8 +48,8 @@ platinum:
     image_path: /assets/images/sponsors/gptzero_logo.png
     alt: GPTzero
     title: GPTzero
-  - url: 
-    image_path: /assets/images/sponsors/rednote.png
+  - url: https://www.linkedin.com/company/rednote/posts/?feedView=all
+    image_path: /assets/images/sponsors/rednote_linkedin.jpeg
     alt: RedNote
     title: RedNote
 
