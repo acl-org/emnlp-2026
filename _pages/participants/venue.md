@@ -31,6 +31,141 @@ Albertirsai út 10<br>
 
 *Hotel Accommodation information is coming soon...*
 
+## Accommodations
+Budapest offers accommodations for every travel style and budget, from luxury hotels overlooking the Danube River to convenient business hotels located adjacent to the conference venue.
+Whether you prefer to stay within walking distance of HUNGEXPO or experience the historic city center, there are numerous options available within a short commute of the conference.
+
+## Official Conference Hotel
+### Expo Tower Hotel
+
+The Expo Tower Hotel is the official EMNLP 2026 conference hotel and offers the most convenient location for attendees.
+
+Situated directly next to HUNGEXPO, the hotel provides easy walking access to all conference activities, allowing participants to maximize their time networking and attending sessions without the need for daily transportation.
+
+While the Expo Tower Hotel is ideal for convenience, attendees wishing to stay closer to Budapest's historic center and attractions will find many excellent alternatives listed below.
+
+### EMNLP 2026 Conference Rates
+
+| Room Type     | Conference Rate      |
+| ------------- | -------------------- |
+| Standard Room | $190 USD per night   |
+| Deluxe Room   | $215 USD per night   |
+
+### Why Stay at the Official Conference Hotel?
+
+- Walking distance to HUNGEXPO
+- No daily transportation required
+- Convenient for early morning and evening events
+- Network with fellow EMNLP attendees throughout your stay
+- Limited conference room block with exclusive EMNLP rates
+
+> **Availability is limited.** The EMNLP room block includes approximately 150 room nights and is expected to sell out quickly. Reservations are available on a first-come, first-served basis.
+
+### Official Conference Hotel Booking
+
+**Expo Tower Hotel**<br>
+Booking Link: [Click Here](https://acl.swoogo.com/EMNLPHousing)
+
+
+## EMNLP Preferred Hotel Program
+
+To provide attendees with additional accommodation choices, EMNLP 2026 is partnering with hotels across Budapest to secure exclusive discounted rates for conference participants.
+
+As agreements are finalized, hotels offering EMNLP discounts will be added below along with direct booking links.
+
+### EMNLP Preferred Hotels
+
+<!-- Insert grid from Venue & Travel cells (B8:F12) here -->
+
+We encourage attendees to check this page regularly, as additional hotel partners and exclusive conference discounts will continue to be added leading up to EMNLP 2026.
+
+## Additional Recommended Hotels
+
+Budapest offers an excellent selection of hotels located approximately 10–20 minutes from HUNGEXPO.
+
+Many of these properties are situated near the city center, providing convenient access to Budapest's restaurants, cafés, museums, thermal baths, shopping districts, and the iconic Danube River while remaining a short commute to the conference.
+
+The map below highlights recommended hotels that are conveniently located for conference attendees.
+
+<!-- Insert Recommended Hotel Map here -->
+
+### Hotel Map
+
+Hotels within approximately 10–20 minutes of HUNGEXPO
+
+*[Hotel Map by Distance](https://drive.google.com/file/d/1PRlvOygRQM2QuCwgl8xlaWhZcV-KraIT/view?usp=drive_link)*
+
+## Choosing the Right Hotel
+
+### ⭐ Expo Tower Hotel
+
+Best for attendees who want maximum convenience and the ability to walk to the conference venue.
+
+### 🏛️ City Centre Hotels
+
+Perfect for attendees who wish to experience Budapest's historic districts, restaurants, nightlife, and cultural attractions while commuting approximately 10–20 minutes to HUNGEXPO each day.
+
+### 💼 EMNLP Preferred Hotels
+
+Hotels displaying the EMNLP Preferred Hotel designation offer negotiated conference rates exclusively for registered attendees.
+
+## Hotel Reservations Disclosure
+Reservations at the Expo Tower Hotel and participating EMNLP Preferred Hotels are subject to availability.
+
+Conference rates are available only while each hotel's allocated room block remains available. Once a block is sold out, reservations will be accepted at the hotel's prevailing public rate, subject to availability.
+
+We recommend booking accommodations as early as possible to secure the best rates and your preferred location.
+
+## Travel to Budapest 
+
+International travel into Budapest relies on Budapest Ferenc Liszt International Airport (BUD) and three main railway stations. The primary arrival hubs are Budapest-Keleti (Eastern Station) for international trains and Terminal 2 at the airport.
+
+### Airport
+
+[Budapest Ferenc Liszt International Airport (BUD)](https://www.bud.hu/en) is approximately 16 km (10 miles) southeast of the city center. The airport is split into two terminals. Terminal 2 is divided into 2A and 2B (Terminal 1 is closed).
+
+**Terminal 2A** handles flights originating from inside the Schengen Area. If you fly from another Schengen country, you will exit straight to baggage claim without border control. Hungary is part of the border-free Schengen Area. If arriving from a non-Schengen nation, ensure your passport has at least 3 months of validity beyond your planned departure date. To learn more about traveling within the Schengen Area, click on the link [Here](https://www.kiwi.com/stories/essential-travel-guide-navigating-domestic-international-and-schengen-trips-with-confidence/).
+
+**Terminal 2B** handles non-Schengen international flights (including travelers coming from the UK, US, Canada, and the Middle East), where you will clear Hungarian border passport control.
+
+### Train
+
+**Arriving by Train: International Railway Stations**
+
+International trains terminate at different stations depending on your country of origin. Budapest has excellent metro connectivity from its platforms.
+
+**1. [Budapest-Keleti (Eastern Station)](https://www.mavcsoport.hu/)**
+
+Historically the main international hub, Budapest-Keleti handles high-speed rail lines coming from western Europe and southeastern Europe.
+
+- **Primary Routes:** Direct Railjet and EuroCity trains from Vienna (Austria), Munich (Germany), Zurich (Switzerland), and lines tracking from Romania.
+- **City Connection:** Downstairs links directly to Metro Line M2 (Red) and M4 (Green). It takes less than 5 minutes to reach the city center via M2.
+
+**2. [Budapest-Nyugati (Western Station)](https://www.mavcsoport.hu/)**
+
+Nyugati has absorbed a significant portion of international routes, especially from northern and central European neighbors.
+
+- **Primary Routes:** Daytime EuroCity and night trains running to and from Prague (Czechia), Bratislava (Slovakia), Warsaw/Kraków (Poland), and Berlin (Germany).
+- **City Connection:** Directly serviced by Metro Line M3 (Blue) and the 24/7 Tram Lines 4 and 6.
+
+**3. [Budapest-Kelenföld](https://www.mavcsoport.hu/)**
+
+Located in the southwestern part of Buda, Budapest-Kelenföld is the first major stop for trains arriving from the west or south before they cross the river to Keleti or Nyugati.
+
+- **Primary Routes:** Trains arriving from Croatia, Slovenia, and some Austrian regional lines.
+- **City Connection:** Direct terminal for Metro Line M4 (Green).
+
+## Travel in Budapest 
+Most recommended hotels are located within a 10–20 minute drive of HUNGEXPO.
+
+Transportation options include:
+- Taxi
+- Ride-share services
+- Budapest Metro
+- Tram
+- City Bus
+
+EMNLP Organizers have arranged for a shuttle bus from the Metro stop to the Convention Center
 
 ---
 
