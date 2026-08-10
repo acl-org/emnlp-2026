@@ -1,7 +1,7 @@
 ---
-title: 
+title: Venue & Travel
 layout: single
-excerpt: 
+excerpt: Venue & Travel
 permalink: /venue/
 toc: True
 toc_sticky: True
