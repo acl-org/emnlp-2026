@@ -79,6 +79,8 @@ As agreements are finalized, hotels offering EMNLP discounts will be added below
 
 We encourage attendees to check this page regularly, as additional hotel partners and exclusive conference discounts will continue to be added leading up to EMNLP 2026.
 
+EMNLP Organizers have arranged for a shuttle bus from the Metro stop to the Convention Center.
+
 ## Additional Recommended Hotels
 
 Budapest offers an excellent selection of hotels located approximately 10–20 minutes from HUNGEXPO.
