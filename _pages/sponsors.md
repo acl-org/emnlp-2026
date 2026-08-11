@@ -66,6 +66,10 @@ gold:
     image_path: /assets/images/sponsors/Tencent%20%20logo.png
     alt: Tencent
     title: Tencent
+  - url: https://www.meituan.com/en-US/about-us
+    image_path: /assets/images/sponsors/Meituan%20EMNLP%2026%20logo.png
+    alt: Meituan
+    title: Meituan
 
 silver:
   - url: https://research.adobe.com/
