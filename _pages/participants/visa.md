@@ -1,76 +1,96 @@
 ---
-title: EMNLP 2025 Visa Requirements & Invitation Letters
+title: Visa
 layout: single
-excerpt: "EMNLP 2025 Visa"
+excerpt: "Visa"
 permalink: /visa/
 sidebar:
-  nav: "travel"
+  nav: "visa"
 toc: True
 toc_sticky: True
 ---
 
-Thank you for your interest in attending EMNLP 2025 in Suzhou China. We’re excited to welcome you.
+## Who does NOT need a visa?
 
-There are several visa options for attendees:
+Citizens of all countries of the European Union, Switzerland, Croatia, Israel, Japan, Australia, New Zealand, most countries of North and South America, members of the Schengen treaty, and some other countries do not need a visa.
 
-- Visa-free entry: Several countries allow short-term entry to China without a visa.
-- Transit visa: Travelers passing through China en route to a third country may be eligible.
-- Tourist visa (L): This category is available to applicants from all countries.
+A valid passport is all that's required to enter Hungary. If in doubt, please contact the Hungarian Consulate or Embassy well in advance of departure.
 
-Please check this [quick reference sheet](https://netorgft16125283-my.sharepoint.com/:b:/g/personal/jrachford_randrplanning_com/EYL4QkGBupZDqD_xRbl1Z8wBk3SfjfZdtmOD6Sp_dUAsTQ?e=tlukhK) to see which you qualify for, along with the [required documents](https://us.china-embassy.gov.cn/eng/lsfw/zj/qz2021/202206/t20220614_10702581.htm) to apply.
+Current member countries of the Schengen Area are:
 
-We are aware of the delay in responses to visa requests and are actively working to find a viable solution to the visa invitation letter issue.
-Due to current Chinese regulations, the Association for Computational Linguistics (ACL) is not recognized as a Chinese entity. As a result, invitation letters issued by ACL cannot be guaranteed for use in F-category (business/academic) visa applications. We understand this may cause inconvenience and sincerely appreciate your patience and understanding as we continue to engage with the relevant authorities.
+Austria, Belgium, Bulgaria\*\*, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland\*, Italy, Latvia, Liechtenstein\*, Lithuania, Luxembourg, Malta, Netherlands, Norway\*, Poland, Portugal, Romania\*\*, Slovakia, Slovenia, Spain, Sweden, and Switzerland\*.
 
-We therefore strongly recommend that you first explore visa-free entry, transit visas, or a tourist (L) visa before considering an F visa. 
+\* non-EU members. \*\* Schengen Air & Sea agreement.
 
-If you have further questions about your visa options, please consult your nearest Chinese embassy or consulate for the most up-to-date guidance.
+## Who needs a visa?
 
----
+Travelers from other regions should consult the respective Hungarian or Schengen-partner representations regarding current requirements. Travelers holding a valid Schengen visa can travel freely within the Schengen zone for up to 90 days within a 180-day period, regardless of which member state issued the visa.
 
-Visa requirements depend on your nationality and the purpose of your visit. Here are the details about the visa options.
+Further information about visa regulations and Schengen visas can be found on the website of the **Hungarian Ministry of Foreign Affairs and Trade — Consular Service** (Konzuli Szolgálat): [https://konzinfo.mfa.gov.hu/en](https://konzinfo.mfa.gov.hu/en)
 
-### 1. Visa-Free Entry Options
-- **30-Day Visa-Free Entry:** Citizens of ~75 countries (mainly Europe, parts of Asia, Oceania, and Latin America) can enter China visa-free for up to 30 days.
-- **10-Day (240-Hour) Visa-Free Transit:** Citizens of ~55 countries can transit through China visa-free for up to 10 days if traveling onward to a third country. Note: This is usually not suitable for conference attendance unless you are in transit.
-- **Special Bilateral Agreements:** Citizens of Singapore, Brunei, and Japan may enter visa-free for 15 days under separate agreements.
+Please check the requirements applicable to your profile at the same site under "How to apply for a visa."
 
-📌 Check the official Chinese National Immigration Administration (NIA) or your local Chinese consulate for the latest country list and conditions.
+### Visa Categories Choice
 
----
+We recommend attendees of EMNLP 2026 who require a visa to apply for a **Visa C (short-stay/Schengen visa)**.
 
-### 2. L Visa (Tourist Visa)
+Schengen Visa C is intended for tourism, business, or visiting purposes (without gainful employment) for a maximum stay of 90 days within any 180-day period.
 
-- Intended for tourism, sightseeing, or personal visits.
-- Required for attendees and accompanying persons from countries not on the visa-free lists.
-- Typically, valid for 30–90 days (single or multiple entry).
-- Application requires:
-  - Valid passport  
-  - Proof of accommodation (e.g., hotel booking or conference venue details)  
-  - Return or onward flight ticket
+The standard Schengen visa fee is **€90** for adults (as of the fee increase that took effect in June 2026), **€45** for children aged 6–12, and free for children under 6\. This fee is the same across all Schengen states, including Hungary.
 
----
+Fee waivers may apply in some cases (e.g., certain researchers, students on organized academic trips, or close family members of EU citizens) — check the "Fees" section on the Consular Service website above for current details, as exemptions and amounts can change.
 
-### 3. F Visa (Visit/Exchange Visa)
+### Invitation Letter via Registration
 
-- Intended for non-commercial exchanges, academic visits, scientific activities, and short-term professional events.
-- Recommended for invited speakers, presenters, and academic participants of EMNLP 2025.
-- Requires an official invitation letter issued by the EMNLP 2025 Organizing Committee.
-- Usually valid for 30–90 days.
+You will be able to issue an invitation letter once your registration is complete. If you have applied for a registration waiver (e.g., as a student volunteer or D\&I participant) but have not yet received the results, please proceed with registration and select "I have applied for a grant subsidy" as your payment method in the meantime.  
+For those applying for a visa who need a visa invitation letter, please fill in this form: [https://forms.gle/6u3TuNotWMALBRm7A](https://forms.gle/6u3TuNotWMALBRm7A)   
+All other invitation letters will be provided at registration by YesEvents, our Registration Team.
 
----
+### Visa Appointment and Form
 
-### 4. Quick Reference Guide
+Applications for a Hungarian Schengen visa are submitted at a Hungarian Embassy or Consulate, or at an authorized visa application center (e.g., VFS Global), in your country of legal residence. Appointments for many locations can be booked through the Hungarian Ministry of Foreign Affairs' online booking system: [https://konzinfobooking.mfa.gov.hu/](https://konzinfobooking.mfa.gov.hu/)
 
-- If your country is on the 30-day visa-free list: You may not need a visa.
-- If your country is on the 10-day transit list only: You likely still need a visa for EMNLP.
-- If you are an invited speaker/presenter: Request an **F Visa** invitation letter from the organizers.
-- If you are attending as a general participant or tourist: Apply for an **L Visa**.
+Processing typically takes around 15 calendar days but can take up to 30–60 days depending on the mission, so applicants are strongly encouraged to apply as early as possible — ideally 6–8 weeks before travel, and no earlier than 6 months before.
 
----
+In countries where Hungary has no diplomatic representation, applications may be submitted at the consulate of another Schengen state acting on Hungary's behalf, or via a visa application center under contract with Hungary.
 
-## Final Note for Attendees
+## FAQ
 
-Visa policies can change. Always confirm the latest requirements with your local Chinese embassy/consulate before applying.
+### Acquiring a visa appointment
 
-For Visa related questions, please email: Wei ji at weiji@nju.edu.cn and Jiaheng Liu at liujiaheng@nju.edu.cn
+Unfortunately, we cannot book visa appointments nor guarantee an appointment at your embassy of preference. We recommend regularly checking the relevant Hungarian embassy or visa center's website for available slots, as they may open up at any time. Alternatively, consider applying at another Hungarian mission or authorized visa center if your situation allows it.
+
+### Contact details of visiting company
+
+ELTE Research Centre for Linguistics, Benczúr utca 33., 1068 Budapest, Hungary  
+Veronika Lipp, Director General
+
+### Electronic letter of guarantee
+
+We do not provide such a letter. However, the relevant Hungarian representatives have been informed that the conference is not responsible for covering the costs of attendees transportation, accommodation nor any activity outside of the beverages and food provided during the conference hours.
+
+### Embassy asking for justification letter
+
+If you filled out the form correctly and on time, your data has been received in the respective embassy which serves as a justification letter and connection to ACL 2025, and your visa will be on “fast-track” for approval. In case you did not fill out the form correctly and on time, your visa application will follow the normal procedure.
+
+### Extension of the stay in the invitation letter
+
+Unfortunately, we cannot modify the dates on the invitation letter, which reflect the official dates of the conference.
+
+### In case of visa rejection
+
+In the unfortunate event that your visa is rejected, please follow the cancellation policy of your registration.  
+Note: under Hungarian procedure, applicants (or their legal representative) generally have the right to appeal a Schengen visa refusal within 8 days of the decision. The appeal fee is non-refundable (commonly cited as around €30) and must be submitted in Hungarian or another official EU language, with a certified translation if submitted otherwise.
+
+### Invitation letter for your family or invited guest
+
+Unfortunately, we cannot provide justification to embassies for any person not directly associated with EMNLP 2026\. Anyone wishing to obtain their own invitation letter should register for the conference.
+
+## Recommendations from the Visa Chairs
+
+Carefully double-check the requirements of the Hungarian embassy or visa center you are applying to. An incomplete application can significantly delay approval.
+
+It is important to deliver your visa application documents in person, rather than through a spouse, sibling, parent, friend, etc., unless the mission explicitly allows representation.
+
+Apply at a Hungarian embassy, consulate, or authorized visa application center. You can find the competent Hungarian representation for your country of residence using the official locator:
+
+**Hungarian Ministry of Foreign Affairs and Trade – Find a Mission:** [https://konzinfo.mfa.gov.hu/en](https://konzinfo.mfa.gov.hu/en)  

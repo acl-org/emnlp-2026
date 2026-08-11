@@ -11,7 +11,7 @@ main:
     url: /registration/
 
   - title: "Participants Info"
-    url: /travel/
+    url: /visa/
 
   - title: "Venue & Travel"
     url: /venue/
@@ -117,13 +117,11 @@ committees:
       # - title: "Senior Area Chairs"
       #   url: /organization/program/
 
-travel:
-  # - title: "Information for"
-  #   children:
-  #     - title: "Travel"
-  #       url: /travel/
-      # - title: "Visa"
-      #   url: /visa/
+visa:
+  - title: "Information for"
+    children:
+      - title: "Visa"
+        url: /visa/
       # - title: "Underline and Whova"
       #   url: /underline-whova/
       # - title: "Poster Printing"
