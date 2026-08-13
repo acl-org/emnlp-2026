@@ -86,7 +86,7 @@ bronze:
     image_path: /assets/images/sponsors/DataoceanAI_Logo.png
     alt: DataOcean AI
     title: DataOcean AI
-  - url: 
+  - url: https://careers.booking.com/
     image_path: /assets/images/sponsors/Booking_Com_Logotype_Aug2020_Blue.png
     alt: Booking.com
     title: Booking.com
