@@ -81,6 +81,13 @@ We encourage attendees to check this page regularly, as additional hotel partner
 
 EMNLP Organizers have arranged for a shuttle bus from the Metro stop to the Convention Center.
 
+| Hotel | Distance to HUNGEXPO | Conference Rate | Reservation Deadline | Booking |
+|---|---|---|---|---|
+| Expo Tower Hotel (Official Hotel) | Walking Distance 130m | Standard $190 / Deluxe $215 | Sept 25, 2026 (Subject to Availability) | [Link](https://acl.swoogo.com/EMNLPHousing) |
+| Danubius Hotel Arena | 2.6 km | 12% off the rate using this link | Sept 25, 2026 (Subject to Availability) | [Link](https://www.danubiushotels.com/en/emnlp2026-arena) |
+| Danubius Hotel Hungaria City Center | 5.0 km | 12% off the rate using this link | Sept 25, 2026 (Subject to Availability) | [Link](https://www.danubiushotels.com/en/emnlp2026-hungaria) |
+| Additional Partner Hotel | — | Coming Soon | TBD | — |
+
 ## Additional Recommended Hotels
 
 Budapest offers an excellent selection of hotels located approximately 10–20 minutes from HUNGEXPO.
