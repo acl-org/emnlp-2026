@@ -61,6 +61,9 @@ While the Expo Tower Hotel is ideal for convenience, attendees wishing to stay c
 
 > **Availability is limited.** The EMNLP room block includes approximately 150 room nights and is expected to sell out quickly. Reservations are available on a first-come, first-served basis.
 
+Reservations booked at the Expo Tower Hotel are **guaranteed, non-refundable rates** within the discounted room block. Once confirmed, cancellations are not permitted and changes are not guaranteed. If your plans change or you are no longer able to use your reservation, you must contact Hannah Pietsch, ACL Accommodations Coordinator, as soon as possible by emailing hannah.pietsch@outlook.com. <br>
+**Please do not contact the hotel directly with questions about this reservation.**
+
 ### Official Conference Hotel Booking
 
 **Expo Tower Hotel**<br>
