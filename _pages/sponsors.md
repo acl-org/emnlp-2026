@@ -52,6 +52,10 @@ platinum:
     image_path: /assets/images/sponsors/rednote.png
     alt: RedNote
     title: RedNote
+  - url: https://careers.airbnb.com/
+    image_path: /assets/images/sponsors/airbnb-logo.png
+    alt: Airbnb
+    title: Airbnb
 
 gold:
   - url: https://www.jpmorganchase.com/about/technology
@@ -94,6 +98,10 @@ bronze:
     image_path: /assets/images/sponsors/DATAmundi%20purple%20%26%20navy%20logo%20(PREFERRED%20VERSION)-%20white%20background.png
     alt: Datamundi
     title: Datamundi
+  - url: 
+    image_path: /assets/images/sponsors/Thomson%20Reuters_GOLD%20Sponsor_tr_vrt_logo_rgb_color.png
+    alt: Thomson Reuters
+    title: Thomson Reuters
 
 di_ally:
   - url: https://machinelearning.apple.com/
