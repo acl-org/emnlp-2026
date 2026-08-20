@@ -68,7 +68,7 @@ In addition, opinion/vision papers related to real-world applications are also w
 | Review Release/Rebuttal Begins | July 26, 2026 |
 | Author Response Deadline | August 2, 2026 |
 | Notification of Acceptance | August 20, 2026 |
-| Camera-ready Deadline | September 20, 2026 |
+| Camera-ready Deadline | August 30, 2026 |
 | Conference | October 24-29, 2026 |
 
 All deadlines are 11.59 pm [UTC \-12h](https://www.timeanddate.com/time/zone/timezone/utc-12) (anywhere on earth).
