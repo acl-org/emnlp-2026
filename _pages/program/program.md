@@ -14,7 +14,7 @@ toc_icon: "cog"
 
 | Start | End | Session |
 |-------|-----|---------|
-| 14:00 | 20:30 | Registration |
+| 14:00 | 19:30 | Registration |
 | 18:00 | 20:00 | Welcome Reception |
 
 ## Sunday, October 25 — Main Conference Day 1
