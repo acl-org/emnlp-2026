@@ -235,3 +235,62 @@ Not Permitted<br>
 ✘ Full Conference In-Person → One-Day Workshop<br>
 ✘ Two-Day Workshop → One-Day Workshop<br>
 ✘ Conference Registration → Tutorial Registration
+
+## Anti Harrasement Policy
+
+ACL is committed to providing a professional, welcoming, inclusive, and harassment-free environment for all attendees, volunteers, exhibitors, sponsors, speakers, and staff.
+
+Harassment of any kind will not be tolerated.
+
+This includes harassment based on race, ethnicity, religion, disability, age, gender identity, sexual orientation, nationality, physical appearance, or any other protected characteristic.
+
+Anyone experiencing or witnessing harassment should immediately contact:
+
+- ACL Professional Conduct Committee
+- Donia Scott
+- Dan Bickel 
+- Lina Staggs
+- Jennifer Rachford
+- ACL Board Member
+
+The full Anti-Harrasement policy is available here: [https://www.aclweb.org/adminwiki/index.php/Anti-Harassment_Policy](https://www.aclweb.org/adminwiki/index.php/Anti-Harassment_Policy)
+
+## Code of Ethics
+
+ACL adopts the ACM Code of Ethics.
+
+All attendees are expected to conduct themselves professionally and ethically throughout the conference.
+
+The full Code of Ethics is available here: [https://www.acm.org/code-of-ethics](https://www.acm.org/code-of-ethics)
+
+## Badge Use & Reprint Policy
+
+Conference badges are issued exclusively to the registered attendee and are non-transferable. A valid conference badge must be worn and clearly visible at all times to access conference sessions, exhibits, meal functions, networking events, and other conference activities.
+
+### Badge Use
+- Conference badges are the property of the Association for Computational Linguistics (ACL).
+- Badges may not be shared, loaned, transferred, duplicated, altered, or used by anyone other than the registered attendee.
+- Badges must remain intact as issued. Altering, separating, cutting, or modifying any portion of a conference badge to permit use by more than one individual is strictly prohibited.
+- Attendees may be asked to present photo identification to verify badge ownership at any time during the conference.
+
+**Lost, Forgotten, or Damaged Badges.**
+If your badge is lost, stolen, forgotten, or damaged, please visit the Registration Desk for assistance.
+
+Additional badge replacements may be subject to a US$100 reprint fee.
+ACL reserves the right to verify the identity of any attendee requesting a replacement badge.
+
+### Badge Misuse
+Any attempt to share, transfer, alter, duplicate, or misuse a conference badge, or to provide conference access to an unregistered individual, is considered a violation of conference policy.
+
+ACL reserves the right to take appropriate action, including:
+- Confiscation of the badge(s)
+- Removal from the conference without refund
+- Cancellation of the attendee's registration
+- Denial of access to conference events and activities
+- Restriction from participation in future ACL conferences
+
+## Photography & Recording Notice
+
+Conference sessions, meetings, networking events, and other conference activities may be photographed, audio recorded, video recorded, or livestreamed for conference-related purposes.
+
+By attending EMNLP 2026, you acknowledge that your image, voice, or likeness may appear in conference recordings, livestreams, promotional materials, or future conference publications.
