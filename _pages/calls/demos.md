@@ -29,7 +29,7 @@ Papers describing accepted demonstrations will be published in a companion volum
 ## Important Dates
 
 | Paper submission deadline | Friday, July 10, 2026 |
-| Notification of acceptance | Friday August 20, 2026 |
+| Notification of acceptance | Friday August 22, 2026 (updated) |
 | Camera ready submission | Sunday, August 30, 2026 |
 | Main Conference | October 24-29, 2026 (Budapest, Hungary) |
 
