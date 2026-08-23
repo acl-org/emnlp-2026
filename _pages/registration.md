@@ -7,7 +7,7 @@ toc: True
 toc_sticky: True
 ---
 
-EMNLP 26 Registration Fees and policies are listed below, Registration will open on Monday August 24th once accepted papers have been announced.
+EMNLP 26 Registration Fees and policies are listed below. Registration is now open. Register [here](https://acl.swoogo.com/2026emnlp).
 
 Welcome to the registration page for the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026), taking place October 24–29, 2026, in Budapest, Hungary.
 
