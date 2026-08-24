@@ -173,14 +173,14 @@ If you do not already have a current ACL Membership, the appropriate membership 
 
 By registering for EMNLP 2026, attendees agree to comply with all applicable conference policies, including:
 
-Cancellation, Attendance Format Changes & Refund Policy 
-Badge Use & Reprint Policy
-Paper Presentation Registration Requirements
-ACL Code of Ethics
-ACL Anti-Harassment Policy
-Accessibility Assistance
-Privacy Policy
-Photography & Recording Notice
+- Cancellation, Attendance Format Changes & Refund Policy 
+- Badge Use & Reprint Policy
+- Paper Presentation Registration Requirements
+- ACL Code of Ethics
+- ACL Anti-Harassment Policy
+- Accessibility Assistance
+- Privacy Policy
+- Photography & Recording Notice
 
 ## Cancellation, Attendance Format Changes & Refund Policy
 
