@@ -139,16 +139,20 @@ All accepted Main Conference, Findings, Computational Linguistics (CL), Transact
 | Number of Accepted Papers | Fee |
 |:---|:---|
 | 1–2 Papers | $200 |
-| 3–4 Papers | $400 |
-| 5–6 Papers | $600 |
+| 3rd Paper | $100 |
+| 4th Paper | $100 |
+| 5th Paper | $100 |
+| 6th Paper | $100 |
 
 ### Virtual Presentation
 
 | Number of Accepted Papers | Fee |
 |:---|:---|
 | 1–2 Papers | $100 |
-| 3–4 Papers | $200 |
-| 5–6 Papers | $300 |
+| 3rd Paper | $50 |
+| 4th Paper | $50 |
+| 5th Paper | $50 |
+| 6th Paper | $50 |
 
 At least one author or designated presenter must use a qualifying conference registration to register the paper(s).
 
