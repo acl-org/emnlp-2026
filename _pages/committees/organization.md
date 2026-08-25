@@ -69,6 +69,12 @@ Contact: emnlp2026-programchairs@googlegroups.com
 <h2>Visa/Local Organizing Chairs</h2>
 Contact: emnlp2026-visachairs@googlegroups.com
 {% include committee-member.html
+   name="Veronika Lipp"
+   institution="ELTE Research Centre for Linguistics"
+   role="Visa/Local Organizing Chairs"
+   picture="/assets/images/committee/default.jpg"
+%}
+{% include committee-member.html
    name="Noémi Ligeti-Nagy"
    institution="ELTE Research Centre for Linguistics"
    role="Visa/Local Organizing Chairs"
