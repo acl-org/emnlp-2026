@@ -21,6 +21,7 @@ The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| Aug. 25, 2026 | [Call for Diversity and Inclusion Subsidies](https://2026.emnlp.org/calls/subsidies/) is out!
 | Aug. 01, 2026 | Blog post: [Concerning late ACL 2026 desk rejections](https://2026.emnlp.org/concerning-late-desk-rejections/)
 | Jul. 29, 2026 | [Call for volunteers](https://2026.emnlp.org/calls/volunteers/) is out!
 | Jul. 17, 2026 | Blog post: [Update: AI Reviewing Experiment](https://2026.emnlp.org/ai-reviewing-experiment-update/)

@@ -62,10 +62,8 @@ calls:
         url: /calls/volunteers/
       # - title: "Call for Birds-of-a-Feather and Affinity Group Events"
       #   url: /calls/bof/
-      # - title: "Volunteers"
-      #   url: /calls/volunteers/
-      # - title: "Diversity and Inclusion Subsidies"
-      #   url: /calls/subsidies/
+      - title: "Diversity and Inclusion Subsidies"
+        url: /calls/subsidies/
       # - title: "Virtual Registration Subsidies"
       #   url: /calls/virtual_subsidies/
 
