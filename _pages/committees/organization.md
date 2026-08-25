@@ -277,6 +277,7 @@ Contact: emnlp2026demochairs@googlegroups.com
 %}
 
 <h2>Student Volunteer Chairs</h2>
+Contact: emnlp2026-student-volunteer-chairs@googlegroups.com
 {% include committee-member.html
    name="Nafise Sadat Moosavi"
    institution="University of Sheffield"
