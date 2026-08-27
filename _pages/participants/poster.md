@@ -1,24 +1,23 @@
 ---
 title: Poster Printing
 layout: single
-excerpt: "EMNLP 2025 Poster Printing"
+excerpt: "EMNLP 2026 Poster Printing"
 permalink: /poster-printing/
 sidebar:
-  nav: "travel"
+  nav: "visa"
 toc: True
 toc_sticky: True
 ---
 
-For poster ordering details, see the order form [Here](https://emnlp25posterorder.mcimeetings.com/).
+Poster printing services will be provided by Hungexpo's in-house provider, Expo Dekor Kft. 
 
-Poster pickup will be onsite in room A201 (9am to 5pm, Nov 5 to Nov 9).
+Poster presenters will have the opportunity to order their poster in advance through a web link which is scheduled to be released on Friday, September 25. Presenters will be able to order their posters, upload their files and pay individually.
 
-Payment options include PayPal and Alipay.
+Posters costs will be 60-72 €/pc depending on paper thickness. Onsite orders with a 24 hour turn around will be available however, may be at a higher cost. It is encouraged to pre-order and pick up once on site. 
 
-- Click [Here](https://www.paypal.com/us/digital-wallet) to download PayPal for your device.
+Poster pickup will available in Hall H of the Hungexpo. Schedule times to be announced. 
 
-- Click [Here](https://render.alipay.com/p/s/download?form=chinese) to download AliPay for your device.
-
-- or visit the Apple Store for Apple devices or Google Play Store for Android devices.
-
-If you have any other questions about the poster, please email us at [murain2025@murain.cn](murain2025@murain.cn).
+Poster formats must be
+1. File in PDF format
+2. Portrait orientation
+3. Size A0 - 841 × 1189 mm or 84.1 × 118.9 cm or 33.1 × 46.8 in
