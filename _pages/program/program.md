@@ -45,7 +45,7 @@ toc_icon: "cog"
 | Start | End | Session |
 |-------|-----|---------|
 | 7:00 | 8:30 | Virtual Presentation Session 3 via Underline |
-| 8:30 | 16:30 | Registration |
+| 8:00 | 16:30 | Registration |
 | 9:00 | 10:30 | Session 5 — Orals/Posters C (Main, CL, TACL, SRW, Demos) |
 | 10:30 | 11:00 | Coffee Break |
 | 11:00 | 12:30 | Session 6 — Orals/Posters D (Main, CL, TACL, IND, Demos) |
