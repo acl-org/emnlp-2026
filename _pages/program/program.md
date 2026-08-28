@@ -65,6 +65,7 @@ toc_icon: "cog"
 
 | Start | End | Session |
 |-------|-----|---------|
+| 8:00 | 17:00 | Registration |
 | 9:00 | 10:30 | Session 10 — Orals/Poster F (Main, CL, TACL, Demos) |
 | 10:30 | 11:00 | Coffee Break |
 | 11:00 | 12:30 | Session 11 — Orals/Posters G (Main, CL, TACL, Demos) |
