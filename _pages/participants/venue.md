@@ -89,7 +89,12 @@ EMNLP Organizers have arranged for a shuttle bus from the Metro stop to the Conv
 | Expo Tower Hotel (Official Hotel) | Walking Distance 130m | Standard $190 / Deluxe $215 | Sept 25, 2026 (Subject to Availability) | [Link](https://acl.swoogo.com/EMNLPHousing) |
 | Danubius Hotel Arena | 2.6 km | 12% off the rate using this link | Sept 25, 2026 (Subject to Availability) | [Link](https://www.danubiushotels.com/en/emnlp2026-arena) |
 | Danubius Hotel Hungaria City Center | 5.0 km | 12% off the rate using this link | Sept 25, 2026 (Subject to Availability) | [Link](https://www.danubiushotels.com/en/emnlp2026-hungaria) |
-| Additional Partner Hotel | — | Coming Soon | TBD | — |
+| Movenpick Hotel Budapest | 5.0 km | *12% off the rate using this link | Subject to Availability | [Link](https://movenpickbudapestcentre.com/) |
+
+To access the preferred rates at the Movenpick Hotel, participants should enter the code EMLP26 in the “Preferential Code” field when making their reservation.
+
+Kindly note that the Movenpick's occupancy is already quite high for the night of 23 October. Therefore, a minimum stay of three nights currently applies to all reservations that include 23 October or arrive on 23 October. This restriction is part of their general booking policy and applies across all distribution channels and partners, not only to conference guests.
+
 
 ## Additional Recommended Hotels
 
