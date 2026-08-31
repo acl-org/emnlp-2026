@@ -184,6 +184,23 @@ Transportation options include:
 
 EMNLP Organizers have arranged for a shuttle bus from the Metro stop to the Convention Center
 
+The official Budapest Transport Center (BKK) website is the primary resource for navigating Budapest and provides information on public transportation, including metro, tram, bus, trolleybus, suburban railway, and airport transfer services. The site offers route planning, fare and pass information, service updates, and travel tips for visitors.
+
+The official Budapest Transport Center (BKK) website provides everything you need to navigate the city, including public transit maps, route planning, airport transportation, ticket and pass options, and travel updates.
+Website: [https://bkk.hu/en/](https://bkk.hu/en/)
+
+Visitors can also access the BudapestGO app for convenient trip planning and mobile ticket purchases.
+Get your digital ticket, plan your public transport trips in Budapest with the BudapestGO app [https://bkk.hu/en/tickets-and-passes/budapestgo/](https://bkk.hu/en/tickets-and-passes/budapestgo/)
+
+Budapest Card | See more. Save more.
+Make the most of Budapest – with a single card!
+
+Free public transport | Unlimited travel across the city<br>
+30+ free attractions | Lukács Thermal Bath, top museums, Danube cruises, guided tours<br>
+Discounts | 10–25% off at restaurants, cafés, museums and baths<br>
+Flexible validity | Choose based on duration, experiences or extra comfort options<br>
+[https://bkk.hu/en/tickets-and-passes/budapest-card/](https://bkk.hu/en/tickets-and-passes/budapest-card/)
+
 ---
 
 ## Local Information About Budapest
