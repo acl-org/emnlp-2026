@@ -95,11 +95,11 @@ To learn more about each workshop, including schedule & times, visit the worksho
 </div>
 
 <div class="notice--primary" markdown="1">
-### [13th Web-as-Corpus Workshop (WaC-13)](https://wackyworkshop.org/)
+### [Language Understanding in the Human-Machine Era (LUHME)](https://luhme.up.pt/)
 **Time:** 9:00–17:30
 <br>**Room:** TBA
 
-**Description:** The 13th Web-as-Corpus workshop provides a multidisciplinary forum for researchers to address the full life-cycle of web-based data. We invite contributions that introduce or evaluate methodologies for the collection, cleaning, and enrichment of web corpora, as well as their downstream applications across various fields. We particularly welcome contributions that address multilingual web data and less-resourced languages, going beyond an English-centric focus. Our scope encompasses four core pillars: (1) the engineering of high-quality multilingual datasets for foundation models, including data extraction, language identification, data enrichment and filtering, and their evaluation; (2) the use of web data for empirical linguistic research; (3) the analysis of web-scale corpora, both in terms of quality and representativeness and to track societal trends and cultural shifts; (4) the discussion of ethical and legal implications of collecting and using web data.
+**Description:** Large language models (LLMs) have revolutionized the way interactional artificial intelligence (AI) systems are developed by making them accessible to the general public. However, such systems are still prone to brittleness in language understanding, which raises doubts about the extent to which they can truly understand human language(s). The "Language Understanding in the Human-Machine Era" (LUHME) workshop aims to reignite, retrieve, resume, and refocus the enduring debate about the role of understanding in natural language use and related applications. It will convene researchers interested in the intersection of language understanding and the effective use of language technologies in human-machine interaction.
 </div>
 
 <div class="notice--primary" markdown="1">
@@ -193,11 +193,11 @@ The Workshop for Insights from Negative Results invites short papers as well as 
 </div>
 
 <div class="notice--primary" markdown="1">
-### [Language Understanding in the Human-Machine Era (LUHME)](https://luhme.up.pt/)
+### [13th Web-as-Corpus Workshop (WaC-13)](https://wackyworkshop.org/)
 **Time:** 9:00–17:30
 <br>**Room:** TBA
 
-**Description:** Large language models (LLMs) have revolutionized the way interactional artificial intelligence (AI) systems are developed by making them accessible to the general public. However, such systems are still prone to brittleness in language understanding, which raises doubts about the extent to which they can truly understand human language(s). The "Language Understanding in the Human-Machine Era" (LUHME) workshop aims to reignite, retrieve, resume, and refocus the enduring debate about the role of understanding in natural language use and related applications. It will convene researchers interested in the intersection of language understanding and the effective use of language technologies in human-machine interaction.
+**Description:** The 13th Web-as-Corpus workshop provides a multidisciplinary forum for researchers to address the full life-cycle of web-based data. We invite contributions that introduce or evaluate methodologies for the collection, cleaning, and enrichment of web corpora, as well as their downstream applications across various fields. We particularly welcome contributions that address multilingual web data and less-resourced languages, going beyond an English-centric focus. Our scope encompasses four core pillars: (1) the engineering of high-quality multilingual datasets for foundation models, including data extraction, language identification, data enrichment and filtering, and their evaluation; (2) the use of web data for empirical linguistic research; (3) the analysis of web-scale corpora, both in terms of quality and representativeness and to track societal trends and cultural shifts; (4) the discussion of ethical and legal implications of collecting and using web data.
 </div>
 
 <div class="notice--primary" markdown="1">
