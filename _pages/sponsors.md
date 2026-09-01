@@ -117,9 +117,9 @@ If your organization is interested in sponsoring EMNLP 2026, please refer to our
 Sponsorship Chairs:  [Matthias Gallé](mailto:mgalle@gmail.com) and [Nikos
 Aletras](mailto:n.aletras@sheffield.ac.uk).
 
-The deadline to sponsor EMNLP is **Friday, September 11, 2026.**
+The deadline to sponsor EMNLP is **Friday, September 15, 2026. (updated)**
 
-Click [here](https://2026.emnlp.org/exhibitors_kit/) for EMNLP 2026 Exhbitor Kit.
+Click [here](https://2026.emnlp.org/exhibitors_kit/) for EMNLP 2026 Exhibitor Kit.
 
 <style>
 .sponsors-list { justify-content: flex-start; }
