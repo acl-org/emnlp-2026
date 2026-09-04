@@ -140,6 +140,13 @@ Contact: emnlp2026-industry-track@googlegroups.com
    site="https://rezahaffari.github.io/HomePage/HomePage.html"
    picture="/assets/images/committee/reza.jpg"
 %}
+{% include committee-member.html
+   name="Minghan Wang"
+   institution="Monash University"
+   role="Industry Track Chairs"
+   site=""
+   picture="/assets/images/committee/default.jpg"
+%}
 
 <h2>Workshop Chairs</h2>
 Contact: emnlp-2026-workshop-organisers@googlegroups.com

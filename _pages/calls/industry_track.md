@@ -131,6 +131,7 @@ Authors will be allowed extra space after the sixth page for an optional broader
 
 [Pepa Atanasova](https://apepa.github.io/) (University of Copenhagen)   
 [Gholamreza Haffari](https://rezahaffari.github.io/HomePage/HomePage.html) (Monash University and Openstream AI)   
+Minghan Wang (Monash University)   
 **Email:** emnlp2026-industry-track@googlegroups.com
 
 ## Frequently Asked Questions
