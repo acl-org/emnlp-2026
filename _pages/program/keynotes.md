@@ -49,8 +49,8 @@ Monday, October 26, 15:15 - 16:15
 
 Tuesday, October 27, 14:30 - 15:30
 
-**Title**: TBA
+**Title**: AI for the Many: Starting from the World, Not the Model
 
-**Abstract**: TBA
+**Abstract**: AI is advancing at extraordinary speed, but its benefits remain profoundly uneven. For much of the world, the dominant path towards ever larger, more resource-intensive models is out of reach and not necessarily the right one. In this talk, I will examine the global AI divide through the lens of language. Recent evidence shows a widening global linguistic hierarchy, with thousands of languages and their communities at risk of being left behind. I will argue that addressing this divide requires a fundamental shift in how we approach AI development. Instead of asking how existing models can be extended to more people, we should ask what communities need from AI and how it can deliver meaningful benefit in their particular contexts. This means grounding AI in local needs and realities, taking account of available resources and infrastructure, and judging success by what it delivers in practice. If this technology is to make a meaningful difference across the world, we need not one path to AI, but many.
 
-**Bio**: TBA
+**Bio**: Anna Korhonen is Professor of Natural Language Processing at the University of Cambridge. Her research focuses on multilingual and human-centred language technology and AI, with the broader aim of ensuring societal and global benefit. Her work spans applications in health, education, science and the environment. She is the Director and co-founder of the Centre for Human-Inspired Artificial Intelligence (CHIA), the Institute for Technology and Humanity (ITH), and the Cambridge Language Technology Laboratory (LTL). She is a Fellow of the ACL, ELLIS and the British Academy. Her work informs global AI policy and governance through the United Nations and other international bodies.
