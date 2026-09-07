@@ -32,7 +32,8 @@ toc_icon: "cog"
 | 12:30 | 14:30 | Lunch Break |
 | 13:00 | 14:30 | Virtual Presentation Session 1 via Underline |
 | 13:00 | 14:00 | Findings Posters |
-| 14:30 | 15:30 | Session 3 — Panel: TBD |
+| 14:00 | 14:30 | Preliminary Report on the AI Reviewing Experiment |
+| 14:30 | 15:30 | Session 3 Panel: New Missions in NLP |
 | 15:30 | 16:00 | Break |
 | 16:00 | 17:30 | Session 4 — Orals/Posters B (Main, CL, TACL, Demos) |
 | 18:00 | 19:30 | Virtual Presentation Session 2 via Underline |
