@@ -71,9 +71,10 @@ gold:
     alt: Tencent
     title: Tencent
   - url: https://www.meituan.com/en-US/about-us
-    image_path: /assets/images/sponsors/Meituan%20EMNLP%2026%20logo.png
+    image_path: /assets/images/sponsors/美团_英文标准色横式标识.png
     alt: Meituan
     title: Meituan
+    scale: 2
 
 silver:
   - url: https://research.adobe.com/
