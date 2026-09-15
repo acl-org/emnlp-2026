@@ -76,8 +76,8 @@ program:
         url: /program/tutorials/
       - title: "Workshops"
         url: /program/workshops/
-      # - title: "Industry Track"
-      #   url: /program/industry/
+      - title: "Industry Track"
+        url: /program/industry/
   # - title: Accepted
   #   children:
   #     - title: "Main Conference Papers"
