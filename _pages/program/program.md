@@ -29,9 +29,8 @@ toc_icon: "cog"
 | 9:30 | 10:30 | Session 1 — [Keynote 1: Pascale Fung](https://2026.emnlp.org/program/keynotes/) |
 | 10:30 | 11:00 | Break |
 | 11:00 | 12:30 | Session 2 — Orals/Posters A (Main, CL, TACL, Demos) |
-| 12:30 | 14:30 | Lunch Break |
-| 13:00 | 14:30 | Virtual Presentation Session 1 via Underline |
-| 13:00 | 14:00 | Findings Posters |
+| 12:30 | 14:00 | Lunch Break |
+| 12:30 | 14:00 | Virtual Presentation Session 1 via Underline |
 | 14:00 | 14:30 | Preliminary Report on the AI Reviewing Experiment |
 | 14:30 | 15:30 | Session 3 Panel: New Missions in NLP |
 | 15:30 | 16:00 | Break |
@@ -50,9 +49,8 @@ toc_icon: "cog"
 | 9:00 | 10:30 | Session 5 — Orals/Posters C (Main, CL, TACL, SRW, Demos) |
 | 10:30 | 11:00 | Coffee Break |
 | 11:00 | 12:30 | Session 6 — Orals/Posters D (Main, CL, TACL, IND, Demos) |
-| 12:30 | 14:30 | Lunch Break |
-| 13:00 | 14:30 | Virtual Presentation Session 4 via Underline |
-| 13:00 | 14:00 | Findings Posters |
+| 12:30 | 14:00 | Lunch Break |
+| 12:30 | 14:00 | Virtual Presentation Session 4 via Underline |
 | 14:00 | 15:00 | Session 7 — Business Meeting (all attendees welcome) |
 | 15:15 | 16:15 | Session 8 — [Keynote 2: Graham Neubig](https://2026.emnlp.org/program/keynotes/) |
 | 16:15 | 16:45 | Coffee Break |
@@ -70,13 +68,12 @@ toc_icon: "cog"
 | 9:00 | 10:30 | Session 10 — Orals/Poster F (Main, CL, TACL, Demos) |
 | 10:30 | 11:00 | Coffee Break |
 | 11:00 | 12:30 | Session 11 — Orals/Posters G (Main, CL, TACL, Demos) |
-| 12:30 | 14:30 | Lunch Break (Findings Posters) |
-| 13:00 | 14:30 | Virtual Presentation Session 5 via Underline |
-| 13:00 | 14:00 | Findings Posters |
-| 14:30 | 15:30 | Session 12 — [Keynote 3: Anna Korhonen](https://2026.emnlp.org/program/keynotes/) |
-| 15:30 | 16:00 | Coffee Break |
-| 16:00 | 17:00 | Session 13 — Best Paper Award |
-| 17:00 | 17:30 | Session 13 — Closing Session |
+| 12:30 | 14:00 | Lunch Break (Findings Posters) |
+| 12:30 | 14:00 | Virtual Presentation Session 5 via Underline |
+| 14:00 | 15:00 | Session 12 — [Keynote 3: Anna Korhonen](https://2026.emnlp.org/program/keynotes/) |
+| 15:00 | 15:30 | Coffee Break |
+| 15:30 | 16:30 | Session 13 — Best Paper Award |
+| 16:30 | 17:00 | Session 13 — Closing Session |
 
 ## Wednesday, October 28 — Workshops & Tutorials
 
