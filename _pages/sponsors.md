@@ -103,6 +103,14 @@ bronze:
     image_path: /assets/images/sponsors/Thomson%20Reuters_GOLD%20Sponsor_tr_vrt_logo_rgb_color.png
     alt: Thomson Reuters
     title: Thomson Reuters
+  - url: http://www.labs.alice.io/
+    image_path: /assets/images/sponsors/Alice%20Logo_Pink%20(1).png
+    alt: Alice
+    title: Alice
+  - url: 
+    image_path: /assets/images/sponsors/Keenable_logo_primary_1200px.png
+    alt: Keenable
+    title: Keenable
 
 di_ally:
   - url: https://machinelearning.apple.com/
