@@ -338,20 +338,33 @@ Contact: emnlp2026-student-volunteer-chairs@googlegroups.com
    picture="/assets/images/committee/hour_kaing_nict.jpg"
 %}
 
-<h2>Workflow Chair</h2>
+<h2>Workflow Chairs</h2>
 Contact: emnlp2026.workflowchair@gmail.com
 {% include committee-member.html
    name="Cheng-Han Chiang"
    institution="National Taiwan University"
-   role="Workflow Chair"
+   role="Workflow Chairs"
    site="https://d223302.github.io/"
    picture="/assets/images/committee/cheng-han.png"
 %}
 {% include committee-member.html
    name="Yating Wu"
    institution="The University of Texas at Austin"
-   role="Workflow Chair"
+   role="Workflow Chairs"
    site="https://yatingwu.info"
    picture="/assets/images/committee/yating.jpg"
 %}
 
+<h2>Virtual Infrastructure Chairs</h2>
+{% include committee-member.html
+   name="Fernando Batista"
+   institution="Iscte and INESC-ID, Portugal"
+   role="Virtual Infrastructure Chairs"
+   picture="/assets/images/committee/fmmb_small2.jpeg"
+%}
+{% include committee-member.html
+   name="Ali Hürriyetoğlu"
+   institution="Enlighty.ai"
+   role="Virtual Infrastructure Chairs"
+   picture="/assets/images/committee/Hurriyetoglu-Ali-June-2025.jpeg"
+%}
