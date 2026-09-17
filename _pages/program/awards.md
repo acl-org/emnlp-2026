@@ -10,275 +10,42 @@ toc_sticky: true
 
 ## Best Paper
 
-* **Infini-gram mini: Exact n-gram Search at the Internet Scale with FM-Index**  
-  _Hao Xu, Jiacheng Liu, Yejin Choi, Noah A. Smith, Hannaneh Hajishirzi_
-
 ---
 
 ## Outstanding Papers
-
-1. **LingGym: How Far Are LLMs from Thinking Like Field Linguists?**  
-   _Changbing Yang, Franklin Ma, Freda Shi, Jian Zhu_
-
-2. **Mind the Value-Action Gap: Do LLMs Act in Alignment with Their Values?**  
-   _Hua Shen, Nicholas Clark, Tanu Mitra_
-
-3. **DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement**  
-   _Shaoqing Lin, Chong Teng, Fei Li, Donghong Ji, Lizhen Qu, Zhuang Li_
-
-4. **Generative or Discriminative? Revisiting Text Classification in the Era of Transformers**  
-   _Siva Rajesh Kasa, Karan Gupta, Sumegh Roychowdhury, Ashutosh Kumar,  
-   Yaswanth Biruduraju, Santhoh Kumar Kasa, Pattisapu Nikhil Priyatam,  
-   Arindam Bhattacharya, Shailendra Agarwal, Vijay Huddar_
-
-5. **Measuring Chain of Thought Faithfulness by Unlearning Reasoning Steps**  
-   _Martin Tutek, Fateme Hashemi Chaleshtori, Ana Marasovic, Yonatan Belinkov_
-
-6. **MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**  
-   _Jingyan Shen, Jiarui Yao, Rui Yang, Yifan Sun, Feng Luo, Rui Pan, Tong Zhang, Han Zhao_
-
-7. **Causal Interventions Reveal Shared Structure Across English Filler-Gap Constructions**  
-   _Sasha Boguraev, Christopher Potts, Kyle Mahowald_
 
 ---
 
 ## Best Special Theme Paper
 
-* **InterIDEAS: Philosophical Intertextuality via LLMs**  
-  _Yue Yang, Yinzhi Xu, Chenghao Huang, JohnMichael Jurgensen, Han Hu, Hao Wang_
-
 ---
 
 ## Best Resource Paper
-
-* **Autoformalization in the Wild: Assessing LLMs on Real-World Mathematical Definitions**  
-  _Lan Zhang, Marco Valentino, Andre Freitas_
 
 ---
 
 ## Social Impact Award
 
-* **AccessEval: Benchmarking Disability Bias in Large Language Models**  
-  _Srikant Panda, Amit Agarwal, Hitesh Laxmichand Patel_
-
 ---
 
 ## People’s Choice Award
-
-* **Randomly Removing 50% of Dimensions in Text Embeddings has Minimal Impact on Retrieval and Classification Tasks**  
-  _Sotaro Takeshita, Yurina Takeshita, Daniel Ruffinelli, Simone Paolo Ponzetto_ 
 
 ---
 
 ## SAC Highlights
 
-The Senior Area Chairs highlighted the following **35 papers** as particularly noteworthy:
-
-- **PAFT: Prompt-Agnostic Fine-Tuning**  
-  _Chenxing Wei, Yao Shu, Mingwen Ou, Ying He, Fei Yu_
-
-- **Constructions are Revealed in Word Distributions**  
-  _Joshua Rozner, Leonie Weissweiler, Kyle Mahowald, Cory Shain_
-
-- **To Mask or to Mirror: Human-AI Alignment in Collective Reasoning**  
-  _Crystal Qian, Aaron T. Parisi, Clémentine Bouleau, Vivian Tsai, Maël Lebreton, Lucas Dixon_
-
-- **Whisper-UT: A Unified Translation Framework for Speech and Text**  
-  _Cihan Xiao, Matthew Wiesner, Debashish Chakraborty, Reno Kriz, Keith Cunningham, Kenton Murray,  
-  Kevin Duh, Luis Tavarez-Arce, Paul McNamee, Sanjeev Khudanpur_
-
-- **Calibrating Verbal Uncertainty as a Linear Feature to Reduce Hallucinations**  
-  _Ziwei Ji, Lei Yu, Yeskendir Koishekenov, Yejin Bang, Anthony Hartshorn, Alan Schelten, Cheng Zhang,  
-  Pascale Fung, Nicola Cancedda_
-
-- **Quantifying Language Disparities in Multilingual Large Language Models**  
-  _Songbo Hu, Ivan Vulić, Anna Korhonen_
-
-- **Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents**  
-  _Haochen Sun, Shuwen Zhang, Lujie Niu, Lei Ren, Hao Xu, Hao Fu, Fangkun Zhao, Caixia Yuan, Xiaojie Wang_
-
-- **Think in Safety: Unveiling and Mitigating Safety Alignment Collapse in Multimodal Large Reasoning Model**  
-  _Xinyue Lou, You Li, Jinan Xu, Xiangyu Shi, Chi Chen, Kaiyu Huang_
-
-- **PSET: a Phonetics-Semantics Evaluation Testbed**  
-  _Gianluca Sperduti, Dong Nguyen_
-
-- **GATEAU: Selecting Influential Samples for Long Context Alignment**  
-  _Shuzheng Si, Haozhe Zhao, Gang Chen, Yunshui Li, Kangyang Luo, Chuancheng Lv, Kaikai An, Fanchao Qi,  
-  Baobao Chang, Maosong Sun_
-
-- **AbsVis: Benchmarking How Humans and Vision-Language Models "See" Abstract Concepts in Images**  
-  _Tarun Tater, Diego Frassinelli, Sabine Schulte im Walde_
-
-- **Analyzing Uncertainty of LLM-as-a-Judge: Interval Evaluations with Conformal Prediction**  
-  _Huanxin Sheng, Xinyi Liu, Hangfeng He, Jieyu Zhao, Jian Kang_
-
-- **ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks**  
-  _Heng Zhou, Hejia Geng, Xiangyuan Xue, Li Kang, Yiran Qin, Zhiyong Wang, Zhenfei Yin, Lei Bai_
-
-- **Prototypical Human-AI Collaboration Behaviors from LLM-Assisted Writing in the Wild**  
-  _Sheshera Mysore, Debarati Das, Hancheng Cao, Bahareh Sarrafzadeh_
-
-- **Comparing human and LLM politeness strategies in free production**  
-  _Haoran Zhao, Robert D. Hawkins_
-
-- **Who Holds the Pen? Caricature and Perspective in LLM Retellings of History**  
-  _Lubna Zahan Lamia, Mabsur Fatin Bin Hossain, Md Mosaddek Khan_
-
-- **AMACE: Automatic Multi-Agent Chart Evolution for Iteratively Tailored Chart Generation**  
-  _Hyuk Namgoong, Jeesu Jung, Hyeonseok Kang, Yohan Lee, Sangkeun Jung_
-
-- **HMoE: Heterogeneous Mixture of Experts for Language Modeling**  
-  _An Wang, Xingwu Sun, Ruobing Xie, Shuaipeng Li, Jiaqi Zhu, Zhen Yang, Pinxue Zhao, Weidong Han,  
-  Zhanhui Kang, Di Wang, Naoaki Okazaki, Cheng-zhong Xu_
-
-- **Lemmatization of Polish Multi-word Expressions**  
-  _Magdalena Król, Aleksander Smywiński-Pohl, Zbigniew Kaleta, Paweł Lewkowicz_
-
-- **Discriminating Form and Meaning in Multilingual Models with Minimal-Pair ABX Tasks**  
-  _Maureen de Seyssel, Jie Chi, Skyler Seto, Maartje Ter Hoeve, Masha Fedzechkina, Natalie Schluter_
-
-- **Tokenization and Representation Biases in Multilingual Models on Dialectal NLP Tasks**  
-  _Vani Kanjirangat, Tanja Samardzic, Ljiljana Dolamic, Fabio Rinaldi_
-
-- **ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical Reasoning**  
-  _Yu Sun, Xingyu Qian, Weiwen Xu, Hao Zhang, Chenghao Xiao, Long Li, Deli Zhao, Wenbing Huang,  
-  Tingyang Xu, Qifeng Bai, Yu Rong_
-
-- **Detecting Legal Citations in United Kingdom Court Judgments**  
-  _Holli Sargeant, Andreas Östling, Måns Magnusson_
-
-- **MAviS: A Multimodal Conversational Assistant For Avian Species**  
-  _Yevheniia Kryklyvets, Mohammed Irfan Kurpath, Sahal Shaji Mullappilly, Jinxing Zhou,  
-  Fahad Shahbaz Khan, Rao Muhammad Anwer, Salman Khan, Hisham Cholakkal_
-
-- **Cardiverse: Harnessing LLMs for Novel Card Game Prototyping**  
-  _Danrui Li, Sen Zhang, Samuel S. Sohn, Kaidong Hu, Muhammad Usman, Mubbasir Kapadia_
-
-- **Estimating LLM Consistency: A User Baseline vs Surrogate Metrics**  
-  _Xiaoyuan Wu, Weiran Lin, Omer Akgul, Lujo Bauer_
-
-- **Beyond WER: Probing Whisper's Sub-token Decoder Across Diverse Language Resource Levels**  
-  _Siyu Liang, Nicolas Ballier, Gina-Anne Levow, Richard Wright_
-
-- **RALS: Resources and Baselines for Romanian Automatic Lexical Simplification**  
-  _Fabian Anghel, Cristea Petru-Theodor, Claudiu Creanga, Sergiu Nisioi_
-
-- **NormGenesis: Multicultural Dialogue Generation via Exemplar-Guided Social Norm Modeling and Violation Recovery**  
-  _Minki Hong, Jangho Choi, Jihie Kim_
-
-- **LiTEx: A Linguistic Taxonomy of Explanations for Understanding Within-Label Variation in Natural Language Inference**  
-  _Pingjun Hong, Beiduo Chen, Siyao Peng, Marie-Catherine de Marneffe, Barbara Plank_
-
-- **Liaozhai through the Looking-Glass: On Paratextual Explicitation of Culture-Bound Terms in Machine Translation**  
-  _Sherrie Shen, Weixuan Wang, Alexandra Birch_
-
-- **Aligning Text/Speech Representations from Multimodal Models with MEG Brain Activity During Listening**  
-  _Padakanti Srijith, Khushbu Pahwa, Radhika Mamidi, Bapi Raju Surampudi, Manish Gupta, Subba R Oota_
-
-- **FoREST: Frame of Reference Evaluation in Spatial Reasoning Tasks**  
-  _Tanawan Premsri, Parisa Kordjamshidi_
-
-- **Layer-wise Minimal Pair Probing Reveals Contextual Grammatical-Conceptual Hierarchy in Speech Representations**  
-  _Linyang He, Qiaolin Wang, Xilin Jiang, Nima Mesgarani_
-
-- **Mind the Blind Spots: A Focus-Level Evaluation Framework for LLM Reviews**  
-  _Hyungyu Shin, Jingyu Tang, Yoonjoo Lee, Nayoung Kim, Hyunseung Lim, Ji Yong Cho, Hwajung Hong,  
-  Moontae Lee, Juho Kim_ 
-
 ---
 
 ## Outstanding Senior Area Chairs
-
-- Ashiqur R. KhudaBukhsh  
-- Cassandra L. Jacobs  
-- Debora Nozza  
-- Luciana Benotti  
-- Miryam de Lhoneux  
-- Richard Sproat  
-- Sachin Kumar  
-- Usman Naseem  
-- Wenpeng Yin
 
 ---
 
 ## Outstanding Area Chairs
 
-- Alla Rozovskaya  
-- Gaël Guibon  
-- Gerasimos Spanakis  
-- Jianhui Pang  
-- JinYeong Bak  
-- Jivnesh Sandhan  
-- Lei Li  
-- Lucy Li  
-- Mark G. Lee  
-- Matthieu Labeau  
-- Shruti Rijhwani  
-- Vered Shwartz  
-- Vivek Gupta  
-- Wei Zhao  
-- Xindi Wang
-
 ---
 
 ## Outstanding Reviewers
 
-- Alon Eirew  
-- Andrey Sakhovskiy  
-- Arkadiusz Janz  
-- Chun-Ying Huang  
-- Daixuan Cheng  
-- Di Wang  
-- Dominic Petrak  
-- Esra Dönmez  
-- George Zerveas  
-- Giacomo Frisoni  
-- Huachuan Qiu  
-- Huimu Wang  
-- Jiaqi Chen  
-- Jiawei Ma  
-- Jiayi Wang  
-- Jiho Jin  
-- Jingcheng Niu  
-- Joel Ruben Antony Moniz  
-- Jonathan P. Chang  
-- Justin Vasselli  
-- Kavin R. V.  
-- Kerem Zaman  
-- Kevin Duh  
-- Liu Chengwu  
-- Long H. B. Nguyen  
-- Mahan Malihi  
-- Mengru Wang  
-- Mun Yong Yi  
-- Munmun De Choudhury  
-- Nishant Balepur  
-- Pretam Ray  
-- Qing Zong  
-- Răzvan-Alexandru Smădu  
-- Ruida Wang  
-- Sahal Shaji Mullappilly  
-- Shaolin Zhu  
-- Shuai Zhao  
-- Suyash Damle  
-- Tanmay Parekh  
-- Tiankai Yang  
-- Tong Ding  
-- Wei Yao  
-- Xiulin Yang  
-- Xiwen Liang  
-- Yaswanth Narsupalli  
-- Yeyun Gong  
-- Youna Kim  
-- Yuxuan Chen  
-- Yves Scherrer  
-- Zhenzhou Ji  
-- Zhicheng Yang
-
 ---
 
 ## Paper Award Selection Process
-
-The **Best Paper Committee** was chaired by **Owen Rambow** (Stony Brook University) and **Mirella Lapata** (University of Edinburgh). A special committee, with assignments based on reviewer expertise, produced 92 reviews and selected four best paper nominations, from which the final awardees were chosen (including ARR-originating submissions with fewer initial nominations).
-
