@@ -74,7 +74,14 @@ gold:
     image_path: /assets/images/sponsors/美团_英文标准色横式标识.png
     alt: Meituan
     title: Meituan
-    scale: 2
+  - url: https://qvac.tether.io/
+    image_path: /assets/images/sponsors/tether_logo_icon_black_x1.png
+    alt: Tether
+    title: Tether
+  - url: https://www.sap.com/products/artificial-intelligence/research.html
+    image_path: /assets/images/sponsors/SAP_C_grad_sign.jpg
+    alt: SAP
+    title: SAP
 
 silver:
   - url: https://research.adobe.com/
