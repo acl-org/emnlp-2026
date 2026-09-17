@@ -368,3 +368,19 @@ Contact: emnlp2026.workflowchair@gmail.com
    role="Virtual Infrastructure Chairs"
    picture="/assets/images/committee/Hurriyetoglu-Ali-June-2025.jpeg"
 %}
+
+<h2>AI Reviewing Chairs</h2>
+{% include committee-member.html
+   name="Joydeep Biswas"
+   institution="University of Texas at Austin"
+   role="AI Reviewing Chairs"
+   site="https://www.joydeepb.com/"
+   picture="/assets/images/committee/joydeepb.jpg"
+%}
+{% include committee-member.html
+   name="Gaurav Sahu"
+   institution="Mila"
+   role="AI Reviewing Chairs"
+   site="https://demfier.github.io/"
+   picture="/assets/images/committee/prof_pic-800.webp"
+%}
