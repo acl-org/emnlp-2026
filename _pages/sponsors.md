@@ -114,7 +114,7 @@ bronze:
     image_path: /assets/images/sponsors/Alice%20Logo_Pink%20(1).png
     alt: Alice
     title: Alice
-  - url: 
+  - url: keenable.ai
     image_path: /assets/images/sponsors/Keenable_logo_primary_1200px.png
     alt: Keenable
     title: Keenable
