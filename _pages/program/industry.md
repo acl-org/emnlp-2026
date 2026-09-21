@@ -16,14 +16,14 @@ toc_icon: "cog"
 
 | Start | End | Session Number | Description |
 | --- | --- | --- | --- |
-| **11:00** | **12:30** | Session 2 | Industry 1: Opening, Invited Talk: Mohit Bansal, Oral talk |
-| **16:30** | **18:00** | Session 4 | Industry 2: Retrieval and RAG |
+| **11:00** | **12:30** | Session 2 | Industry 1: Opening, Retrieval and RAG |
+| **16:30** | **18:00** | Session 4 | Industry 2: Invited Speaker: Mohit Bansal, 2 oral talks |
 
 ### Monday, October 26, 2026
 
 | Start | End | Session Number | Description |
 | --- | --- | --- | --- |
-| **9:00** | **10:30** | Session 5 | Industry 3: Invited Speaker: Verena Rieser, 2 oral talks |
+| **9:00** | **10:30** | Session 5 | Industry 3: 2 oral talks, Invited Speaker: Verena Rieser |
 | **11:00** | **12:30** | Session 6 | Industry: Poster Session |
 | **16:45** | **18:15** | Session 9 | Industry 4: Trust, Safety, and Control |
 
@@ -42,7 +42,7 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 ## Industry Keynote 1: Mohit Bansal
 ![Mohit Bansal](/assets/images/keynotes/mohitbansal2025.png){: .align-center .speaker-photo}
 
-Sunday, October 25, 11:00 – 12:30
+Sunday, October 25, 16:30 – 18:00
 
 **Title:** Agentic Challenges (Trustworthy Collaboration, World Discovery, and Long-Horizon Memory) and Industry-Academia Collaborations
 
