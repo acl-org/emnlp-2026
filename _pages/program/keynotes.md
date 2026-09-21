@@ -58,7 +58,7 @@ Tuesday, October 27, 14:30 - 15:30
 ## Industry Keynote 1: Mohit Bansal
 ![Mohit Bansal](/assets/images/keynotes/mohitbansal2025.png){: .align-center .speaker-photo}
 
-Sunday, October 25, 16:30 – 18:00
+Sunday, October 25, 16:30 – 17:30
 
 **Title:** Agentic Challenges (Trustworthy Collaboration, World Discovery, and Long-Horizon Memory) and Industry-Academia Collaborations
 
