@@ -118,6 +118,10 @@ bronze:
     image_path: /assets/images/sponsors/Keenable_logo_primary_1200px.png
     alt: Keenable
     title: Keenable
+  - url: https://oruk.ai/
+    image_path: /assets/images/sponsors/oruk-primary.png
+    alt: Oruk
+    title: Oruk
 
 di_ally:
   - url: https://machinelearning.apple.com/
