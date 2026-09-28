@@ -5,7 +5,7 @@ excerpt: "EMNLP 2025 Events"
 permalink: /program/events/
 sidebar:
     nav: "program"
-toc: false
+toc: true
 toc_sticky: false
 ---
 
