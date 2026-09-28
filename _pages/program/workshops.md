@@ -201,7 +201,7 @@ The Workshop for Insights from Negative Results invites short papers as well as 
 </div>
 
 <div class="notice--primary" markdown="1">
-### [Multimodal Interaction in Face-to-Face Dialogue (MINT)](#)
+### [Multimodal Interaction in Face-to-Face Dialogue (MINT)](https://mintworkshop.github.io/2026/)
 **Time:** 9:00–17:30
 <br>**Room:** TBA
 
