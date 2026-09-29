@@ -106,6 +106,8 @@ program:
       #   url: /program/bof/
       - title: "Welcome Reception"
         url: /program/welcome_reception/
+      - title: "Social Event"
+        url: /program/events/
 
 committees:
   - title: Committees

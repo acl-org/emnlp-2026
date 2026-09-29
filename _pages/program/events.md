@@ -1,7 +1,7 @@
 ---
-title: "Events"
+title: "Social Event"
 layout: single
-excerpt: "EMNLP 2025 Events"
+excerpt: "EMNLP 2026 Events"
 permalink: /program/events/
 sidebar:
     nav: "program"
@@ -9,7 +9,6 @@ toc: true
 toc_sticky: false
 ---
 
-# Social Event
 ## Event Details
 
 - Social Event Date: Monday, October 26, 2026
