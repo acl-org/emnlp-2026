@@ -10,6 +10,10 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
+For the detailed program, please check [here](https://docs.google.com/spreadsheets/d/1aXGTy_7Xeh-OXIs3iJSbDpUsZ6YhbfA76b17kBZH0Yk/edit?gid=943432490#gid=943432490). 
+
+If you wish to switch your presentation from in-person to virtual, please fill out this survey [https://emnlp2026-virtualpresentation.paperform.co/](https://emnlp2026-virtualpresentation.paperform.co/). Once completed, kindly notify us at [emnlp2026@underline.io](emnlp2026@underline.io) with your Paper ID, Paper Title, and confirmation that the survey has been submitted.
+
 ## Saturday, October 24 — Registration & Welcome Reception
 
 | Start | End | Session |
