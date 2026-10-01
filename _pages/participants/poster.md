@@ -11,8 +11,6 @@ toc_sticky: True
 
 Poster printing services will be provided by Hungexpo's in-house provider, Expo Dekor Kft.
 
-~~Poster presenters will have the opportunity to order their poster in advance through this link here. Presenters will be able to order their posters, upload their files and pay individually.~~
-
 Posters costs will be 60-72 €/pc depending on paper thickness. Onsite orders with a 24 hour turn around will be available however, may be at a higher cost. It is encouraged to pre-order and pick up once on site.
 
 Poster pickup will available in Hall H of the Hungexpo. Schedule times to be announced.
