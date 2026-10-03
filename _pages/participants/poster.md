@@ -21,3 +21,5 @@ Poster formats must be
 3) Size A0 - 841 × 1189 mm or 84.1 × 118.9 cm or 33.1 × 46.8 in
 
 Poster orders may be placed [HERE](https://www.colorskin.hu/en/).
+
+Poster order deadline is Saturday, October 17. Orders placed after this date will incur an automatic express charge of 10-15 EUR.
