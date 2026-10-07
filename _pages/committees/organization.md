@@ -123,6 +123,13 @@ Contact: emnlp2026-visachairs@googlegroups.com
    site="https://www.xiaodanzhu.com/"
    picture="/assets/images/committee/xiaodan_zhu.jpg"
 %}
+{% include committee-member.html
+   name="Asad Basheer Sayeed"
+   institution="University of Gothenburg"
+   role="ARR May 2026 Editors-in-Chief"
+   site="https://asayeed.github.io/"
+   picture="/assets/images/committee/asad_sayeed.jpeg"
+%}
 
 <h2>Industry Track Chairs</h2>
 Contact: emnlp2026-industry-track@googlegroups.com
