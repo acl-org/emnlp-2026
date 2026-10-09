@@ -55,9 +55,12 @@ Sunday, October 25, 16:30 – 17:30
 
 Monday, October 26, 9:00 – 10:30
 
-**Title:** What are we aligning to? Positive Alignment for Value-based Agents
+**Title:** Toward a Science of Constitutional Alignment: Positive Alignment for Value-Based Agents
 
-**Abstract:** Outcome-driven metrics hack safety constraints, human preferences breed sycophancy, and rigid rubrics fail out-of-distribution. This talk makes the case for positive alignment: anchoring agents in values and principles for autonomous decision-making. To realise this vision, I argue that current constitutional approaches leave two foundational questions unanswered. First, can models apply abstract values and principles out of the box? I will demonstrate why existing models fall short and outline the need to evaluate and cultivate genuine normative reasoning. Second, where do these values come from? I show how scalable democratic deliberation can derive shared normative principles. Finally, I demonstrate how this dual agenda provides the necessary foundation for preventing systemic safety traps and coordination failures in multi-agent ecosystems.
+**Abstract:** As AI systems become increasingly autonomous, we need a rigorous new science to ensure that more capable models make safe, reliable choices even when we aren't looking.
+A promising direction is positive alignment: anchoring models to an intrinsic "north star" of high-level normative values rather than brittle rubrics or feedback signals that fail to prevent reward hacking or unsafe behaviour out-of-distribution
+While constitutions offer a powerful vehicle to define these foundational principles, existing approaches rely on ad-hoc heuristics.
+This talk makes the case for constitutional alignment as an empirical, systematic science, outlining the normative reasoning paradigms, evaluation methodologies, and governance structures required to navigate emergent capabilities and safely steer the next generation of AI agents.
 
 **Speaker Bio:** Verena Rieser is a Research Lead at Google DeepMind, where she directs research on responsible alignment for frontier models. She has over 20 years of experience researching and building generative and conversational AI systems. She was previously a Full Professor of Artificial Intelligence at Heriot-Watt University and co-founder of an AI startup. She earned her PhD from Saarland University in 2008, where she pioneered the use of reinforcement learning for spoken dialogue systems.
 
@@ -66,5 +69,9 @@ Her foundational contributions to conversational AI and machine learning have be
 ## Panel: October 27, Session 11:00–12:30
 
 **Topic:** AI Agents in the Real World: Capability, Trust, Values, and Deployment
+
+**Moderator:** Iryna Gurevych
+
+**Participants:** Verena Rieser, Mohit Bansal, Shahram Khadivi, Yashar Mehdad 
 
 **Context:** Large language models are rapidly evolving from systems that generate responses into agents that pursue goals, use tools, maintain memory, interact with people and other agents, and act across extended periods of time. Yet greater agency brings more than greater capability: it introduces new questions about reliability, control, accountability, values, and the appropriate division of labour between humans and machines. An agent may succeed on a benchmark while failing under changing, ambiguous, or adversarial real-world conditions; it may complete a task while violating the user’s underlying intent; and it may appear collaborative while manipulating beliefs or merely agreeing with its user. This panel brings together perspectives from research and industry to examine what meaningful progress in AI agents should look like, how it should be evaluated, and what technical, institutional, and societal foundations are needed before increasingly autonomous agents can be deployed responsibly at scale.
