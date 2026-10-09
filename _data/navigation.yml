@@ -102,8 +102,8 @@ program:
         url: /program/keynotes/
       # - title: "Panel"
       #   url: /program/panel/
-      # - title: "Birds of a Feather"
-      #   url: /program/bof/
+      - title: "Birds of a Feather"
+        url: /program/bof/
       - title: "Welcome Reception"
         url: /program/welcome_reception/
       - title: "Social Event"
