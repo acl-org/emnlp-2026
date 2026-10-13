@@ -107,7 +107,7 @@ Style is central to New Missions for NLP Research: Language models encounter div
 ## Tuesday, October 27, 2026
 
 ### Data to Output: Diversity Across the NLP Pipeline
-**Time:** 09:00–10:30 (Session 11)  
+**Time:** 09:00–10:30 (Session 10)  
 **Location:** G11  
 **Organizer:** Cantao Su
 
