@@ -110,8 +110,10 @@ See Registration & Program times on the conference program: https://2026.emnlp.o
 | Monday, October 26 | 08:30 – 18:15 | Show Times |
 | Tuesday, October 27 | 08:30 – 16:00 | Show Times |
 | Tuesday, October 27 | 16:00 – 17:30 | Move Out |
-| Tuesday, October 27 | 18:00 - 23:00 | EAC's booth dismantling times |
-| Wednesday, October 28 | 9:00 - 14:00 | EAC's booth dismantling times |
+| Tuesday, October 27 | 18:00 - 23:00 | EAC's booth dismantling times and load-out |
+|~~Wednesday, October 28~~ | ~~9:00 - 14:00~~ | ~~EAC's booth dismantling times~~|
+
+*EAC's times updated Oct 12. 2026*
 
 ---
 
