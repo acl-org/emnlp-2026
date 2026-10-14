@@ -104,17 +104,17 @@ Style plays a central role across the full NLP pipeline: the stylistic diversity
 
 Style is central to New Missions for NLP Research: Language models encounter diverse registers, dialects and individual writing styles, and generate texts with stylistic prints of their own. Current benchmarks may capture only a narrow range of stylistic features or definitions of style, leaving open how to model and evaluate style across domains, tasks and social contexts. These questions are also relevant to applications such as writing assistance, personalization and chatbots, where style also depends on humans’ subjective preferences. Studying linguistic style thus contributes both to understanding human language and to developing language technologies that support diverse needs.
 
-## Tuesday, October 27, 2026
-
 ### Data to Output: Diversity Across the NLP Pipeline
-**Time:** 09:00–10:30 (Session 10)  
-**Location:** G11  
+**Time:** 11:00–12:30 (Session 6)  
+**Location:** G9-10  
 **Organizer:** Cantao Su
 
 **Description:**  
 Diversity is increasingly discussed across the NLP pipeline, yet many fundamental questions remain poorly understood. What do we mean by diversity, and how should we measure diversity in datasets and LLM outputs? How can we collect or select training data and in-context examples that capture greater diversity? When does diversity actually help and which kinds? At generation time, how can we encourage outputs that better reflect the variability of human language? When can synthetic data enhance diversity, and when might it undermine it? Despite growing interest in these questions, our understanding of the role of diversity in NLP is still in its beginning stages. Our main goal is to provide a platform for researchers interested in these topics to get to know each other and share insights and motivations. We plan to open the session with a 15-minute introduction to the topic and why it is important, ending with open questions. The introduction is followed by an informal discussion of these open questions. Participants are welcome to bring their own discussion topics. The session is organized by the DataDivers team (including Dong Nguyen, Anna Wegmann, Esther Ploeger and Cantao Su).
 
 The New Missions for NLP Research theme asks, among others, how to measure progress beyond benchmark scores. The theme description mentions robustness and model deployment in diverse settings as potential new evaluation settings. The theme also directly asks about the consequences of synthetic data feedback loops. Diversity is central to such questions: The diversity of training data can affect how robust models are across settings, the diversity of model outputs determines the diversity of synthetic data used to train future models, and only diverse evaluation data can show whether models work across settings.
+
+## Tuesday, October 27, 2026
 
 ### Queer in AI
 **Event:** Affinity group lunch (Day 3)  
