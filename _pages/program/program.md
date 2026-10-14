@@ -21,6 +21,9 @@ If you wish to switch your presentation from in-person to virtual, please fill o
 | 14:00 | 19:30 | Registration |
 | 18:00 | 20:00 | Welcome Reception |
 
+**Daylight saving time ends on Sunday, October 25, 2026.**<br>
+Time change:  At 3:00:00 am, clocks are turned backward 1 hour to 2:00:00 am.
+
 ## Sunday, October 25 — Main Conference Day 1
 
 *Lunch will be provided; breakfast & dinner are not.*<br>

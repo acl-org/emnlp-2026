@@ -1,5 +1,4 @@
 ---
-title: Visa
 layout: single
 excerpt: "Visa"
 permalink: /visa/
@@ -8,6 +7,11 @@ sidebar:
 toc: True
 toc_sticky: True
 ---
+
+**Daylight saving time ends on Sunday, October 25, 2026.**<br>
+Time change:  At 3:00:00 am, clocks are turned backward 1 hour to 2:00:00 am.
+
+# Visa
 
 ## Who does NOT need a visa?
 
