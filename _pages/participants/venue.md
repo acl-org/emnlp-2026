@@ -1,11 +1,15 @@
 ---
-title: Venue & Travel
 layout: single
 excerpt: Venue & Travel
 permalink: /venue/
 toc: True
 toc_sticky: True
 ---
+
+**Daylight saving time ends on Sunday, October 25, 2026.**<br>
+Time change:  At 3:00:00 am, clocks are turned backward 1 hour to 2:00:00 am.
+
+# Venue & Travel
 
 ## Venue
 
