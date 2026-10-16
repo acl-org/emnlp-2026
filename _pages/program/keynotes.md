@@ -47,7 +47,7 @@ Monday, October 26, 15:15 - 16:15
 ## Keynote 3: Anna Korhonen
 ![Anna Korhonen](/assets/images/keynotes/74ae062f-6771-4118-a72c-96d219e562b0.png){: .align-center .speaker-photo}
 
-Tuesday, October 27, 14:30 - 15:30
+Tuesday, October 27, 14:00 - 15:00
 
 **Title**: AI for the Many: Starting from the World, Not the Model
 
