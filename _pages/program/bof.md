@@ -55,8 +55,8 @@ Language model agents are moving from demos into settings where a wrong action c
 This session directly connects to the EMNLP 2026 theme, New Missions for NLP Research, by focusing on the transition from language models as benchmarked components to agentic systems deployed in consequential real-world settings. As language model agents increasingly interact with tools, environments, and human decision-making processes, progress can no longer be measured only through static benchmark performance. The session therefore emphasizes trustworthiness, robustness, and real-world deployment, and asks what new capabilities, safeguards, and technical approaches are needed for NLP systems operating in high-stakes industry applications.
 
 ### ARR Editors-in-Chief Meet'n'Greet
-**Time:** 09:00–10:30 (Session 5)  
-**Location:** G11  
+**Time:** 11:00–12:30 (Session 6)  
+**Location:** G9-10
 **Organizer:** Asad Sayeed
 
 **Description:**  
@@ -105,8 +105,8 @@ Style plays a central role across the full NLP pipeline: the stylistic diversity
 Style is central to New Missions for NLP Research: Language models encounter diverse registers, dialects and individual writing styles, and generate texts with stylistic prints of their own. Current benchmarks may capture only a narrow range of stylistic features or definitions of style, leaving open how to model and evaluate style across domains, tasks and social contexts. These questions are also relevant to applications such as writing assistance, personalization and chatbots, where style also depends on humans’ subjective preferences. Studying linguistic style thus contributes both to understanding human language and to developing language technologies that support diverse needs.
 
 ### Data to Output: Diversity Across the NLP Pipeline
-**Time:** 11:00–12:30 (Session 6)  
-**Location:** G9-10  
+**Time:** 9:00–10:30 (Session 5)  
+**Location:** G11  
 **Organizer:** Cantao Su
 
 **Description:**  
