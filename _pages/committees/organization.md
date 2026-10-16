@@ -190,6 +190,29 @@ Contact: emnlp-2026-workshop-organisers@googlegroups.com
    picture="/assets/images/committee/default.jpg"
 %}
 
+<h2>Best Paper Award Chairs</h2>
+{% include committee-member.html
+   name="Ivan Titov"
+   institution="Edinburgh"
+   role="Best Paper Award Chairs"
+   site="https://ivan-titov.org/"
+   picture="/assets/images/committee/ititov.jpg"
+%}
+{% include committee-member.html
+   name="Luciana Benotti"
+   institution="Fundación Vía Libre"
+   role="Best Paper Award Chairs"
+   site="https://benotti.github.io/"
+   picture="/assets/images/committee/luciana_benotti.jpeg"
+%}
+{% include committee-member.html
+   name="Nancy Chen"
+   institution="Institute for Infocomm Research"
+   role="Best Paper Award Chairs"
+   site="https://sites.google.com/corp/site/nancyfchen/home"
+   picture="/assets/images/committee/nancy_chen.jpg"
+%}
+
 <h2>Sponsorship Chairs</h2>
 {% include committee-member.html
    name="Nikos Aletras"
