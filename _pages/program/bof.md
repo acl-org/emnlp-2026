@@ -56,7 +56,7 @@ This session directly connects to the EMNLP 2026 theme, New Missions for NLP Res
 
 ### ARR Editors-in-Chief Meet'n'Greet
 **Time:** 11:00–12:30 (Session 6)  
-**Location:** G9-10
+**Location:** G9-10  
 **Organizer:** Asad Sayeed
 
 **Description:**  
