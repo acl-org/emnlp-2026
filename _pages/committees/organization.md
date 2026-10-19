@@ -378,6 +378,13 @@ Contact: emnlp2026.workflowchair@gmail.com
    site="https://yatingwu.info"
    picture="/assets/images/committee/yating.jpg"
 %}
+{% include committee-member.html
+   name="Mike Zhang"
+   institution="University of Copenhagen"
+   role="Workflow Chairs"
+   site="https://jjzha.github.io/"
+   picture="/assets/images/committee/mike_zhang.jpg"
+%}
 
 <h2>Virtual Infrastructure Chairs</h2>
 {% include committee-member.html

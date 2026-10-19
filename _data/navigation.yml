@@ -122,10 +122,10 @@ visa:
     children:
       - title: "Visa"
         url: /visa/
-      # - title: "Underline and Whova"
-      #   url: /underline-whova/
       - title: "Poster Printing"
         url: /poster-printing/
+      - title: "Whova Event App"
+        url: /whova/
       # - title: "About Suzhou"
       #   url: /about-suzhou/
 
