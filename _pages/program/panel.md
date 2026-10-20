@@ -1,7 +1,7 @@
 ---
 title: Panel
 layout: single
-excerpt: "EMNLP 2025 Conference Overview"
+excerpt: "EMNLP 2026 Conference Overview"
 permalink: /program/panel/
 toc: true
 toc_sticky: true
@@ -10,48 +10,43 @@ sidebar:
     nav: program
 ---
 
-## Advancing our Reach: Do's, Don'ts and Lessons learned in Interdisciplinary Research
+## New Missions in NLP Research
 
-Large Language Models are a knowledge resource, but not a panacea. This panel brings disciplinary and interdisciplinary voices together to take a reflective look at the best work of this community represented at the 2025 conference and raise challenges to step forward in directions that strengthen our impact both within our community and more universally.
+Large language models have rapidly shifted from research prototypes to widely used infrastructure. This new reality is changing the center of gravity of NLP research, and progress can no longer be measured only by fractional improvements in benchmark scores. When strong general-purpose models are increasingly available through open releases and commercial platforms, the field faces a more foundational question: What are the missions of NLP research now, and what kinds of contributions most advance that mission?
+
+This panel will focus on EMNLP 2026's special theme to discuss and advance visions for NLP in this era.
 
 ## Date
-Thursday, November 6th, 15:00-16:00, Located in B301
+Sunday, October 25th, 14:00-15:30
 
 ## Panelists
 
-### Heng Ji
-![Heng Ji](/assets/images/keynotes/hengji.png){: .align-center .speaker-photo width="220"}
+### Dirk Hovy
+![Dirk Hovy](/assets/images/panelists/dirk_hovy.jpg){: .align-center .speaker-photo width="220"}
 
-**Bio**: Heng Ji is a Professor of Computer Science at Siebel School of Computing and Data Science, and a faculty member affiliated with Electrical and Computer Engineering Department, Coordinated Science Laboratory, and Carl R. Woese Institute for Genomic Biology of University of Illinois Urbana-Champaign. She is an Amazon Scholar. She is the Founding Director of Amazon-Illinois Center on AI for Interactive Conversational Experiences (AICE), and the Founding Director of CapitalOne-Illinois Center on AI Safety and Knowledge Systems (ASKS). She received Ph.D. in Computer Science from New York University. Her research interests focus on Natural Language Processing, especially on Multimedia Multilingual Information Extraction, Knowledge-enhanced Large Language Models and Vision-Language Models, AI for Science, and Science-inspired AI. The awards she received include Outstanding Paper Award at ACL2024, two Outstanding Paper Awards at NAACL2024, "Young Scientist" by the World Laureates Association in 2023 and 2024, "Young Scientist" and a member of the Global Future Council on the Future of Computing by the World Economic Forum in 2016 and 2017, "Women Leaders of Conversational AI" (Class of 2023) by Project Voice, "AI's 10 to Watch" Award by IEEE Intelligent Systems in 2013, NSF CAREER award in 2009, PACLIC2012 Best paper runner-up, "Best of ICDM2013" paper award, "Best of SDM2013" paper award, ACL2018 Best Demo paper nomination, ACL2020 Best Demo Paper Award, NAACL2021 Best Demo Paper Award, Google Research Award in 2009 and 2014, IBM Watson Faculty Award in 2012 and 2014 and Bosch Research Award in 2014-2018. She has coordinated the NIST TAC Knowledge Base Population task 2010-2020. She served as the associate editor for IEEE/ACM Transaction on Audio, Speech, and Language Processing, and the Program Committee Co-Chair of many conferences including NAACL-HLT2018 and AACL-IJCNLP2022. She was elected as the North American Chapter of the Association for Computational Linguistics (NAACL) secretary 2020-2023.
-
----
-
-### Jana Diesner
-![Jana Diesner](/assets/images/keynotes/jana.png){: .align-center .speaker-photo width="220"}
-
-**Bio**: Jana Diesner is a Full Professor at the Technical University of Munich, School of Social Science and Technology, with a joint appointment at the School of Computation, Information and Technology. She leads the Human-Centered Computing group. Her group works on methods from network science, natural language processing, machine learning, and AI, and integrates them with theories from the social sciences and humanities to advance our understanding of theories and patterns of complex societal systems. Their work also considers cultural contexts and ethical concerns to advance responsibility in computational sciences. Before joining TUM in 2024, Jana was a tenured professor at the University of Illinois Urbana Champaign. School of Information Sciences. She earned her Ph.D. at Carnegie Mellon, School of Computer Science.
+**Bio**: Dirk Hovy is a Professor in the Computing Sciences Department of Bocconi University in Milan, where he co-leads the MilaNLP lab. He is also the scientific director of the Data and Marketing Insights research unit.
+He is interested in what computers can tell us about language and what language can tell us about society. That includes questions of bias and algorithmic fairness in machine learning.
+He has authored over 150 articles on these topics, including 3 best and one outstanding paper awards, and has also published two textbooks on text processing in Python for social scientists.
+He has co-founded and organized several workshops (on computational social science, and ethics in NLP), and was a local organizer for EMNLP 2017 and general chair for EMNLP 2025.
 
 ---
 
-### Hannaneh Hajishirzi
-![Hannaneh Hajishirzi](/assets/images/keynotes/hanna.png){: .align-center .speaker-photo width="220"}
+### Lillian Lee
+![Lillian Lee](/assets/images/committee/default.jpg){: .align-center .speaker-photo width="220"}
 
-**Bio**: [Hanna Hajishirzi](https://hannaneh.ai/) is a Professor of Computer Science at the University of Washington and a Senior Director of AI at AI2. Her research spans generative AI and natural language processing, with a focus on building pioneering, open-science AI solutions. She co-leads the OLMo and Tulu projects, advancing fully open language and reasoning models to accelerate the science of AI, empower the research community, and champion openness as a driver of innovation. These models have been downloaded more than 10 million times as of 2025 and were recognized with GeekWire's Innovation of the Year award. She is a co-PI of a $152M NSF- and NVIDIA-supported grant to develop the next generation of open multimodal models. 
-She is a recipient of the Sloan Fellowship (2021), the Uncommon Thinker Award (2025), the NSF CAREER Award (2021), Torode family Career development professorship (2022), the Allen Distinguished Investigator Award (2014), the UIUC Alumni Award (2024), and was a finalist for the VentureBeat Women in AI Award (2024, 2025). Her research has earned recognition at leading venues, with papers receiving or being finalists for awards at ACL 2025, CVPR 2025, ACL 2024 (Best Paper and Best Resource Paper), CVPR 2022, AKBC 2020, and SIGDIAL 2012.
+**Bio**: Lillian Lee is the Charles Roy Davis professor of computer science at Cornell University. Her research interests include natural language processing and computational social science. She is a AAAI Fellow, an ACL Fellow, and an ACM Fellow. She is a recipient of best paper awards at ACL 2023 (joint with Jack Hessel, Ana Marasović, Jena Hwang, Jeff Da, Rowan Zellers, Bob Mankoff, and Yejin Choi, one of three awarded), NAACL 2004 (joint with Regina Barzilay, inaugural, one awarded), and the IJCAI 2016 "Natural Language Processing Meets Journalism" workshop (joint with Liye Fu and Cristian Danescu-Niculescu-Mizil, one awarded); Test of Time awards from NAACL 2018 for a paper between 2002-2012 (joint with Bo Pang, inaugural, one of three awarded) and ACL 2024 for 25 years (one awarded); and the ACL 2021 Distinguished Service Award for her work with TACL. Her co-authored work has received several mentions in the popular press, including The New York Times, NPR's All Things Considered, and NBC's The Today Show; and one of her co-authored papers on the memorability of movie quotes was publicly called "boring" by YouTube channel Good Mythical Morning in a video viewed over 2.7 million times.
 
 ---
 
-### Iryna Gurevych
-![Iryna Gurevych](https://raw.githubusercontent.com/acl-org/emnlp-2025/main/assets/images/keynotes/gurevych.png){: .align-center .speaker-photo}
+### Mor Geva
+![Mor Geva](/assets/images/panelists/mor_geva.jpg){: .align-center .speaker-photo width="220"}
+
+**Bio**: Mor Geva is an Assistant Professor at the School of Computer Science and AI at Tel Aviv University. Her research focuses on understanding the inner workings of large language models to increase their transparency, control their behavior, and improve their reasoning abilities. Mor completed a Ph.D. in Computer Science at Tel Aviv University, was a postdoctoral researcher at Google DeepMind and the Allen Institute for AI, and worked as a Research Scientist at Google Research. She is a recipient of Intel's Rising Star Faculty Award (2024), the Alon Scholarship for Outstanding Faculty (2024), EMNLP Best Paper Award (2024), EACL Outstanding Paper Award (2023), MIT Rising Star in EECS nomination (2021), and the Dan David Prize for Graduate Students in the field of AI (2020).
+
+---
+
+### Raymond J. Mooney
+![Raymond J. Mooney](/assets/images/panelists/raymond_mooney.jpg){: .align-center .speaker-photo width="220"}
 
 **Bio**: Iryna Gurevych is a Professor at the Technical University of Darmstadt in Germany, with appointments at MBZUAI and INSAIT.  Her recent research emphasizes real world impact in Language Understanding, AI Safety, and Expert-AI Cooperation.  She served as President of ACL in 2023 and has been a fellow of the ACL since 2020.  She is also an ELLIS Fellow, the first ATHENE Distinguished Professor of Cybersecurity and holds a LOEWE Chair of Excellence.
 
----
-
-### Junyang Lin
-![Junyang Lin](https://raw.githubusercontent.com/acl-org/emnlp-2025/main/assets/images/keynotes/junyang.png){: .align-center .speaker-photo}
-
-**Bio**: Junyang Lin is the Tech Lead of the Qwen Team at Alibaba Group.  His research focuses on Large foundation models, generative models, coding models, and reasoning.  . He is responsible for building Qwen, the large language model and multimodal model series.  He is also in charge of the opensource version of the models.  Previously, he did research in large scale pretraining and multimodal pretraining and led the development of OFA, Chinese-CLIP, M6, etc.
-
-## Moderator
-Carolyn Rose Carnegie Mellon University (CMU)
