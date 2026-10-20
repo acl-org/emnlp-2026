@@ -223,7 +223,7 @@ Click on the .pdf [Here](https://2026.emnlp.org/assets/images/sponsors/EMNLP 202
 
 ## Poster Printing
 
-See poster printing information [here](#).
+See poster printing information [here](https://2026.emnlp.org/poster-printing/).
 
 ---
 
