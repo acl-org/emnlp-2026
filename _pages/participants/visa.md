@@ -11,6 +11,15 @@ toc_sticky: True
 **Daylight saving time ends on Sunday, October 25, 2026.**<br>
 Time change:  At 3:00:00 am, clocks are turned backward 1 hour to 2:00:00 am.
 
+The deadline to make presentation changes has passed.
+If you are unable to present your paper, your are encouraged to find someone to present in your place.
+
+**Presenters:**<br>
+For a list of complete guides, please click on one of the following links.<br>
+Folder: [https://drive.google.com/drive/folders/11xe-4gcvo_Za0EX2iUWGDzjx5Xr1BQ9a?usp=sharing](https://drive.google.com/drive/folders/11xe-4gcvo_Za0EX2iUWGDzjx5Xr1BQ9a?usp=sharing)<br>
+OR<br>
+Event page helpdesk: [https://underline.io/events/535/help-desk](https://underline.io/events/535/help-desk)
+
 # Visa
 
 ## Who does NOT need a visa?
