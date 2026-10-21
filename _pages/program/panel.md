@@ -48,5 +48,5 @@ He has co-founded and organized several workshops (on computational social scien
 ### Raymond J. Mooney
 ![Raymond J. Mooney](/assets/images/panelists/raymond_mooney.jpg){: .align-center .speaker-photo width="220"}
 
-**Bio**: Iryna Gurevych is a Professor at the Technical University of Darmstadt in Germany, with appointments at MBZUAI and INSAIT.  Her recent research emphasizes real world impact in Language Understanding, AI Safety, and Expert-AI Cooperation.  She served as President of ACL in 2023 and has been a fellow of the ACL since 2020.  She is also an ELLIS Fellow, the first ATHENE Distinguished Professor of Cybersecurity and holds a LOEWE Chair of Excellence.
+**Bio**: Raymond J. Mooney is a Professor Emiritus in the Department of Computer Science at the University of Texas at Austin. He received his Ph.D. in 1988 from the University of Illinois at Urbana/Champaign. He is an author of over 200 published research papers, primarily in the areas of machine learning and natural language processing. He was the President of the International Machine Learning Society from 2008-2011, program co-chair for AAAI 2006, general chair for HLT-EMNLP 2005, and co-chair for ICML 1990. He is a Fellow of AAAI, ACM, and ACL and the recipient of the Classic Paper award from AAAI-19 and best paper awards from AAAI-96, KDD-04, ICML-05 and ACL-07.
 
