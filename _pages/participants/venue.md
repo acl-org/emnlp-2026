@@ -350,8 +350,8 @@ Budapest also has a strong fine-dining and Michelin scene if you want a standout
 
 ### Transportation to the Venue
 
-- **Metro:** The easiest way to reach Hungexpo by public transportation is via the Budapest Metro M2 (Red Line) to Örs vezér tere Station. From the station, attendees may board the complimentary EMNLP shuttle or enjoy a short walk to the venue. For metro routes, schedules, and fares, visit the Budapest Transport Centre (BKK) website: <https://bkk.hu/en/>
-- **Complimentary EMNLP Shuttle:** A complimentary EMNLP shuttle will operate between Örs vezér tere Metro Station (M2 – Red Line) and the Hungexpo. A detailed shuttle schedule will be posted closer to the conference.
+- **Metro:** The easiest way to reach Hungexpo by public transportation is via the Budapest Metro M2 (Red Line) to Örs vezér tere Station. For the latest transportation information and schedule to the Hungexpo click [HERE](https://2026.emnlp.org/assets/images/EMNLP_2026_Website_Travel_Guide_12pt_FINAL.pdf).
+- For metro routes, schedules, and fares, visit the Budapest Transport Centre (BKK) website: <https://bkk.hu/en/>
 - **Uber & Taxi:** Uber, Bolt, licensed taxis, and other rideshare services are readily available throughout Budapest. Recommended drop-off location: Hungexpo Budapest Congress Center – Gate III (Gate 3).
 
 ### General Transportation Information
