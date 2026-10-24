@@ -22,13 +22,12 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 
 Sunday, October, 25 09:30 - 10:30
 
-**Title:** Towards AI that understands the Real World.
+**Title:** A Tale of Two Objectives: Past, Present and Future of NLP
 
 **Abstract:**
-Recent advances in AI have been driven by large-scale generative models with impressive capabilities in language, code, and digital tasks. Yet these systems still have a limited understanding of the physical world, human intentions, and real-world context.
-In this talk, Pascale Fung will discuss the next frontier of AI: world models.
-World models allow AI systems to learn abstract representations of the world from continuous multimodal data, enabling reasoning, planning, memory, and action beyond next-token prediction. Moving toward real-world AI agents requires modeling not only the physical world, but also the mental world - including intent, attention, goals, and social context.
-The future of AI will depend on systems that can understand, adapt, and collaborate in the real world, safely and reliably.
+From its founding as the Association for Machine Translation and Computational Linguistics, our field has pursued two goals. One is scientific: using computers to understand human language and, through it, human intelligence. The other is engineering: building systems that translate, recognize speech, summarize and converse. For sixty years the two advanced together. In the symbolic era, linguistic theory produced systems. In the empirical era, which gave rise to EMNLP, corpus statistics both powered systems and revealed how language works. Deep learning moved linguistic knowledge from researchers' heads into model weights. Large language models have now absorbed most language tasks into a single system. This is an extraordinary success for the engineering goal, and it is why the scientific goal is at risk: understanding no longer comes for free as a by-product of building.
+
+This talk traces that history and proposes two goals for the field's next chapter. The first is the linguistics of LLMs: a science of machine understanding, grounded in falsifiable hypotheses and controlled experiments, that explains what these models represent, how they generalize and where they fail. The second is linguistics with LLMs: using models as instruments to revisit long-standing questions about human language, including learnability, embodiment, grounding and linguistic diversity. Both lead to a shared frontier, world models of the physical and mental world. The talk closes with concrete changes the community can make so that understanding keeps pace with building.
 
 **Bio**: Pascale Fung’s long term research background is in multimodal interactive systems including audio, speech, text and video. She started research on world modeling after studying the limitation of generative models due to hallucinations. She is the Co-founder and Chief Research & Innovation Officer at AMI Labs. She was previously the Senior Director of AI Research at Meta-FAIR, leading research on embodied AI agents. She is also a Chair Professor of ECE at The Hong Kong University of Science & Technology (HKUST). She is a Fellow of the ACL, AAAI, IEEE, and ISCA for her significant contribution to human-machine interactions.
 
