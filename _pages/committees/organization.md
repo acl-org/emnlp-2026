@@ -175,6 +175,12 @@ Contact: emnlp-2026-workshop-organisers@googlegroups.com
    role="Workshop Chairs"
    picture="/assets/images/committee/default.jpg"
 %}
+{% include committee-member.html
+   name="George Filandrianos"
+   institution="National Technical University of Athens-NTUA"
+   role="Workshop Chairs"
+   picture="/assets/images/committee/default.jpg"
+%}
 
 <h2>Tutorial Chairs</h2>
 {% include committee-member.html
