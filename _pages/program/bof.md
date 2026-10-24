@@ -116,6 +116,36 @@ The New Missions for NLP Research theme asks, among others, how to measure progr
 
 ## Tuesday, October 27, 2026
 
+### Efficient and Explainable Authorship Verification
+**Time:** 09:00–10:30 (Session 10)  
+**Location:** G11  
+**Organizers:** Christoph Leiter, Steffen Eger
+
+**Description:**  
+Authorship verification, the task of determining whether two texts were written by the same author, is relevant to applications such as forensic analysis, plagiarism detection, and the study of online and historical texts. Recent approaches increasingly rely on large language models, raising concerns around computational cost, privacy, and transparency. In this BoF, we want to discuss challenges and possible solutions towards more efficient and explainable authorship verification, while connecting researchers interested in the field. The minute session will include a short introduction, group discussions, and a final plenary discussion to identify common themes, open questions, and opportunities for collaboration.
+
+The BoF connects with the EMNLP theme by reconsidering how progress in authorship verification should be measured beyond benchmark performance. By focusing on efficiency and explainability, its aim is to foster discussion around novel approaches and evaluation criteria for authorship verification.
+
+### Symbolic and Trustworthy Reasoning Across Language and Vision
+**Time:** 09:00–10:30 (Session 10)  
+**Location:** G12  
+**Organizer:** Shreya Rajpal
+
+**Description:**  
+AI models can produce correct answers even when the reasoning behind them is incomplete, unsupported, or unreliable. As these models are increasingly used in real-world and sensitive applications, an important question is not only whether an answer is correct, but whether it is supported by reasoning that can be trusted and verified.  Symbolic and structured reasoning methods can help make this reasoning easier to inspect and verify. These methods include rules, constraints, programs, graphs, knowledge bases, and other explicit representations. This Birds-of-a-Feather session will explore how such approaches can support trustworthy reasoning across language, vision, and multimodal systems. It will also examine how their role and implications differ across modalities. We plan to invite senior researchers working in these areas to participate in a panel discussion and help identify open challenges and promising research directions. Through this discussion, we hope participants will gain concrete ideas for how symbolic and structured methods can be used to make reasoning more explicit, inspectable, and verifiable in their own work.  We welcome researchers working on vision and language reasoning, neuro-symbolic methods, structured reasoning, trustworthiness, robustness, and related areas. We also welcome work in application domains such as spatial reasoning, legal reasoning, and scientific reasoning. The session will focus on common failure modes, evaluation challenges, and opportunities for building reasoning systems that are more reliable, interpretable, and verifiable.
+
+The session connects directly to the EMNLP 2026 theme, “New Missions for NLP Research.” NLP is rapidly moving toward more capable models, with advances being made in scaling data, training, post-training, and reasoning methods. At the same time, increasingly complex systems use language model judgments to call tools, coordinate agents, and combine multiple models. Even evaluation is becoming increasingly automated through approaches such as LLM-as-a-Judge.  As these systems are also being deployed in high-stakes and sensitive domains such as scientific and legal applications, it is important to ask not only how we can improve and scale their capabilities, but also how we can verify the reasoning behind their outputs and make it more trustworthy and reliable.  One important direction for addressing these questions is the use of symbolic and structured reasoning methods to make model reasoning more explicit, inspectable, and verifiable. These methods provide mechanisms for representing constraints, structuring intermediate reasoning, and supporting verification. This session will bring together researchers to discuss how these approaches can complement current language and multimodal systems and support trustworthy reasoning. We hope the discussion will help participants identify concrete ways to use symbolic and structured methods in their own work. The session will also explore how these approaches can be evaluated across modalities and application domains such as spatial, legal, and scientific reasoning.
+
+### ArabicNLP
+**Time:** 11:00–12:30 (Session 11)  
+**Location:** G9-10  
+**Organizers:** Salam Khalifa, Samar Magdy
+
+**Description:**  
+The ArabicNLP BoF is for anyone who is interested in Arabic-centered NLP and related topics and applications. The session will discuss the latest trends and challenges, as well as networking opportunities with the larger ArabicNLP community.
+
+We will make EMNLP 2026’s theme a central question of the BoF: as general-purpose models become widely available, what should Arabic NLP research prioritize, from dialect coverage and responsible data creation to evaluation that reflects the needs of Arabic-speaking communities
+
 ### Queer in AI
 **Event:** Affinity group lunch (Day 3)  
 **Time:** 12:30–14:00  
