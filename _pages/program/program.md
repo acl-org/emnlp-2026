@@ -10,6 +10,8 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
+Access the digital conference handbook [Here](https://drive.google.com/file/d/1UGPjD7jPfax0RVaZPcb1gZhCUhK4v3ti/view?usp=drive_link).
+
 For the detailed program, please check [here](https://docs.google.com/spreadsheets/d/1aXGTy_7Xeh-OXIs3iJSbDpUsZ6YhbfA76b17kBZH0Yk/edit?gid=943432490#gid=943432490). 
 
 Presenters, please click [Here](https://2026.emnlp.org/visa/) for information.
