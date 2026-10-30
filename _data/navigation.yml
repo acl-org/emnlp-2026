@@ -92,10 +92,7 @@ program:
   #       url: /program/cl_papers/
   #     - title: "TACL Papers"
   #       url: /program/tacl_papers/
-  # - title: Awards
-  #   children:
-  #     - title: "Awards"
-  #       url: /program/awards/
+
   - title: Events
     children:
       - title: "Keynotes"
@@ -108,6 +105,17 @@ program:
         url: /program/welcome_reception/
       - title: "Social Event"
         url: /program/events/
+
+  - title: Awards
+    children:
+      - title: "Best Paper"
+        url: /program/awards_papers/
+      - title: "Outstanding Reviewers"
+        url: /program/awards_reviewers/
+      - title: "Outstanding Area Chairs"
+        url: /program/awards_acs/
+      - title: "Outstanding Senior Area Chairs"
+        url: /program/awards_sacs/
 
 committees:
   - title: Committees
